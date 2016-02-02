@@ -1,0 +1,9127 @@
+authors,citations
+Won Kim,115
+Won Kim,5
+Hanan Samet,3253
+Won Kim,558
+David Maier,57
+Oscar Nierstrasz,186
+Michael Stonebraker,0
+Michael Stonebraker,34
+Michael Stonebraker,0
+Leslie Lamport,379
+Leslie Lamport,3
+Donald E. Knuth,5
+Michael Stonebraker,113
+David E. Goldberg,48160
+Donald E. Knuth,110
+Donald E. Knuth,25
+Donald E. Knuth,2
+Hanan Samet,2992
+Luca Cardelli,436
+John A. Stankovic,90
+Jonathan Grudin,23
+Sushil Jajodia,53
+Nadia Magnenat-Thalmann;Daniel Thalmann,28
+Rajeev Motwani;Prabhakar Raghavan,4248
+Judea Pearl,44
+Dennis Shasha,2
+David Maier,1689
+Christos H. Papadimitriou,517
+Jeffrey D. Ullman,8
+Jeffrey D. Ullman,8
+Rajeev Motwani;Prabhakar Raghavan,4453
+Gerhard Weikum,4
+Zbigniew Michalewicz,73
+Frank Pfenning,165
+Wolfram Burgard,2
+Alfred V. Aho,2
+E. Allen Emerson,3324
+David S. Johnson,659
+Robin Milner,354
+Ronald L. Rivest,109
+Gonzalo Navarro,2
+John A. Stankovic;Krithi Ramamritham,118
+Christian S. Jensen,25
+Yiyu Yao,11
+Raghu Ramakrishnan,1749
+Gio Wiederhold,0
+Gio Wiederhold,501
+Gio Wiederhold,95
+David Heckerman,195
+Frank Pfenning,34
+Andrew Blake;Andrew Zisserman,2147
+Won Kim,695
+Elisa Bertino,45
+David J. DeWitt,162
+David J. DeWitt,162
+Jim Gray,24
+Tomasz Imielinski,107
+Vladimir Lifschitz,135
+Yehoshua Sagiv,229
+Christian S. Jensen,28
+Jennifer Widom,31
+Serge Abiteboul;Peter Buneman;Dan Suciu,1717
+Jim Gray,2
+Jim Gray,2
+V. S. Subrahmanian,275
+Christos Faloutsos,103
+H. V. Jagadish,13
+Rakesh Agrawal;Michael J. Carey;Miron Livny,451
+Michael J. Carey;Miron Livny,182
+Philip S. Yu,2
+Hector Garcia-Molina;Jeffrey D. Ullman;Jennifer Widom,575
+Dennis Shasha,3
+Andrew S. Tanenbaum,104
+Andrew S. Tanenbaum,2981
+Jeffrey D. Ullman;Jennifer Widom,516
+Christos Faloutsos,22
+Pankaj K. Agarwal;Micha Sharir,12
+Edmund M. Clarke;Somesh Jha,16
+David Harel,25
+Mary Shaw;David Garlan,133
+Moshe Y. Vardi,93
+Haixun Wang;Philip S. Yu;Jiawei Han,2
+Michael Stonebraker,62
+Gio Wiederhold,172
+Thorsten Joachims,104
+Umeshwar Dayal,79
+Won Kim,38
+H. V. Jagadish,15
+Amir Pnueli,504
+Craig Boutilier,15
+Roberto Cipolla,57
+Beng Chin Ooi,117
+Jean-Yves Le Boudec;Patrick Thiran,1193
+Dieter Fensel,25
+Donald E. Knuth,136
+Donald E. Knuth,28
+David Harel,6
+Robin Milner,5061
+Birgit Pfitzmann,78
+Steffen Staab,22
+Steffen Staab;Rudi Studer,934
+Ion Stoica,96
+Rudi Studer,3
+V. S. Subrahmanian;Sushil Jajodia,68
+Madhu Sudan,112
+Niklaus Wirth,1362
+Niklaus Wirth,35
+Jan Mendling,136
+Bing Liu,714
+Kurt Mehlhorn,44
+Niklaus Wirth,101
+Lance Fortnow,16
+Katsushi Ikeuchi,70
+Marc Levoy,1349
+Demetri Terzopoulos,4
+Ming Li,1
+John M. Carroll,26
+Thomas P. Moran,31
+Mary Beth Rosson;John M. Carroll,12
+Tuomas Sandholm,68
+Rachid Guerraoui;Michel Raynal,4
+Michael Cohen,1
+Michael Cohen,1
+Yiyu Yao,5
+David A. Patterson,0
+Michael J. Carey,2
+Jie Wu,5
+Craig Boutilier,7
+Craig Boutilier,152
+Craig Boutilier,47
+Craig Boutilier,57
+Craig Boutilier,21
+Craig Boutilier;Nir Friedman;Joseph Y. Halpern,44
+Craig Boutilier;David Poole,196
+Andrew Blake,34
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini,142
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini,59
+William W. Cohen,41
+William W. Cohen,25
+William W. Cohen,52
+William W. Cohen,33
+William W. Cohen,301
+William W. Cohen,67
+William W. Cohen;Yoram Singer,311
+Adnan Darwiche,74
+Adnan Darwiche,9
+Adnan Darwiche;Judea Pearl,59
+Rina Dechter,68
+Rina Dechter,56
+Rina Dechter;Judea Pearl,11
+Rina Dechter;Judea Pearl,83
+Pedro Domingos,105
+Pedro Domingos,1
+Pedro Domingos,3
+Pedro Domingos,2
+Pedro Domingos,1
+Pedro Domingos,7
+Didier Dubois;Henri Prade,50
+Charles Elkan,44
+Charles Elkan,132
+Oren Etzioni,65
+Oren Etzioni,38
+Oren Etzioni,136
+Ronald Fagin;Joseph Y. Halpern;Moshe Y. Vardi,23
+Steven Feiner;Kathleen McKeown,147
+Steven Feiner;Kathleen McKeown,232
+Nir Friedman;Joseph Y. Halpern,32
+Nir Friedman;Joseph Y. Halpern,84
+Nir Friedman;Joseph Y. Halpern;Daphne Koller,9
+Giuseppe De Giacomo;Maurizio Lenzerini,158
+C. Lee Giles;Steve Lawrence,6
+Anoop Gupta;Milind Tambe,38
+Joseph Y. Halpern,37
+Joseph Y. Halpern,77
+Joseph Y. Halpern;Ronald Fagin,211
+David Haussler,213
+David Haussler,85
+David Heckerman;Eric Horvitz,51
+Geoffrey E. Hinton,5
+Eric Horvitz,211
+Eric Horvitz,32
+Kevin Knight,18
+Kevin Knight;Daniel Marcu,269
+Philipp Koehn;Kevin Knight,66
+Daphne Koller,7
+Daphne Koller;Joseph Y. Halpern,13
+Benjamin Kuipers,15
+Benjamin Kuipers,25
+Benjamin Kuipers,28
+Benjamin Kuipers,114
+Vipin Kumar,14
+Michael L. Littman,117
+Michael L. Littman,35
+Vladimir Lifschitz,2
+Vladimir Lifschitz,38
+Vladimir Lifschitz,39
+Bing Liu;Wynne Hsu,156
+Daniel Marcu,105
+Daniel Marcu,62
+Kathleen McKeown,17
+Kathleen McKeown,7
+Wolfgang Nejdl,19
+Martha Stone Palmer,16
+Judea Pearl,23
+Judea Pearl,355
+Judea Pearl,11
+Judea Pearl,56
+Alex Pentland,9
+Alex Pentland,116
+Alex Pentland,11
+Alex Pentland,3
+Raymond Reiter,93
+Steven Salzberg,7
+Tuomas Sandholm,12
+Dan Roth,195
+Tuomas Sandholm,537
+Tuomas Sandholm,5
+Tuomas Sandholm,283
+Tuomas Sandholm;Subhash Suri,137
+Herbert A. Simon,1
+Richard S. Sutton,112
+Richard Szeliski,22
+Milind Tambe,110
+Demetri Terzopoulos,17
+Sebastian Thrun;Dieter Fox;Wolfram Burgard,153
+Jeffrey D. Ullman,12
+Daniel S. Weld,51
+Michael P. Wellman,28
+Michael P. Wellman,19
+Michael P. Wellman,62
+Michael P. Wellman,137
+Michael P. Wellman,1
+Toby Walsh,22
+Toby Walsh,41
+Michael Wooldridge,28
+Ming-Hsuan Yang,39
+Toby Walsh,50
+David Poole,13
+Joseph Y. Halpern,2
+Vladimir Lifschitz,79
+Toby Walsh,27
+Jacques Stern,2
+Madhu Sudan,17
+Tuomas Sandholm,68
+Mihir Bellare,118
+Monica S. Lam,1
+Ivan Damgård,50
+Zoubin Ghahramani,98
+Jim Gray,3
+Rachid Guerraoui,0
+Leslie Lamport,65
+Barbara Liskov,24
+Barbara Liskov,111
+Robin Milner,58
+Lawrence C. Paulson,26
+Bart Preneel,7
+Bart Preneel,41
+Bart Preneel,75
+Robbert van Renesse,54
+Joseph Sifakis,132
+Amin Vahdat,1
+Niklaus Wirth,97
+Ron Kimmel,13
+Amnon Shashua,4
+HongJiang Zhang,5
+Zhengyou Zhang,45
+Zhengyou Zhang,14
+Zhengyou Zhang,3
+Justin Zobel,32
+Philipp Koehn;Kevin Knight,75
+Kathleen McKeown,47
+Daniel Marcu,74
+Daniel Marcu,456
+Daniel Marcu,72
+Fernando C. N. Pereira,70
+Fernando C. N. Pereira,12
+Gerard Salton,38
+Ben Shneiderman,27
+Rajiv Gupta;Mary Lou Soffa,4
+Mary Jane Irwin,7
+Mary Shaw,1
+John A. Stankovic,93
+Terry Winograd,0
+Alex Pentland,0
+Leslie Lamport,2
+Robin Milner,3
+Robin Milner,1
+Jeffrey D. Ullman,2
+Jeff Kramer,1
+Alan Burns,10
+Hanan Samet,4
+Jim Gray,4
+Heikki Mannila,3
+Heikki Mannila,3
+Tomasz Imielinski,14
+Raymond Reiter,1495
+Raymond Reiter,185
+Raymond Reiter,19
+Justin Zobel,0
+Krithi Ramamritham,2
+Mani B. Srivastava,0
+B. S. Manjunath,6
+Tobias Nipkow,1
+Tobias Nipkow,13
+Fred Glover,470
+Ben Shneiderman,17
+Barbara Liskov,6
+Simon S. Lam;Leonard Kleinrock,18
+David Lowe,5
+Matthias Felleisen,7
+Philip Wadler,17
+Philip Wadler,360
+Amnon Shashua,75
+William W. Cohen,88
+Tuomas Sandholm,0
+Daniel S. Weld,4
+Serge Abiteboul;Victor Vianu,25
+Dale Miller,7
+V. S. Subrahmanian,3
+Jie Wu;Karl Aberer,20
+Peter Brusilovsky,8
+John Riedl,8
+Charles Elkan,1
+Amnon Shashua,45
+Manfred K. Warmuth,38
+William W. Cohen,2
+Steven Salzberg,11
+Marco Dorigo,23
+Giuseppe De Giacomo;Maurizio Lenzerini,107
+Frank van Harmelen,10
+Russell H. Taylor,20
+Enrico Motta,1
+Michel Raynal,7
+Erol Gelenbe,18
+Rina Dechter,17
+Daniel S. Weld,18
+Raouf Boutaba,13
+Yorick Wilks,8
+Riccardo Poli,83
+Riccardo Poli,9
+Roger Wattenhofer,0
+Dale Miller,1
+Andrew Y. Ng,6
+Shun-ichi Amari,32
+Pedro Domingos,2
+Thomas Eiter,10
+David Haussler,14
+Robert E. Schapire,141
+Ben Shneiderman,114
+Padhraic Smyth,0
+Avrim Blum,1
+Heikki Mannila,2
+Boi Faltings,4
+Daniela Rus,2
+Neil D. Jones,7
+Dale Miller,10
+Rajeev Alur,42
+Boi Faltings,40
+Takeo Kanade,6
+Marco Dorigo,4
+Takeo Kanade,0
+Philipp Koehn,529
+Eleazar Eskin,31
+Mostafa H. Ammar,10
+Rajkumar Buyya,19
+Dan Boneh,610
+John A. Stankovic,1
+Franco Zambonelli,24
+Ronald Fagin,0
+Thomas A. Henzinger,0
+Gul Agha,14
+Edmund M. Clarke,14
+Thomas A. Henzinger,2
+Marco Ajmone Marsan,203
+Robin Milner,3
+Joseph Sifakis,1
+Gustavo Alonso,2
+Aravind Srinivasan,20
+Kwan-Liu Ma,8
+Thomas Ertl,1
+Kwan-Liu Ma,17
+Karl Aberer;Jie Wu,26
+Wei-Ying Ma,2
+Umeshwar Dayal,32
+Krithi Ramamritham,1
+Moshe Y. Vardi,51
+Jan Camenisch,58
+Jan Camenisch;Ivan Damgård,147
+Eli Biham,54
+Markus Jakobsson;Ari Juels,212
+Markus Jakobsson;Ari Juels,5
+Ronald L. Rivest,21
+Ronald L. Rivest,2
+Adi Shamir,16
+Ran Canetti,19
+Jacques Stern,5
+Jacques Stern,8
+David Wagner,6
+Nicholas Ayache,11
+Prabhakar Raghavan,1
+Vladimir Lifschitz,0
+Jan M. Rabaey,40
+Jan M. Rabaey,9
+Massoud Pedram,53
+Jan M. Rabaey,8
+Deborah Estrin,8
+Rajiv Gupta,146
+Brad Calder;Dirk Grunwald,116
+Niklaus Wirth,16
+Alex Pentland,5
+Thomas S. Huang,0
+Daphne Koller,2
+Michael L. Littman;Peter Stone,59
+Michael Wooldridge,24
+Michael Wooldridge,21
+Michael Wooldridge,35
+Demetri Terzopoulos,3
+Toby Walsh,23
+Rajeev Alur,0
+Thomas Ball,2
+Saul Greenberg,13
+Didier Dubois,0
+Toby Walsh,2
+Kurt Mehlhorn,74
+Steven Feiner,7
+Stuart K. Card,3
+Alberto O. Mendelzon,19
+Daniel Thalmann,15
+Prabhakar Raghavan,3
+C. Lee Giles,6
+Amotz Bar-Noy;Danny Dolev,20
+Mihalis Yannakakis,11
+E. Allen Emerson,131
+Moshe Y. Vardi,497
+Burkhard Rost,8
+John M. Carroll,1
+Serge Abiteboul,0
+Serge Abiteboul,3
+Boualem Benatallah,5
+Michael Stonebraker,0
+Gerhard Weikum,0
+Simon S. Lam,9
+Hector Garcia-Molina,38
+Hector Garcia-Molina,9
+Michael Stonebraker,1
+Michael Stonebraker,2
+Michael Stonebraker,404
+Limsoon Wong,28
+Karl Aberer;Jie Wu,7
+Serge Abiteboul;Victor Vianu,26
+Rajeev Alur,7
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini,98
+Oded Goldreich,52
+Oded Goldreich,16
+Oded Goldreich,4
+Neil D. Jones,56
+Donald E. Knuth,6
+Jeffrey F. Naughton;Raghu Ramakrishnan,38
+Robin Milner,2
+Robin Milner,1
+Christos H. Papadimitriou,1
+Amir Pnueli,7
+Jeffrey D. Ullman,9
+Moshe Y. Vardi,8
+Niklaus Wirth,42
+Carlo Zaniolo,11
+Lawrence C. Paulson,42
+Moshe Y. Vardi,5
+Richard Szeliski,31
+Hector Garcia-Molina,1
+Carlo Zaniolo,22
+Philip A. Bernstein,104
+Jim Gray,17
+Frank Leymann,144
+Frank Leymann,176
+Gerhard Weikum,43
+Christian S. Jensen,6
+Jim Gray,3
+Dieter Fensel,1
+Douglas C. Schmidt,5
+Douglas C. Schmidt,248
+Andrew Blake,3
+Steven Feiner,2
+Nadia Magnenat-Thalmann;Daniel Thalmann,13
+David Peleg,1
+Zvi Galil,271
+Ronald Fagin,38
+Robin Milner,190
+Tobias Nipkow,9
+Jens Palsberg,21
+Frank Pfenning,65
+Adnan Darwiche,1
+Edmund M. Clarke,2
+Georg Gottlob,2
+Ian Horrocks,61
+Neil D. Jones,1
+Dale Miller,8
+Dale Miller,47
+Tobias Nipkow,36
+Tobias Nipkow;Lawrence C. Paulson,59
+Lawrence C. Paulson,6
+Lawrence C. Paulson,6
+Lawrence C. Paulson,29
+Lawrence C. Paulson,87
+Frank Pfenning,29
+Frank Pfenning,23
+Frank Pfenning,10
+Ulrike Sattler;Moshe Y. Vardi,87
+Moshe Y. Vardi,43
+V. S. Subrahmanian,11
+Toby Walsh,16
+Tobias Nipkow,23
+Judea Pearl,52
+Balakrishnan Chandrasekaran,40
+Zhengyou Zhang,2
+Zhengyou Zhang,8
+Serge Abiteboul,31
+Diego Calvanese,1
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini,8
+Frank Leymann,26
+Peter Steenkiste,28
+Maurice Herlihy,40
+Pascal Fua,30
+Josep Domingo-Ferrer,38
+Jean-Jacques Quisquater,0
+Margaret Martonosi,2
+Jens Palsberg,10
+Rajeev Alur,482
+Rajeev Alur;Thomas A. Henzinger,45
+Robert K. Brayton,0
+Patrice Godefroid,358
+Patrice Godefroid,59
+Patrice Godefroid;Pierre Wolper,242
+David Harel,20
+Thomas A. Henzinger,5
+Zohar Manna,10
+Amir Pnueli,6
+Joseph Sifakis,15
+Moshe Y. Vardi,69
+Oscar Nierstrasz,2
+Mary Lou Soffa,5
+Rajiv Gupta,16
+Thomas W. Reps,67
+Vivek Sarkar,5
+Pankaj K. Agarwal;Micha Sharir,36
+Micha Sharir,3
+Jack Dongarra,0
+Luc Moreau,52
+Dexter Kozen,38
+Elisa Bertino;Pierangela Samarati;Sushil Jajodia,41
+Elisa Bertino;Pierangela Samarati;Sushil Jajodia,53
+Mihir Bellare;Shafi Goldwasser,117
+Elisa Bertino;Sushil Jajodia;Pierangela Samarati,7
+Michael T. Goodrich,159
+Hugo Krawczyk,171
+Paul C. van Oorschot,126
+Adrian Perrig,253
+Birgit Pfitzmann,31
+Birgit Pfitzmann;Michael Waidner,244
+Birgit Pfitzmann;Michael Waidner,103
+David Wagner,73
+Sabrina De Capitani di Vimercati;Sushil Jajodia;Stefano Paraboschi;Pierangela Samarati,10
+Sushil Jajodia,196
+Gene Tsudik,0
+Dan Boneh;Moni Naor,36
+Jan Chomicki,31
+Christos H. Papadimitriou,1
+Michael L. Littman,8
+Daniel Cohen-Or,22
+Vivek Sarkar,5
+Leslie Lamport,62
+Jean-Jacques Quisquater,0
+Adi Shamir,135
+Ari Juels,0
+Peter Brusilovsky,25
+Stuart K. Card,1
+John M. Carroll,1
+John M. Carroll;Mary Beth Rosson,47
+Paul Dourish,347
+Steven Feiner,2
+Saul Greenberg,136
+Saul Greenberg,42
+Jonathan Grudin,266
+Jonathan Grudin,3
+Jonathan Grudin,2
+Carl Gutwin,150
+Carl Gutwin;Saul Greenberg,196
+Carl Gutwin;Saul Greenberg,195
+Eric Horvitz,598
+Mary Beth Rosson;John M. Carroll,40
+Yong Rui;Anoop Gupta;Jonathan Grudin,46
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini;Moshe Y. Vardi,29
+Erol Gelenbe,2
+Gian Pietro Picco,2
+Tuomas Sandholm,100
+Michael Wooldridge,16
+Frank van Harmelen,12
+Mihalis Yannakakis,10
+Charles E. Leiserson,1
+Kurt Mehlhorn,1
+Michael O. Rabin,6
+Anil K. Jain,13
+Philip A. Bernstein,504
+Surajit Chaudhuri;Raghu Ramakrishnan;Gerhard Weikum,107
+Jennifer Widom,418
+Cyrus Shahabi,28
+Raghu Ramakrishnan,4
+Lawrence C. Paulson,12
+Edward A. Fox,1
+Jiawei Han,79
+Peter Brusilovsky,126
+Christos Faloutsos,1
+C. Lee Giles,1
+Thomas Hofmann,0
+Eric Horvitz,29
+George Karypis,408
+Ben Shneiderman,544
+Jennifer Widom,812
+Hector Garcia-Molina,8
+Pedro Domingos,5
+Rakesh Agrawal,1
+W. Bruce Croft,1
+Bart Preneel,5
+Moti Yung,1
+Jiawei Han,3
+Dieter Fensel,6
+David Poole,33
+Dale Miller,46
+Divesh Srivastava,2
+Jack Dongarra,1
+Imrich Chlamtac,7
+Raj Jain,4438
+Raj Jain,4466
+Markus Jakobsson;Ari Juels,97
+Luca Cardelli,407
+Giuseppe De Giacomo,16
+Herbert A. Simon,1
+Serge Abiteboul;Moshe Y. Vardi;Victor Vianu,106
+Lance Fortnow,19
+Lance Fortnow,2
+Lance Fortnow,43
+Oded Goldreich;Madhu Sudan,8
+Georg Gottlob,7
+Uriel Feige,192
+Uriel Feige,69
+Uriel Feige;Joe Kilian,267
+Uriel Feige;Adi Shamir,11
+Russell Impagliazzo,142
+Noam Nisan,43
+Noam Nisan,116
+Rafail Ostrovsky,40
+Christos H. Papadimitriou,9
+Avi Wigderson,3
+Xiang-Yang Li,32
+Xiang-Yang Li,36
+Fionn Murtagh,4
+Jacques Stern,172
+Risto Miikkulainen,23
+Daniel Marcu,19
+Kathleen McKeown,11
+Gerard Salton,23
+Andreas Stolcke,1
+Lawrence C. Paulson,19
+Mihir Bellare,23
+Avrim Blum,35
+Avrim Blum,0
+Avrim Blum;Yishay Mansour,58
+Avrim Blum;Ronald L. Rivest,335
+Sally Floyd,33
+Yoav Freund,1239
+Yoav Freund,70
+Yoav Freund,55
+Yoav Freund,44
+Yoav Freund,235
+Yoav Freund;Yishay Mansour,28
+Yoav Freund;Robert E. Schapire,271
+Yoav Freund;Robert E. Schapire,784
+David Haussler,9
+Tao Jiang;Ming Li,30
+Michael I. Jordan,44
+Michael L. Littman,0
+Yishay Mansour,5
+Christos H. Papadimitriou,1
+Judea Pearl;Rina Dechter,11
+Fernando C. N. Pereira;Yoram Singer,43
+Robert E. Schapire,50
+Robert E. Schapire,15
+Robert E. Schapire,43
+Robert E. Schapire;Yoram Singer,2375
+Vladimir Vapnik,56
+Manfred K. Warmuth,9
+Manfred K. Warmuth,6
+Manfred K. Warmuth,0
+Manfred K. Warmuth,4
+Tomasz Imielinski,0
+Manuel Blum,610
+Richard E. Ladner,3
+Michael Stonebraker,6
+Jeffrey D. Ullman,10
+Gio Wiederhold,1
+Pankaj K. Agarwal,32
+Pankaj K. Agarwal,88
+Pankaj K. Agarwal;Micha Sharir,9
+Pankaj K. Agarwal;Micha Sharir,53
+Pankaj K. Agarwal;Micha Sharir,23
+Pankaj K. Agarwal;Micha Sharir,92
+Pankaj K. Agarwal;Micha Sharir,33
+Subhash Suri,20
+Bernard Chazelle,5
+David Eppstein,50
+Michael T. Goodrich,56
+Michael T. Goodrich,43
+Michael T. Goodrich;Roberto Tamassia,46
+Piotr Indyk,26
+Joseph S. B. Mitchell,45
+Joseph S. B. Mitchell,115
+Joseph S. B. Mitchell;Christos H. Papadimitriou,61
+Joseph S. B. Mitchell;Micha Sharir,45
+Rajeev Motwani;Prabhakar Raghavan,5
+Micha Sharir,18
+Micha Sharir,84
+David Eppstein,17
+Leslie Lamport,56
+Ming-Syan Chen,11
+Charles E. Perkins,4
+Charles E. Perkins,61
+Daniel Thalmann;Nadia Magnenat-Thalmann,22
+Yiyu Yao,118
+Yiyu Yao,28
+Eric Yu,0
+Russell H. Taylor,497
+Henning Schulzrinne,14
+Gul Agha,22
+Rajeev Alur,2
+Rajeev Alur,2
+Rajeev Alur;Thomas A. Henzinger,150
+Rajeev Alur;Mihalis Yannakakis,290
+Luca Cardelli,3
+Luca Cardelli,16
+Joseph Y. Halpern;Ronald Fagin,191
+David Harel,3
+Thomas A. Henzinger,104
+Robin Milner,129
+Robin Milner,151
+Robin Milner,1
+Pierre Wolper;Patrice Godefroid,163
+Moshe Y. Vardi,0
+Moshe Y. Vardi,21
+Joseph Y. Halpern,19
+Monica S. Lam,25
+John M. Carroll,10
+Karl Aberer,592
+Gustavo Alonso,8
+Philip A. Bernstein,46
+Maurizio Lenzerini,39
+John Mylopoulos,0
+Fabio Casati,3
+Boi Faltings,33
+Barry Smith,12
+Barry Smith,205
+Barry Smith,18
+Manish Gupta,0
+Rajiv Gupta,1
+Pascal Van Hentenryck,20
+Pascal Van Hentenryck,0
+Ian Horrocks,48
+Tuomas Sandholm,66
+Tuomas Sandholm,6
+Bart Selman,2
+Toby Walsh,230
+Toby Walsh,27
+Toby Walsh,38
+Toby Walsh,50
+Toby Walsh,27
+Pascal Van Hentenryck,0
+Mark Crovella,70
+S. Muthukrishnan,6
+S. Muthukrishnan,48
+Gonzalo Navarro,8
+Uzi Vishkin,0
+Uzi Vishkin,0
+S. Muthukrishnan,0
+Prabhakar Raghavan,2
+Tao Jiang,6
+Eli Biham;Adi Shamir,788
+Mihir Bellare;Ran Canetti;Hugo Krawczyk,1189
+Mihir Bellare;Shafi Goldwasser,87
+Mihir Bellare;Oded Goldreich,399
+Mihir Bellare;Oded Goldreich;Shafi Goldwasser,214
+Mihir Bellare;Oded Goldreich;Hugo Krawczyk,44
+Mihir Bellare;Silvio Micali,74
+Mihir Bellare;Silvio Micali,248
+Manuel Blum;Shafi Goldwasser,311
+Mihir Bellare;Amit Sahai,126
+Mihir Bellare;Moti Yung,22
+Eli Biham;Adi Shamir,1680
+Eli Biham;Adi Shamir,126
+Eli Biham;Adi Shamir,376
+Jan Camenisch;Victor Shoup,322
+Ran Canetti,227
+Ran Canetti;Cynthia Dwork;Moni Naor;Rafail Ostrovsky,180
+Dan Boneh,143
+Ran Canetti;Hugo Krawczyk,119
+Dan Boneh;Moni Naor,172
+Ivan Damgård,52
+Ivan Damgård,155
+Ivan Damgård,45
+Ivan Damgård,178
+Cynthia Dwork,11
+Cynthia Dwork;Moni Naor,547
+Cynthia Dwork;Moni Naor,82
+Cynthia Dwork;Amit Sahai,78
+Uriel Feige;Adi Shamir,237
+Amos Fiat,117
+Amos Fiat;Moni Naor,1011
+Amos Fiat;Adi Shamir,2335
+Rosario Gennaro,43
+Rosario Gennaro,51
+Oded Goldreich,61
+Oded Goldreich,115
+Oded Goldreich,3
+Oded Goldreich,42
+Oded Goldreich;Shafi Goldwasser;Silvio Micali,109
+Oded Goldreich;Hugo Krawczyk,16
+Oded Goldreich;Hugo Krawczyk;Michael Luby,147
+Oded Goldreich;Silvio Micali;Avi Wigderson,102
+Oded Goldreich;Birgit Pfitzmann;Ronald L. Rivest,48
+Joe Kilian,7
+Joe Kilian,2
+Russell Impagliazzo;Moti Yung,162
+Markus Jakobsson;Moti Yung,43
+Hugo Krawczyk,258
+Hugo Krawczyk,164
+Hugo Krawczyk,316
+Hugo Krawczyk,96
+Hugo Krawczyk,149
+Hugo Krawczyk,321
+Silvio Micali,259
+Silvio Micali;Adi Shamir,74
+Moni Naor,118
+Moni Naor,108
+Moni Naor,470
+Michael Luby,1
+Rafail Ostrovsky,18
+Birgit Pfitzmann;Michael Waidner,66
+Bart Preneel;Paul C. van Oorschot,243
+Jean-Jacques Quisquater,6
+Ronald L. Rivest,3
+Ronald L. Rivest,4288
+Ronald L. Rivest,30
+Adi Shamir,284
+Adi Shamir,408
+Adi Shamir,4045
+Adi Shamir,49
+Adi Shamir,2
+Adi Shamir,113
+Victor Shoup,319
+Victor Shoup,145
+Jacques Stern,185
+Jacques Stern,72
+Richard Taylor,32
+David Wagner,286
+Danny Dolev;Avi Wigderson,1
+David Wagner,1
+Paul Dourish,90
+Jonathan Grudin,17
+Jonathan Grudin,51
+Carl Gutwin;Saul Greenberg,290
+Steve Whittaker,92
+Paul Dourish,178
+David Garlan,7
+Ran Canetti,122
+Sushil Jajodia,1
+Somesh Jha;Thomas W. Reps,50
+Lawrence C. Paulson,346
+Lawrence C. Paulson,158
+Adrian Perrig;Dawn Song,96
+Dexter Kozen,53
+Robin Milner,19
+Tobias Nipkow,48
+Moshe Y. Vardi,1
+Victor Vianu,1
+Rajeev Alur,42
+Limsoon Wong,1
+Avi Wigderson,0
+Ari Juels,60
+Silvio Micali;Ronald L. Rivest,154
+Silvio Micali;Ronald L. Rivest,98
+Adi Shamir,1
+Shafi Goldwasser,2
+Nicholas Ayache,0
+Pascal Fua,4
+Michael J. Black,64
+Dorin Comaniciu,79
+Trevor Darrell,31
+Wei-Ying Ma;B. S. Manjunath,246
+Wei-Ying Ma;B. S. Manjunath,217
+Pietro Perona,238
+Yong Rui;Thomas S. Huang,362
+Cordelia Schmid,182
+Cordelia Schmid,62
+Cordelia Schmid;Andrew Zisserman,208
+Stefano Soatto;Pietro Perona,11
+Stefano Soatto;Pietro Perona,4
+Richard Szeliski,67
+Krishnendu Chakrabarty,97
+Srinivas Devadas,23
+Srinivas Devadas,21
+Srinivas Devadas;Kurt Keutzer,58
+Srinivas Devadas;Kurt Keutzer;Sharad Malik,4
+Srinivas Devadas;Sharad Malik,262
+Andrew B. Kahng,30
+George Karypis;Vipin Kumar,315
+Kurt Keutzer,544
+Kurt Keutzer,18
+Giovanni De Micheli,3
+Miodrag Potkonjak;Mani B. Srivastava,4
+Miodrag Potkonjak;Mani B. Srivastava;Anantha Chandrakasan,61
+Mani B. Srivastava;Miodrag Potkonjak,26
+Jan M. Rabaey,3
+Moshe Y. Vardi,47
+Dorin Comaniciu,34
+Anil K. Jain,1
+Hermann Ney,1
+Hermann Ney,7
+Nassir Navab,1
+Alex Pentland,2
+Azriel Rosenfeld,5
+Bernt Schiele,2
+Michael Unser,6
+Wolfgang Banzhaf,15
+Avrim Blum,130
+Kalyanmoy Deb,1
+Mark Crovella,18
+Ming C. Lin,17
+Dieter Fox;Wolfram Burgard;Sebastian Thrun,16
+Hisao Ishibuchi,0
+Neil D. Jones,59
+Deborah L. McGuinness,412
+Kurt Mehlhorn,0
+Tuomas Sandholm,2
+Mahadev Satyanarayanan,9
+Gurindar S. Sohi,11
+Walter Willinger,13
+Gerhard Weikum,22
+Mary Shaw,0
+Kalyanmoy Deb,17
+Serge Abiteboul,0
+Oded Goldreich,6
+Adam Wolisz,2
+Raymond Reiter,0
+David Wetherall,245
+Elisa Bertino,4
+Christian S. Jensen,4
+Philip S. Yu,93
+Jeffrey D. Ullman,1
+Gio Wiederhold,0
+Dan Suciu,2
+Beng Chin Ooi,0
+Luca Benini,78
+Giovanni De Micheli,103
+Giovanni De Micheli;Luca Benini,112
+Kevin Skadron,59
+Andrew B. Kahng,22
+Giovanni De Micheli,1
+Jiawei Han,1
+Robert Harper,17
+John Mylopoulos,191
+John Mylopoulos,0
+Peter Buneman,12
+Michael J. Carey;David J. DeWitt,47
+Raymond Reiter,703
+Mary Shaw,3
+Michael Stonebraker,23
+Michael Stonebraker,1
+Michael Stonebraker,68
+Jeffrey D. Ullman,2
+Gio Wiederhold,35
+Umeshwar Dayal,173
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini;Moshe Y. Vardi,37
+Luca Cardelli,1
+Luca Cardelli,27
+Maurizio Lenzerini,11
+David Maier,29
+Dan Suciu,41
+Dan Suciu,24
+Philip Wadler,55
+Haixun Wang;Carlo Zaniolo,11
+Gio Wiederhold,7
+Michael Mitzenmacher,6
+Kannan Ramchandran;Martin Vetterli,8
+Feng Zhao,2
+Christos H. Papadimitriou,2
+Dieter Fensel,26
+Krishnendu Chakrabarty,0
+Thomas W. Reps,72
+Surajit Chaudhuri,17
+Haixun Wang;Carlo Zaniolo,12
+Luis Gravano,6
+John R. Smith,0
+Michael Wooldridge,2
+Serge Abiteboul,6
+Hsinchun Chen,11
+Didier Dubois;Henri Prade,4
+John Mylopoulos,0
+Fabio Casati,13
+Russell H. Taylor,0
+Venu Govindaraju,2
+Ben Shneiderman,4
+Roger Wattenhofer,1
+Deborah Estrin,1
+Andrzej Pelc,3
+Thomas S. Huang,1
+John M. Carroll,23
+Peter Buneman,5
+E. Allen Emerson,122
+Ronald Fagin,23
+Moshe Y. Vardi,262
+Victor Vianu,15
+Andrew Y. Ng,6
+Joseph Y. Halpern,0
+Jeffrey D. Ullman,5
+Ben Shneiderman,114
+Avrim Blum,1
+Heikki Mannila,2
+Karl Aberer,4
+Toby Walsh,1
+Maurizio Lenzerini,20
+Alberto O. Mendelzon,3
+Edward A. Fox,0
+Giuseppe De Giacomo;Maurizio Lenzerini,149
+Diego Calvanese,56
+Diego Calvanese;Giuseppe De Giacomo,87
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini,18
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini,115
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini,47
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini,11
+David Harel,127
+Ian Horrocks,107
+Ian Horrocks,7
+Ian Horrocks,163
+Ian Horrocks;Ulrike Sattler,224
+Deborah L. McGuinness,16
+Deborah L. McGuinness,39
+Deborah L. McGuinness,1
+Deborah L. McGuinness,4
+Ming Li,0
+Thomas A. Henzinger,3
+Haixun Wang;Carlo Zaniolo,7
+Haixun Wang;Carlo Zaniolo,12
+Haixun Wang;Carlo Zaniolo,11
+Padhraic Smyth,16
+Gio Wiederhold,12
+Sabrina De Capitani di Vimercati;Pierangela Samarati;Sushil Jajodia,47
+Douglas C. Schmidt,1
+Serge Abiteboul,154
+Elisa Bertino;Sushil Jajodia,23
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini,92
+Surajit Chaudhuri;Umeshwar Dayal,89
+Yehoshua Sagiv,10
+Jeffrey D. Ullman,79
+Limsoon Wong,9
+Carlo Zaniolo,44
+Carlo Zaniolo,57
+Carlo Zaniolo,5
+Ramesh Jain,8
+Thomas S. Huang;Sharad Mehrotra;Kannan Ramchandran,177
+Gul Agha,4
+Rakesh Agrawal;H. V. Jagadish,68
+Ming-Syan Chen;Philip S. Yu,16
+Kai Li;Jeffrey F. Naughton,39
+Jiawei Han,163
+John Mylopoulos,14
+Michael Stonebraker,0
+Gio Wiederhold,54
+Carlo Zaniolo,13
+Jan M. Rabaey,1
+Kishor S. Trivedi,38
+Kishor S. Trivedi,3
+Farnam Jahanian,1
+Douglas C. Schmidt,0
+Steve Benford,0
+John McCarthy,6
+Philipp Koehn;Kevin Knight,146
+Gerard Salton,3
+Yorick Wilks,12
+Wolfgang Banzhaf,19
+Craig Boutilier,2
+Diego Calvanese,55
+Adnan Darwiche,113
+Didier Dubois;Henri Prade,6
+Bing Liu,5
+Giuseppe De Giacomo;Maurizio Lenzerini,69
+Bing Liu,45
+Georg Gottlob,27
+Geoffrey E. Hinton,12
+Ian Horrocks;Ulrike Sattler,75
+Pattie Maes,32
+Judea Pearl,5
+Judea Pearl,52
+Alex Pentland,9
+Ulrike Sattler,47
+Bart Selman,4
+Steffen Staab,16
+Toby Walsh,124
+Toby Walsh,26
+Yorick Wilks,5
+Michael Wooldridge,41
+Michael Wooldridge,11
+Pascal Van Hentenryck,0
+Michael Wooldridge,77
+Marco Dorigo,36
+Wolfgang Banzhaf,53
+Nir Friedman,16
+Serge Belongie;Jitendra Malik,18
+Michael J. Black,97
+Michael J. Black,74
+Andrew Blake;Roberto Cipolla,39
+Roberto Cipolla;Andrew Blake,174
+W. Eric L. Grimson,97
+Ron Kimmel,456
+Jitendra Malik,21
+Alex Pentland,6
+Alex Pentland,4
+Pietro Perona,174
+Jean Ponce;Martial Hebert;Andrew Zisserman,29
+Cordelia Schmid;Andrew Zisserman,52
+Amnon Shashua,194
+Richard Szeliski,94
+Haim J. Wolfson,149
+Zhengyou Zhang,230
+Yorick Wilks,5
+Jun Wang,18
+W. Bruce Croft,1
+Rakesh Agrawal,4
+Soumen Chakrabarti,36
+Pedro Domingos,2
+Pedro Domingos,4
+Marco Dorigo,21
+Christos Faloutsos,4
+Thomas Hofmann,36
+Thorsten Joachims,5345
+Erkki Oja,0
+Heikki Mannila,4
+Dan Roth,9
+Padhraic Smyth,0
+Wei Wang;Zhi-Hua Zhou,69
+Craig Chambers,333
+Craig Chambers,198
+Won Kim,24
+Matthias Felleisen,4
+Rachid Guerraoui,23
+Thomas A. Henzinger,3
+Mary Beth Rosson;John M. Carroll,40
+Serge Abiteboul,0
+Luca Cardelli,2
+Luca Cardelli,271
+Marlon Dumas,0
+Oscar Nierstrasz,86
+Oscar Nierstrasz,7
+Giuseppe De Giacomo;Moshe Y. Vardi,83
+Paul Dourish,145
+Paul Dourish,98
+Carl Gutwin,41
+Steve Whittaker,9
+Didier Dubois;Henri Prade,35
+Karl Aberer,2
+Rakesh Agrawal;Dimitrios Gunopulos;Frank Leymann,646
+Jiawei Han,8
+Elisa Bertino,32
+Luca Cardelli,79
+Elisa Bertino,288
+Jan Chomicki,158
+Ian Horrocks,201
+Christos Faloutsos;H. V. Jagadish,43
+David Maier,1
+David Maier,0
+Raymond Reiter,57
+Gerhard Weikum,2
+Gio Wiederhold,2
+Carlo Zaniolo,20
+Donald Kossmann,5
+Josep Domingo-Ferrer,2
+Carlo Zaniolo,69
+Carlo Zaniolo,58
+H. V. Jagadish,17
+Pierre Wolper,79
+Rajiv Gupta,7
+Norman I. Badler,13
+Nadia Magnenat-Thalmann;Daniel Thalmann,1
+David Garlan,1
+Pedro Domingos,2
+Dieter Fensel,63
+Dale Miller,564
+Dale Miller,136
+Josef Kittler,6
+Pascal Van Hentenryck,2
+David Harel,3
+Patrice Godefroid,10
+Amir Pnueli,9
+Douglas C. Schmidt,7
+Douglas C. Schmidt,7
+Joseph Sifakis,51
+John A. Stankovic,48
+Niklaus Wirth,9
+Lothar Thiele,15
+Gonzalo Navarro,0
+Hector Garcia-Molina,1
+Hanan Samet,2
+Michael Luck,1
+Zbigniew Michalewicz,357
+Boualem Benatallah,22
+Elisa Bertino,3
+Michael J. Carey,3
+Hector Garcia-Molina,12
+Maurizio Lenzerini,8
+Heikki Mannila,0
+Rudi Studer,7
+Roberto Tamassia,25
+Gio Wiederhold,38
+Serge Abiteboul,10
+Erol Gelenbe,0
+Neil D. Jones,57
+Donald E. Knuth,20
+Robin Milner,1
+Niklaus Wirth,7
+Noga Alon;Zvi Galil;Moti Yung,38
+Bernard Chazelle,6
+Bernard Chazelle,7
+Kurt Mehlhorn,1
+Roberto Tamassia,45
+Mikkel Thorup,0
+Micha Sharir,0
+Mikkel Thorup,3
+Thomas Ball,186
+David Harel,0
+Jeff Kramer,10
+Matthias Felleisen,122
+Cormac Flanagan,14
+Robin Milner,48
+Luc Moreau,16
+Jens Palsberg,64
+Thomas W. Reps,38
+Philip Wadler,817
+Gene Tsudik,1
+Sabrina De Capitani di Vimercati;Pierangela Samarati,17
+Michael Waidner,63
+Klara Nahrstedt,0
+Frank van Harmelen,0
+Michel Raynal,29
+Erol Gelenbe,176
+Robert E. Schapire,117
+Manfred K. Warmuth,2
+Yoav Freund;Yishay Mansour,22
+Yoav Freund;Robert E. Schapire,7432
+Richard S. Sutton,44
+Eli Biham,22
+Eli Biham,106
+Eli Biham,116
+Eli Biham;Adi Shamir,109
+Mihir Bellare;Markus Jakobsson;Moti Yung,51
+Jan Camenisch,308
+Ran Canetti;Hugo Krawczyk,707
+Ran Canetti;Hugo Krawczyk,268
+Ivan Damgård,211
+Ivan Damgård,301
+Ivan Damgård,31
+Ivan Damgård,96
+Josep Domingo-Ferrer,8
+Josep Domingo-Ferrer,2
+Rosario Gennaro;Silvio Micali,60
+Oded Goldreich,4
+Markus Jakobsson,48
+Markus Jakobsson,83
+Markus Jakobsson,188
+Hugo Krawczyk,103
+Markus Jakobsson;Moti Yung,56
+Moni Naor;Adi Shamir,1256
+Paul C. van Oorschot,20
+Birgit Pfitzmann,117
+Birgit Pfitzmann;Michael Waidner,64
+Birgit Pfitzmann;Michael Waidner,197
+Bart Preneel;Paul C. van Oorschot,115
+Adi Shamir,21
+Ronald L. Rivest,35
+Adi Shamir,11
+Ronald L. Rivest;Adi Shamir,61
+Victor Shoup,569
+Victor Shoup,148
+Victor Shoup,94
+Victor Shoup,38
+Victor Shoup,667
+Victor Shoup;Rosario Gennaro,167
+Jacques Stern,31
+Jacques Stern,23
+Richard Taylor,26
+Michael Waidner,106
+Shafi Goldwasser,5
+Mani B. Srivastava;Miodrag Potkonjak,24
+Riccardo Poli,48
+Riccardo Poli,62
+Riccardo Poli,113
+Riccardo Poli,19
+Schahram Dustdar,0
+Franco Zambonelli,4
+Jack Dongarra,1
+Dennis Gannon,2
+Pradeep K. Khosla,0
+Luc Moreau,9
+Michel Raynal,1
+Michel Raynal,5
+Sartaj Sahni,24
+Uzi Vishkin,6
+Josep Domingo-Ferrer,1
+Zbigniew Michalewicz,18
+Barry Smyth,2
+Peter Brusilovsky,22
+Karl Aberer,0
+Samuel Madden,1
+Roger Wattenhofer,2
+Frank Leymann,3
+Heikki Mannila,0
+Michael Wooldridge,30
+Serge Abiteboul,4
+Carlo Ghezzi,3
+David Harel,127
+Lawrence C. Paulson,13
+Bart Preneel,2
+Jim Gray,16
+Markus Jakobsson,84
+Markus Jakobsson,2
+Markus Jakobsson;Ari Juels,15
+Markus Jakobsson;Moti Yung,27
+Markus Jakobsson;Moti Yung,14
+Ari Juels,30
+Hugo Krawczyk,12
+Moti Yung,1
+Moti Yung,8
+Ronald L. Rivest,43
+Ronald L. Rivest,10
+Ronald L. Rivest,107
+Ronald L. Rivest,240
+Adi Shamir,32
+Ross Anderson,12
+Jacques Stern,2
+Bernard Chazelle,82
+David Harel,169
+Dexter Kozen,30
+Christos H. Papadimitriou,0
+Robin Milner,15
+Frank Leymann,3
+Boi Faltings,1
+Robin Milner,6
+David Poole,118
+David Poole,90
+Raymond Reiter,49
+Justine Cassell,0
+Seong-Whan Lee,35
+Dexter Kozen,2
+Alan Borning,187
+Kathleen McKeown,2
+Gerhard Weikum,13
+Barry Smyth,0
+Sebastian Thrun,0
+Luca Cardelli,56
+David Garlan;David Notkin,160
+Thomas A. Henzinger;Joseph Sifakis,150
+Joseph Sifakis,3
+Kurt Keutzer,13
+Thomas Ball,84
+Oscar Nierstrasz,5
+Luca Cardelli,1
+Alfred V. Aho;Jeffrey D. Ullman,8
+Alfred V. Aho;Jeffrey D. Ullman,20
+Alfred V. Aho;Jeffrey D. Ullman,7
+Noga Alon,88
+Noga Alon,134
+Alfred V. Aho;Jeffrey D. Ullman;Mihalis Yannakakis,38
+Alfred V. Aho,454
+Rajeev Alur;Thomas A. Henzinger,594
+Rajeev Alur;Thomas A. Henzinger,78
+Baruch Awerbuch;David Peleg,93
+Mihir Bellare;Ran Canetti;Hugo Krawczyk,172
+Mihir Bellare;Oded Goldreich;Shafi Goldwasser,89
+Mihir Bellare;Oded Goldreich;Madhu Sudan,396
+Mihir Bellare;Russell Impagliazzo;Moni Naor,104
+Avrim Blum,1
+Manuel Blum,164
+Avrim Blum,36
+Manuel Blum;Dexter Kozen,167
+Manuel Blum;Silvio Micali,1314
+Bernard Chazelle,323
+Bernard Chazelle,79
+Bernard Chazelle,11
+Bernard Chazelle,705
+Bernard Chazelle,14
+Bernard Chazelle,14
+Bernard Chazelle,38
+Ran Canetti,1271
+Ran Canetti;Oded Goldreich,28
+Bernard Chazelle,1
+Bernard Chazelle,231
+Danny Dolev,63
+Cynthia Dwork;Moni Naor,105
+David Eppstein,50
+David Eppstein,763
+David Eppstein,27
+Uriel Feige,56
+Uriel Feige;Joe Kilian,18
+Amos Fiat;Adi Shamir,18
+Zvi Galil,18
+Zvi Galil,31
+Oded Goldreich;Madhu Sudan,59
+Georg Gottlob,51
+Leonidas J. Guibas,4
+David Haussler,63
+Joseph Y. Halpern,7
+Russell Impagliazzo,187
+Russell Impagliazzo;Moni Naor,212
+Russell Impagliazzo;Avi Wigderson,131
+Piotr Indyk,294
+Piotr Indyk,233
+Piotr Indyk,43
+Piotr Indyk,39
+Piotr Indyk,51
+Piotr Indyk,103
+David S. Johnson,16
+Neil D. Jones,8
+Joe Kilian,41
+Joe Kilian,22
+H. T. Kung,15
+Dexter Kozen,94
+Dexter Kozen,231
+Dexter Kozen,271
+David Maier,2
+Michael Luby,1351
+Michael Luby,88
+Kurt Mehlhorn,57
+Kurt Mehlhorn,89
+Silvio Micali;Michael O. Rabin;Joe Kilian,95
+Christos H. Papadimitriou,22
+Christos H. Papadimitriou,93
+Noam Nisan;Avi Wigderson,103
+John Mylopoulos,18
+Christos H. Papadimitriou;Jeffrey D. Ullman,103
+Christos H. Papadimitriou;Mihalis Yannakakis,269
+Amir Pnueli,3545
+Michael O. Rabin,36
+Michael O. Rabin,333
+Prabhakar Raghavan,594
+Amit Sahai,326
+Sartaj Sahni,26
+Ronald L. Rivest,233
+Adi Shamir,408
+Adi Shamir,659
+Micha Sharir,142
+Victor Shoup,149
+Aravind Srinivasan,73
+Aravind Srinivasan,84
+Jacques Stern,59
+Madhu Sudan,29
+Madhu Sudan,23
+Mikkel Thorup,164
+Mikkel Thorup,25
+Mikkel Thorup,72
+Mikkel Thorup,27
+Jeffrey D. Ullman,101
+Moshe Y. Vardi,6
+Moshe Y. Vardi,29
+Moshe Y. Vardi,575
+Pierre Wolper,712
+Mihalis Yannakakis,45
+Mihalis Yannakakis,10
+Mihalis Yannakakis;Christos H. Papadimitriou;H. T. Kung,82
+Dan Boneh,9
+Uriel Feige,8
+Ramesh Jain,0
+Max J. Egenhofer,334
+Dan Suciu,145
+Kalyanmoy Deb;David E. Goldberg,318
+David E. Goldberg;Kalyanmoy Deb,1628
+Darrell Whitley,120
+Riccardo Poli,28
+Jan Chomicki,28
+Georg Gottlob,7
+Barry Smith,37
+Barry Smith,39
+Lothar Thiele,2
+Gul Agha,1
+Patrice Godefroid,26
+Leslie Lamport,30
+Leslie Lamport,0
+Rosario Gennaro,2
+Pierangela Samarati;Sabrina De Capitani di Vimercati,428
+Robin Milner,34
+Tobias Nipkow,50
+Rajeev Alur,0
+Philip Wadler,261
+Philip Wadler,632
+Kurt Keutzer,8
+Jan M. Rabaey,52
+Didier Dubois;Henri Prade,55
+Eli Biham,25
+Eli Biham,18
+Eli Biham,196
+Hugo Krawczyk,18
+Bart Preneel,2
+Bart Preneel,10
+Bart Preneel,2
+Ronald L. Rivest,894
+Ronald L. Rivest,203
+David Wagner,27
+David Wagner,23
+David Wagner,2
+David Wagner,305
+Adi Shamir,93
+Eli Biham,12
+Shun-ichi Amari,1
+Rajeev Alur,0
+Manuel Blum,17
+E. Allen Emerson,4
+Edmund M. Clarke,8064
+Lance Fortnow,3
+Russell Impagliazzo,3
+Piotr Indyk,6
+Sushil Jajodia,1
+Dexter Kozen,9
+Moni Naor,3
+Tobias Nipkow,72
+Christos H. Papadimitriou,6
+S. Muthukrishnan,27
+Amir Pnueli,50
+Prabhakar Raghavan,14
+Micha Sharir,7
+V. S. Subrahmanian,1
+Madhu Sudan,13
+Moshe Y. Vardi,17
+Avi Wigderson,0
+Maurice Herlihy,5
+Andrzej Pelc,3
+Jim Gray,33
+Barbara Liskov,2
+Amir Pnueli,32
+Joseph Sifakis,3
+Won Kim,2
+Hisao Ishibuchi,53
+Erol Gelenbe,0
+Didier Dubois;Henri Prade,11
+Didier Dubois;Henri Prade,11
+Teuvo Kohonen,2
+Witold Pedrycz,1
+Jack Dongarra,1
+David Eppstein,20
+David Eppstein,15
+David Eppstein,8
+David Eppstein;Michael T. Goodrich,39
+David Eppstein,10
+David Eppstein,5
+Kalyanmoy Deb,13
+Kalyanmoy Deb;Aravind Srinivasan,116
+David E. Goldberg,42
+Riccardo Poli,51
+Risto Miikkulainen,13
+Riccardo Poli,24
+Kalyanmoy Deb,18
+Riccardo Poli,0
+David Harel,3
+Carlo Ghezzi,4
+Robin Milner,7
+Azriel Rosenfeld,5
+Azriel Rosenfeld,2
+Thomas Eiter;Georg Gottlob;Heikki Mannila,2
+Shafi Goldwasser,0
+Frank Leymann,15
+Thomas W. Reps,5
+Pierangela Samarati,9
+Pierangela Samarati,9
+Max J. Egenhofer,364
+Hanan Samet,3
+David Eppstein;Michael T. Goodrich,33
+Massoud Pedram,0
+Bernd Hamann,189
+Hugues Hoppe,4
+Philip Wadler,37
+Carl Gutwin,44
+Demetri Terzopoulos,0
+Mark Billinghurst,0
+Dennis Gannon,1
+Paul Dourish,84
+Elisa Bertino,41
+Michel Raynal,16
+Peter Brusilovsky,4
+Peter Brusilovsky,1
+Ben Shneiderman,70
+Donald E. Knuth,0
+Christos H. Papadimitriou,0
+John M. Carroll,280
+John M. Carroll;Mary Beth Rosson,11
+Jonathan Grudin,18
+Jonathan Grudin,90
+Robbert van Renesse,68
+Mary Beth Rosson,45
+Jie Wu,49
+Ben Shneiderman,14
+Imrich Chlamtac,0
+William Gropp,46
+Christos H. Papadimitriou,2
+Dennis Gannon,1
+Ken Kennedy,1
+Vipin Kumar,3
+David Corne,0
+Witold Pedrycz,1
+Barbara Liskov,78
+Niklaus Wirth,33
+David Harel,34
+Niklaus Wirth,6
+Raj Jain,0
+Huan Liu,98
+David B. Johnson,59
+Babak Falsafi;David A. Wood,44
+Babak Falsafi;David A. Wood,8
+David A. Patterson,22
+Anand Sivasubramaniam,6
+Mark D. Hill,444
+Mark D. Hill,1
+Vivek Sarkar,1
+Franco Zambonelli,0
+Jack Dongarra,1
+David Kotz,30
+H. T. Kung,2
+Klara Nahrstedt,12
+Franco Zambonelli,18
+Philip A. Bernstein,1
+Michael Stonebraker,511
+Michael J. Carey;David J. DeWitt;Jeffrey F. Naughton,1
+Gerhard Weikum,15
+Jim Gray,1
+Jim Gray,3
+Farnam Jahanian,17
+James F. Allen,130
+Gerard Salton;James Allan,76
+Alex Pentland,17
+Sharad Malik,3
+Moshe Y. Vardi,56
+David Harel,9
+Thomas A. Henzinger,1
+Thomas A. Henzinger;Zohar Manna;Amir Pnueli,48
+Leslie Lamport,142
+Amir Pnueli,3
+Zohar Manna;Amir Pnueli,157
+John A. Stankovic,1
+William W. Cohen,3
+Pattie Maes,9
+Carl Kesselman,7
+Boi Faltings,1
+Frank van Harmelen,4
+Tomaso Poggio,1
+Pedro Domingos,2
+Zohar Manna,89
+Matthew Hennessy,0
+Ben Shneiderman,20
+Niklaus Wirth,0
+Hermann Ney,7
+Michal Irani,0
+Edward A. Fox,2
+Edward A. Fox,2
+Edward A. Fox,1
+Hsinchun Chen,4
+Hsinchun Chen,0
+Hsinchun Chen,2
+Serge Abiteboul;Victor Vianu,2
+Manuel Blum,35
+Luca Cardelli,23
+Luca Cardelli,52
+Bernard Chazelle,1
+Bernard Chazelle;Leonidas J. Guibas,27
+Ivan Damgård;Birgit Pfitzmann,12
+Cynthia Dwork,627
+E. Allen Emerson;Edmund M. Clarke,397
+David Eppstein;Zvi Galil,107
+Ronald Fagin;Moshe Y. Vardi,143
+Uriel Feige,17
+Amos Fiat,0
+Zvi Galil,14
+Zvi Galil,116
+Zvi Galil,69
+Rosario Gennaro;Silvio Micali,24
+Oded Goldreich,13
+Oded Goldreich;Hugo Krawczyk,350
+Oded Goldreich;Avi Wigderson,9
+Jim Gray,80
+Leonidas J. Guibas;Donald E. Knuth;Micha Sharir,408
+David Harel,13
+David Harel;Dexter Kozen,34
+Matthew Hennessy,45
+Matthew Hennessy,20
+Matthew Hennessy;Robin Milner,307
+Thomas A. Henzinger;Zohar Manna;Amir Pnueli,288
+Tao Jiang;Ming Li,171
+David S. Johnson,408
+Neil D. Jones,29
+Dexter Kozen,61
+Dexter Kozen,2048
+Zohar Manna;Amir Pnueli,96
+Zohar Manna;Amir Pnueli,52
+Zohar Manna;Amir Pnueli,232
+Heikki Mannila,86
+Yishay Mansour,67
+Kurt Mehlhorn,6
+Kurt Mehlhorn,26
+Kurt Mehlhorn,58
+Kurt Mehlhorn,29
+Robin Milner,731
+Moni Naor,17
+Christos H. Papadimitriou;Mihalis Yannakakis,385
+Noam Nisan,41
+Judea Pearl,4
+David Peleg,1
+Christos H. Papadimitriou,990
+Christos H. Papadimitriou,73
+Amir Pnueli,244
+Adi Shamir,28
+Adi Shamir,284
+Micha Sharir,2
+Joseph Sifakis,4
+Marc Snir,5
+Marc Snir,5
+Bernhard Steffen,42
+Moshe Y. Vardi,6
+Moshe Y. Vardi,272
+Mikkel Thorup,50
+Uzi Vishkin,32
+Jeffrey D. Ullman,1
+Avi Wigderson,0
+Mihalis Yannakakis,27
+Ivan Damgård,7
+S. Muthukrishnan,16
+Ran Canetti,2
+Richard S. Sutton,25
+Vladimir Vapnik,32
+Michele Zorzi,11
+Ken Kennedy,0
+Robert K. Brayton,16
+Krishnendu Chakrabarty,37
+Srinivas Devadas;Kurt Keutzer,15
+Srinivas Devadas;Kurt Keutzer;Sharad Malik,74
+Niraj K. Jha,120
+Sharad Malik,172
+Miodrag Potkonjak;Jan M. Rabaey,144
+Miodrag Potkonjak;Jan M. Rabaey,2
+Miodrag Potkonjak;Jan M. Rabaey,17
+Majid Sarrafzadeh,8
+Lothar Thiele,1
+Ben Shneiderman,18
+Boi Faltings,45
+Mario Gerla,25
+Marco Ajmone Marsan;Mario Gerla,0
+Imrich Chlamtac,0
+Guohong Cao;Mukesh Singhal,35
+Biswanath Mukherjee,0
+Rajiv Gupta,2
+Randy H. Katz,1
+David A. Patterson,123
+Krishnendu Chakrabarty,2
+Jiawei Han,2
+Michel Raynal,57
+Mary Jean Harrold;Mary Lou Soffa,34
+Jens Palsberg,37
+John A. Stankovic,1
+Ian Horrocks,40
+Deborah L. McGuinness,99
+Pascal Fua,41
+Pascal Fua,70
+Brian Curless;Marc Levoy,170
+Michal Irani,140
+Stefano Soatto;Pietro Perona,16
+Bernt Schiele;Alex Pentland,49
+Richard Szeliski,109
+Zhengyou Zhang,95
+Zhengyou Zhang,15
+Zhengyou Zhang,46
+Zhengyou Zhang,1369
+Krithi Ramamritham,2
+David Peleg,16
+Steve Benford,1
+Guohong Cao;Mukesh Singhal,43
+Rachid Guerraoui;Michel Raynal,15
+David B. Johnson,114
+M. Frans Kaashoek;Andrew S. Tanenbaum,83
+Baochun Li,65
+Alex Pentland,1
+Krithi Ramamritham,222
+Krithi Ramamritham;John A. Stankovic,2
+Robbert van Renesse;Andrew S. Tanenbaum,76
+Mukesh Singhal,6
+Mukesh Singhal,94
+Jie Wu,1
+Jie Wu,62
+Jie Wu;Karl Aberer,18
+Willy Zwaenepoel,7
+M. Frans Kaashoek;Andrew S. Tanenbaum,336
+Schahram Dustdar,5
+Jie Wu,3
+Michel Raynal,1
+Ming Li;David Kotz,2
+Gustavo Alonso;Fabio Casati,39
+Rakesh Agrawal,180
+Rakesh Agrawal;H. V. Jagadish,54
+Elisa Bertino,68
+Elisa Bertino,60
+Surajit Chaudhuri;Gerhard Weikum,24
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini;Moshe Y. Vardi,116
+Diego Calvanese;Maurizio Lenzerini,65
+Michael J. Carey,10
+Surajit Chaudhuri,51
+Jiawei Han,21
+Jiawei Han,16
+Jiawei Han,3
+Ming-Syan Chen;Philip S. Yu,13
+Jan Chomicki,78
+W. Bruce Croft,286
+Daniela Florescu,3
+Daniela Florescu;Donald Kossmann,4
+Hector Garcia-Molina,5
+Johannes Gehrke,6
+H. V. Jagadish,120
+Ramesh Jain,22
+Ramesh Jain,18
+Sushil Jajodia,48
+Maurizio Lenzerini,28
+Heikki Mannila;Padhraic Smyth,7
+Yannis Papakonstantinou;Hector Garcia-Molina;Jeffrey D. Ullman,242
+Yannis Papakonstantinou;Hector Garcia-Molina;Jennifer Widom,1068
+Sunita Sarawagi;Michael Stonebraker,244
+Divesh Srivastava,4
+Michael Stonebraker,1
+Michael Stonebraker,264
+Michael Stonebraker,64
+Michael Stonebraker,0
+Rudi Studer,12
+Haixun Wang;Carlo Zaniolo,33
+Haixun Wang;Carlo Zaniolo,26
+Haixun Wang;Carlo Zaniolo,1
+Gerhard Weikum,43
+Raghu Ramakrishnan,9
+Samuel Madden;Johannes Gehrke,1
+Raghu Ramakrishnan,2
+Haixun Wang;Philip S. Yu,12
+Raghu Ramakrishnan,15
+Serge Abiteboul,179
+Serge Abiteboul,1113
+Serge Abiteboul;Victor Vianu,129
+Serge Abiteboul;Moshe Y. Vardi;Victor Vianu,21
+Ronald Fagin,108
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini;Moshe Y. Vardi,45
+Diego Calvanese;Giuseppe De Giacomo;Moshe Y. Vardi,26
+Tomasz Imielinski,5
+Yannis Papakonstantinou;Victor Vianu,76
+Maurizio Lenzerini,13
+Dan Suciu,15
+Dan Suciu;Limsoon Wong,32
+Heikki Mannila,242
+Jeffrey D. Ullman,167
+Moshe Y. Vardi,9
+Ke Wang,4
+Gerhard Weikum,4
+Jan Chomicki,136
+Cynthia Dwork,19
+Victor Vianu,14
+Wolfgang Banzhaf,13
+Dipankar Dasgupta,32
+Zbigniew Michalewicz,31
+Bernhard Steffen,2
+Anil K. Jain,55
+Erol Gelenbe,1
+Lionel M. Ni,0
+Jeff Offutt,2
+Robert Harper,1
+Luc Moreau,31
+Luc Moreau,17
+Philip Wadler,114
+Philip Wadler,103
+Limsoon Wong,19
+Frank Pfenning,1
+Frank Pfenning,0
+David E. Goldberg,78
+David E. Goldberg,509
+David E. Goldberg,113
+Wolfgang Banzhaf,66
+Kalyanmoy Deb;David E. Goldberg,897
+Zbigniew Michalewicz,344
+Riccardo Poli,103
+Nicholas Ayache,1
+Shih-Fu Chang,14
+Anil K. Jain,60
+Ramesh Jain,20
+Stephen Grossberg,4
+Jitendra Malik,2
+Hanan Samet,19
+Ming Li,1
+Sushil Jajodia,0
+Shih-Fu Chang,137
+Dorin Comaniciu,29
+Ron Kimmel,3
+Wei-Ying Ma;B. S. Manjunath,643
+Miodrag Potkonjak;Anantha Chandrakasan,4
+Yong Rui;Thomas S. Huang;Sharad Mehrotra,767
+Eero P. Simoncelli,161
+John R. Smith;Shih-Fu Chang,390
+John R. Smith;Shih-Fu Chang,12
+Stefano Soatto;Pietro Perona,10
+Stefano Soatto;Pietro Perona,15
+Richard Szeliski,16
+Michael Unser,30
+Wei-Ying Ma;B. S. Manjunath,148
+Ming-Hsuan Yang,46
+Amit Sahai,7
+Sabrina De Capitani di Vimercati;Pierangela Samarati,2
+Serge Abiteboul,2
+Monica S. Lam,0
+Stefan Decker,1
+Thomas Eiter;Georg Gottlob,2
+David Harel,2
+Pascal Van Hentenryck,54
+Pascal Van Hentenryck,50
+Rajiv Gupta,10
+Ian Horrocks,48
+Vladimir Lifschitz,4
+Vladimir Lifschitz,268
+Dale Miller,112
+Dale Miller,209
+Dale Miller,82
+Dale Miller,0
+Judea Pearl,1
+Fernando C. N. Pereira,44
+Frank Pfenning,126
+Raymond Reiter,130
+Raghu Ramakrishnan,263
+Raghu Ramakrishnan;Divesh Srivastava;S. Sudarshan,64
+V. S. Subrahmanian,13
+V. S. Subrahmanian,9
+V. S. Subrahmanian;Carlo Zaniolo,82
+Carlo Zaniolo,53
+Justin Zobel,81
+Vladimir Lifschitz,28
+Thomas Eiter,10
+Thomas Eiter,0
+Joseph Y. Halpern,0
+Tuomas Sandholm,100
+Michael Wooldridge,80
+Michael Wooldridge,44
+Michael Wooldridge,87
+Milind Tambe,54
+Baochun Li,2
+Baochun Li;Klara Nahrstedt,38
+Schahram Dustdar,3
+Yong Rui;Thomas S. Huang;Sharad Mehrotra,176
+Xing Xie;Wei-Ying Ma;HongJiang Zhang,7
+Anil K. Jain,5
+Alex Pentland,200
+Avrim Blum,201
+William W. Cohen,25
+William W. Cohen,47
+William W. Cohen,13
+William W. Cohen,62
+William W. Cohen,21
+William W. Cohen,2464
+William W. Cohen,119
+Pedro Domingos,77
+Pedro Domingos,101
+Pedro Domingos,34
+Charles Elkan,291
+Charles Elkan,76
+Eleazar Eskin,304
+Oren Etzioni,21
+Oren Etzioni,15
+Yoav Freund;Robert E. Schapire,5140
+Nir Friedman,363
+Thorsten Joachims,395
+Thorsten Joachims,381
+Thorsten Joachims,369
+Thorsten Joachims,1129
+Thorsten Joachims,1634
+Michael I. Jordan,44
+Heikki Mannila,0
+Yishay Mansour,7
+Andrew Y. Ng,72
+Michael L. Littman,283
+Michael L. Littman,1075
+Andrew Y. Ng,102
+Andrew Y. Ng;Michael I. Jordan,16
+Sunita Sarawagi,15
+Robert E. Schapire,251
+Robert E. Schapire;Manfred K. Warmuth,25
+Peter Stone,31
+Peter Stone;Richard S. Sutton,179
+Vladimir Vapnik,0
+Manfred K. Warmuth,13
+Wei Wang;Zhi-Hua Zhou,29
+Xin Yao,8
+Robert Morris,204
+Erol Gelenbe,2
+Randy H. Katz,13
+Erol Gelenbe,1
+Erkki Oja,6
+Erkki Oja,0
+Dharma P. Agrawal,0
+Guohong Cao;Mukesh Singhal,63
+Jack Dongarra,3
+Rajiv Gupta,18
+George Karypis;Vipin Kumar,50
+Kai Li,477
+Charles E. Leiserson,833
+Margaret Martonosi;Anoop Gupta,29
+Lionel M. Ni,24
+Jie Wu,8
+Jie Wu,4
+Jie Wu,4
+Jie Wu,10
+Jie Wu,14
+Dennis Gannon,5
+Dharma P. Agrawal,0
+Hermann Ney,7
+Alex Pentland,10
+Bernt Schiele,14
+Ming-Hsuan Yang,9
+Martial Hebert,105
+Martial Hebert,12
+Sebastian Thrun,40
+Sebastian Thrun,114
+Sebastian Thrun;Wolfram Burgard;Dieter Fox,625
+Sebastian Thrun;Dieter Fox;Wolfram Burgard,84
+Ming Li;Russell H. Taylor,37
+Ming Li;Russell H. Taylor,3
+Andrew Blake,0
+Jack Dongarra,155
+Ken Kennedy,52
+Jie Wu,16
+H. T. Kung,6
+Sartaj Sahni,2
+Vivek Sarkar,69
+Vivek Sarkar,22
+Josep Domingo-Ferrer,77
+Gregory D. Abowd,218
+Philip A. Bernstein,137
+Luca Cardelli,7
+David Garlan,369
+David Garlan,12
+Erol Gelenbe,29
+Mary Jean Harrold,334
+Jeff Kramer,51
+Jeff Kramer,19
+Gian Pietro Picco,28
+Mahadev Satyanarayanan,13
+Douglas C. Schmidt,1
+Gregg Rothermel;Mary Jean Harrold,53
+Mary Shaw,137
+Mary Shaw,6
+Mary Shaw,229
+Michael Stonebraker,1
+Rudi Studer,6
+Daniel Thalmann,7
+Niklaus Wirth,97
+Rajiv Gupta;Mary Lou Soffa,18
+Rajiv Gupta;Mary Lou Soffa,3
+Gregg Rothermel;Mary Jean Harrold,99
+Gregg Rothermel;Mary Jean Harrold,83
+David Notkin,1
+Frank Leymann,48
+Tobias Nipkow,11
+Pedro Domingos,28
+Pascal Van Hentenryck,3
+Bing Liu,0
+Risto Miikkulainen,12
+Bart Selman,0
+Shashi Shekhar,0
+Ian Horrocks,37
+Jan Chomicki,193
+Andrew Zisserman,1
+Ming-Hsuan Yang,3
+Dieter Fensel,7
+Jie Wu;Karl Aberer,23
+Won Kim,9
+Won Kim,11
+Umeshwar Dayal,0
+Michael J. Carey,2
+Jun Wang,7
+Thomas Hofmann,21
+Surajit Chaudhuri,1
+Alberto O. Mendelzon,3
+Jeffrey D. Ullman,3
+Henning Schulzrinne,55
+Bing Liu,0
+Bing Liu,4
+Barry Smyth,71
+Manuel Blum;Prabhakar Raghavan,10
+Erol Gelenbe,224
+David Garlan,98
+Rajiv Gupta;Mary Lou Soffa,11
+Matthew Hennessy,46
+David S. Johnson,4
+Randy H. Katz,3
+Donald E. Knuth,126
+Teuvo Kohonen,1
+Josef Kittler,2
+Leonard Kleinrock,26
+Leonard Kleinrock,16
+Leonard Kleinrock,24
+Leslie Lamport,540
+Vladimir Lifschitz,5
+John McCarthy,559
+David Maier,65
+Zohar Manna,20
+Silvio Micali,0
+Robin Milner,6
+Allen Newell,26
+Michael O. Rabin,36
+Ronald L. Rivest,36
+Gerard Salton,20
+Gerard Salton,97
+Mary Shaw,11
+Ben Shneiderman,0
+Joseph Sifakis,0
+Herbert A. Simon,42
+Daniel Thalmann,4
+Jeffrey D. Ullman,44
+Avi Wigderson,1
+Terry Winograd,0
+Niklaus Wirth,143
+Edward A. Lee,32
+Enrico Motta,0
+Wolfgang Nejdl,13
+Olvi L. Mangasarian,32
+John M. Carroll;Mary Beth Rosson,0
+Thomas A. Henzinger,85
+Madhu Sudan,80
+Mihalis Yannakakis,12
+Mihalis Yannakakis,0
+Luca Cardelli,35
+Matthew Hennessy,0
+Birgit Pfitzmann,148
+James F. Allen,362
+Alan Borning,68
+Craig Boutilier,20
+Craig Boutilier,24
+Craig Boutilier,36
+Craig Boutilier,171
+Craig Boutilier,47
+Craig Boutilier,307
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini,87
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini,82
+William W. Cohen,81
+Pascal Fua,123
+Adnan Darwiche,42
+Adnan Darwiche,74
+Adnan Darwiche,8
+Rina Dechter,70
+Rina Dechter;Judea Pearl,35
+Rina Dechter;Judea Pearl,50
+Pedro Domingos,129
+Pedro Domingos,17
+Didier Dubois;Henri Prade,59
+Didier Dubois;Henri Prade,11
+Didier Dubois;Henri Prade,119
+Didier Dubois;Henri Prade,36
+Didier Dubois;Henri Prade,31
+Didier Dubois;Henri Prade,6
+Didier Dubois;Henri Prade,253
+Didier Dubois;Henri Prade,7
+Didier Dubois;Henri Prade,2
+Thomas Eiter;Georg Gottlob,29
+Charles Elkan,660
+Charles Elkan,30
+David Eppstein,24
+Ronald Fagin;Joseph Y. Halpern,197
+Boi Faltings,153
+Giuseppe De Giacomo;Maurizio Lenzerini,73
+David E. Goldberg,49
+Georg Gottlob,27
+Joseph Y. Halpern,19
+Joseph Y. Halpern,557
+Joseph Y. Halpern;Daphne Koller,21
+Joseph Y. Halpern;Judea Pearl,195
+Frank van Harmelen;Dieter Fensel,75
+Pascal Van Hentenryck,31
+Geoffrey E. Hinton,12
+Geoffrey E. Hinton,106
+Geoffrey E. Hinton,140
+Thomas Hofmann,108
+Ian Horrocks;Ulrike Sattler,362
+Ian Horrocks;Ulrike Sattler,89
+Eric Horvitz,2
+Katsushi Ikeuchi,121
+Tomasz Imielinski,79
+Tomasz Imielinski,36
+Anupam Joshi,18
+Takeo Kanade,24
+Kevin Knight,73
+Benjamin Kuipers,734
+Benjamin Kuipers,114
+Bing Liu,20
+Vladimir Lifschitz,553
+Vladimir Lifschitz,291
+Vladimir Lifschitz,128
+Daniela Rus,1
+Bing Liu,13
+Pattie Maes,312
+Jitendra Malik,66
+John McCarthy,868
+John McCarthy,25
+Kathleen McKeown,21
+Kathleen McKeown,1
+Robin Milner,545
+Marvin Minsky,49
+Thomas P. Moran,30
+Judea Pearl,1
+Judea Pearl,36
+Judea Pearl,4
+Judea Pearl,79
+Witold Pedrycz,2
+Alex Pentland,34
+Alex Pentland,843
+David Poole,210
+David Poole,253
+David Poole,28
+David Poole,216
+David Poole,49
+David Poole,49
+David Poole,34
+David Poole,59
+Henri Prade,47
+Raymond Reiter,48
+Azriel Rosenfeld,0
+Dan Roth,335
+Dan Roth,21
+Dan Roth,68
+Steven Salzberg,34
+Tuomas Sandholm,40
+Tuomas Sandholm,661
+Tuomas Sandholm;Subhash Suri,68
+Robert E. Schapire,828
+Bart Selman,27
+Herbert A. Simon,20
+Demetri Terzopoulos,51
+Demetri Terzopoulos,10
+John K. Tsotsos,8
+John K. Tsotsos,3
+John K. Tsotsos,25
+John K. Tsotsos,104
+Moshe Y. Vardi,5
+Moshe Y. Vardi,34
+Toby Walsh,48
+Toby Walsh,178
+Toby Walsh,224
+Daniel S. Weld,13
+Daniel S. Weld,93
+Michael P. Wellman,14
+Jason Weston,33
+Yorick Wilks,22
+Yorick Wilks,24
+Yorick Wilks,2
+Feng Zhao,94
+Zhi-Hua Zhou;Ming Li,95
+Peter Stone,34
+Yoshua Bengio,8
+Yoshua Bengio,2
+Teuvo Kohonen,13
+Steve Lawrence;C. Lee Giles,83
+Pedro Domingos,2
+Daphne Koller,75
+Vladimir Lifschitz,0
+Bart Selman,0
+David Poole,33
+Frank van Harmelen,0
+Raouf Boutaba,2
+Andrew Blake,0
+Paul C. van Oorschot,0
+Bart Preneel,9
+Vern Paxson,128
+Christos Faloutsos,1
+Hugues Hoppe,2
+Xiang-Yang Li,13
+Frank van Harmelen,15
+Raj Jain,172
+Josep Domingo-Ferrer,15
+Amit Sahai,0
+Eitan Altman,12
+Mostafa H. Ammar,52
+Guohong Cao;Mukesh Singhal,42
+Srdjan Capkun;Jean-Pierre Hubaux,356
+Sunghyun Choi;Kang G. Shin,38
+Anja Feldmann;S. Muthukrishnan,311
+Robert Morris,120
+Robert Morris,16
+Chunming Qiao,11
+John A. Stankovic,4
+Gene Tsudik,296
+Jun Wang;Klara Nahrstedt,74
+Michele Zorzi,41
+Pat Hanrahan,4
+Stuart K. Card,2
+Stuart K. Card,1
+John M. Carroll,27
+Zohar Manna;Amir Pnueli,11
+Jeffrey D. Ullman,5
+Dieter Fensel,113
+Gregory D. Abowd,50
+Jonathan Grudin,8
+Alex Pentland,0
+Ben Shneiderman,0
+Gio Wiederhold,92
+Didier Dubois;Henri Prade,11
+Didier Dubois;Henri Prade,47
+Didier Dubois;Henri Prade,123
+Didier Dubois;Henri Prade,26
+Pascal Fua,20
+Michael P. Wellman,31
+Rafail Ostrovsky,2
+Judea Pearl,12
+Andrew A. Chien,5
+Manish Gupta,10
+Mary Jean Harrold,3
+George Karypis;Vipin Kumar,8
+George Karypis;Vipin Kumar,229
+Ken Kennedy,41
+Charles E. Leiserson,0
+S. Muthukrishnan,0
+Jie Wu,5
+Jie Wu,13
+Sartaj Sahni,47
+Uzi Vishkin,19
+Franco Zambonelli,3
+Joseph Sifakis,0
+Adrian Perrig,1
+Shankar Sastry,0
+Wei Wang;Kannan Ramchandran,15
+Hector Garcia-Molina,2
+Maurizio Lenzerini,1
+Edward A. Fox,8
+Hojjat Adeli,0
+Charles E. Leiserson,9
+Bernard Chazelle,8
+Kurt Mehlhorn,0
+Gonzalo Navarro,6
+Roberto Tamassia,2
+Mihalis Yannakakis,3
+Uzi Vishkin,0
+Dharma P. Agrawal,5
+Lionel M. Ni,0
+Brad Calder;Dirk Grunwald,107
+Brad Calder;Dirk Grunwald,103
+Ming-Syan Chen;Kang G. Shin,17
+Babak Falsafi;David A. Wood,107
+Mary Jane Irwin,14
+H. T. Kung,58
+H. T. Kung,34
+Gurindar S. Sohi,0
+Gurindar S. Sohi,13
+Peter Steenkiste,16
+Kishor S. Trivedi,6
+David A. Wood;Randy H. Katz,13
+Kaushik Roy,3
+Jun Wang,46
+Raouf Boutaba,0
+Erol Gelenbe,0
+Erol Gelenbe,8
+Erol Gelenbe,13
+Erol Gelenbe,13
+Erol Gelenbe,16
+Dennis Gannon,0
+Hsinchun Chen,1
+Hsinchun Chen,4
+Hsinchun Chen,3
+Hsinchun Chen,4
+Thomas Eiter;Georg Gottlob;Heikki Mannila,5
+Luca Benini;Giovanni De Micheli,93
+Luca Benini;Giovanni De Micheli,493
+Deborah Estrin,20
+Jan M. Rabaey,12
+Philip S. Yu,0
+Nassir Navab,19
+Burkhard Rost,141
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini,3
+Edward A. Fox,12
+Didier Dubois;Henri Prade,13
+W. Bruce Croft,1
+Maurizio Lenzerini,1
+Steven Salzberg,35
+Gio Wiederhold,36
+Srinivas Devadas,0
+V. S. Subrahmanian,61
+Shun-ichi Amari,1
+Edward A. Lee,1
+Edward A. Lee,419
+Craig Chambers,3
+Lionel M. Ni,0
+Jack Dongarra,1
+Jack Dongarra,3
+Jie Wu,1
+David B. Johnson,0
+Sartaj Sahni,0
+Sartaj Sahni,47
+Sartaj Sahni,0
+Andrew B. Kahng,8
+Andrew B. Kahng,21
+Jason Cong;Majid Sarrafzadeh,72
+Jason Cong,18
+Andrew B. Kahng,117
+Andrew B. Kahng,0
+David Garlan,2
+David Notkin,6
+Karl Aberer,6
+Dinesh Manocha,5
+Dinesh Manocha,25
+Victor Shoup,33
+Victor Shoup,37
+Madhu Sudan,0
+Luca Benini;Giovanni De Micheli,0
+Joseph Sifakis,1
+Douglas C. Schmidt,23
+Mateo Valero,3
+Thomas Ball,83
+Manuel Blum,3
+Mary Jean Harrold,1
+Mary Jean Harrold;Gregg Rothermel,50
+Mary Jean Harrold;Mary Lou Soffa,133
+Gregg Rothermel;Mary Jean Harrold,131
+Shafi Goldwasser,0
+Mihir Bellare,53
+Mihir Bellare;Uriel Feige;Joe Kilian,6
+Rafail Ostrovsky;Avi Wigderson,113
+Adi Shamir,0
+Uriel Feige,23
+Micha Sharir,0
+Avi Wigderson,0
+Josep Domingo-Ferrer,153
+Mihir Bellare,118
+David Wagner,48
+Paul C. van Oorschot,79
+Bart Preneel,5
+H. Vincent Poor,5
+Niraj K. Jha,19
+Srinivas Devadas,62
+Srinivas Devadas;Kurt Keutzer,5
+Josep Domingo-Ferrer,1
+Peter Brusilovsky,143
+Peter Brusilovsky,44
+Peter Brusilovsky,70
+Eric Horvitz,2
+Justine Cassell,2
+Eric Horvitz,4
+Pattie Maes,196
+Barry Smyth,2
+Ben Shneiderman,234
+Daniel S. Weld,0
+Enrico Motta,0
+Ben Shneiderman,2
+Ben Shneiderman,0
+Daniel Thalmann,25
+Ajith Abraham,172
+Stephen Grossberg,2
+David Peleg,14
+Rakesh Agrawal;H. V. Jagadish,16
+Luc Moreau,7
+Baochun Li,28
+Serge Abiteboul;Victor Vianu,9
+Umeshwar Dayal,405
+Jiawei Han,12
+Randy H. Katz,1
+Ben Shneiderman,4
+Thomas Eiter;Georg Gottlob,79
+Giuseppe De Giacomo;Maurizio Lenzerini,33
+Georg Gottlob,1
+Fernando C. N. Pereira,30
+Pascal Van Hentenryck,1
+Luca Cardelli,52
+Niklaus Wirth,2
+Niklaus Wirth,1
+Sankar K. Pal,1
+Mark Crovella,70
+Robert Morris,1
+Sebastian Thrun,11
+John McCarthy,37
+Oren Etzioni,3
+Rakesh Agrawal,1
+William W. Cohen;Sunita Sarawagi,178
+Jiawei Han,46
+Pedro Domingos,85
+Tao Li,53
+Inderjit S. Dhillon,832
+Pedro Domingos,32
+Pedro Domingos,24
+Pedro Domingos,73
+Pedro Domingos,804
+Charles Elkan,61
+Jim Gray,5
+Thorsten Joachims,1859
+Thorsten Joachims,708
+Andrew McCallum,4
+David Poole,5
+Prabhakar Raghavan,1
+John Riedl,2
+Raghu Ramakrishnan,4
+Padhraic Smyth,158
+John A. Stankovic,1
+Jeffrey D. Ullman,22
+Soumen Chakrabarti,2
+Cynthia Dwork,23
+Jitendra Malik,0
+Sunita Sarawagi,2
+Carlo Zaniolo,4
+Stephen Grossberg,4
+Nadia Magnenat-Thalmann,3
+Xin Yao,2
+Barry Smyth,8
+Joseph Y. Halpern,10
+Dieter Fox,4
+Dieter Fensel,89
+Ian Horrocks,27
+Pattie Maes,2
+Pattie Maes,338
+John McCarthy,0
+Ulrike Sattler,124
+Steffen Staab,5
+Sebastian Thrun,2
+Michael Wooldridge,4
+Marvin Minsky,0
+Henning Schulzrinne,25
+James F. Allen,128
+Craig Boutilier,34
+Craig Boutilier,349
+Diego Calvanese,56
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini;Moshe Y. Vardi,67
+Diego Calvanese;Giuseppe De Giacomo;Moshe Y. Vardi,44
+Adnan Darwiche,73
+Adnan Darwiche,30
+Didier Dubois;Henri Prade,28
+Didier Dubois;Henri Prade,15
+Oren Etzioni,27
+Nir Friedman;Joseph Y. Halpern,50
+Nir Friedman;Joseph Y. Halpern,48
+Nir Friedman;Joseph Y. Halpern,81
+Giuseppe De Giacomo;Maurizio Lenzerini,149
+Joseph Y. Halpern,33
+Joseph Y. Halpern,43
+Joseph Y. Halpern;Moshe Y. Vardi,222
+Ian Horrocks,540
+Vladimir Lifschitz,14
+Daphne Koller;Joseph Y. Halpern,13
+John McCarthy,20
+John McCarthy,38
+John McCarthy,1
+John McCarthy,33
+Vladimir Lifschitz,59
+Vladimir Lifschitz,46
+Vladimir Lifschitz,78
+Judea Pearl,187
+Bart Selman,44
+David Poole,116
+Raymond Reiter,15
+Raymond Reiter,2
+Raymond Reiter,198
+Raymond Reiter,62
+Michael P. Wellman,8
+Joseph Y. Halpern,18
+Joseph Y. Halpern,19
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini,60
+Stefan Decker,20
+Gio Wiederhold,0
+Prabhakar Raghavan,1
+Dale Miller,2
+Rachid Guerraoui;Michel Raynal,3
+Noga Alon,54
+Manuel Blum,2
+Cynthia Dwork,17
+Gonzalo Navarro,7
+Prabhakar Raghavan,5
+Madhu Sudan,0
+Avi Wigderson,0
+Mihalis Yannakakis,0
+Ronald Fagin,4
+Hari Balakrishnan,6
+Douglas C. Schmidt,1
+Charles E. Perkins,0
+Won Kim;Gul Agha,31
+Vivek Sarkar,30
+Vivek Sarkar,35
+Vivek Sarkar,4
+Margaret Martonosi,16
+Niklaus Wirth,18
+Niklaus Wirth,1
+David Harel,0
+Matthias Felleisen,40
+Luca Cardelli,162
+Robin Milner,333
+Frank Pfenning,122
+Philip Wadler,128
+Philip Wadler,884
+Serge Abiteboul,20
+Serge Abiteboul;Christos H. Papadimitriou;Victor Vianu,20
+Serge Abiteboul;Victor Vianu,127
+Rajeev Alur;Thomas A. Henzinger,470
+Rajeev Alur;Thomas A. Henzinger,46
+Rajeev Alur;Thomas A. Henzinger,596
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini,34
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini;Moshe Y. Vardi,66
+Edmund M. Clarke,14
+Ronald Fagin,0
+Ronald Fagin;Joseph Y. Halpern,15
+Patrice Godefroid;Pierre Wolper,307
+Georg Gottlob,56
+Robert Harper,0
+Thomas A. Henzinger,1509
+Dexter Kozen,8
+Dexter Kozen,479
+Dexter Kozen,40
+Dexter Kozen,89
+Tobias Nipkow,30
+John McCarthy,1
+Tobias Nipkow,298
+Jens Palsberg,104
+Dale Miller,167
+Lawrence C. Paulson,45
+Frank Pfenning,67
+Frank Pfenning,183
+Frank Pfenning,127
+Frank Pfenning,65
+Moshe Y. Vardi,75
+Moshe Y. Vardi,51
+Moshe Y. Vardi,34
+Moshe Y. Vardi,34
+Bart Selman,2
+Mihalis Yannakakis,27
+Dexter Kozen,12
+Luca Cardelli,233
+Zohar Manna;Pierre Wolper,402
+Zohar Manna;Amir Pnueli,102
+Edmund M. Clarke;E. Allen Emerson,2803
+Joseph Sifakis,58
+Moshe Y. Vardi,52
+Dexter Kozen,52
+Dexter Kozen,49
+Leslie Lamport,10
+Frank van Harmelen,7
+Giuseppe De Giacomo,3
+Thomas Eiter;Georg Gottlob,6
+Georg Gottlob;Christos H. Papadimitriou,25
+Dale Miller,43
+Toby Walsh,55
+Edmund M. Clarke,3
+Rina Dechter,0
+Thomas Eiter,9
+Maurizio Lenzerini,5
+Gian Pietro Picco,101
+Michael P. Wellman,133
+Michael Wooldridge,68
+Mostafa H. Ammar,10
+Erol Gelenbe,82
+Erol Gelenbe,7
+Ahmed Helmy;Deborah Estrin,26
+Michael Wooldridge,0
+Peter Brusilovsky,441
+Kishor S. Trivedi,16
+David Harel,25
+Imrich Chlamtac,0
+Josep Domingo-Ferrer,22
+Christian S. Jensen,34
+Prabhakar Raghavan,2
+Karl Aberer,3
+Rajeev Alur,0
+Giovanni De Micheli,11
+Frank van Harmelen,36
+Frank van Harmelen,33
+V. S. Subrahmanian,20
+Carlo Ghezzi,2
+Luca Cardelli,5
+Cynthia Dwork,9
+Charles Elkan,7
+Amos Fiat,0
+Oded Goldreich;Silvio Micali;Avi Wigderson,4
+David Harel,2
+David Harel,12
+David Harel,25
+Matthew Hennessy,0
+Dexter Kozen,6
+Dexter Kozen,136
+Dexter Kozen,70
+Silvio Micali,0
+Zohar Manna;Amir Pnueli,15
+Robin Milner,52
+Robin Milner,16
+Robin Milner,62
+Kurt Mehlhorn,2
+Kurt Mehlhorn,33
+Kurt Mehlhorn;Zvi Galil,36
+Judea Pearl,0
+David Peleg,59
+David Peleg,9
+Dan Roth,0
+Joseph Sifakis,61
+Joseph Sifakis,22
+Bernhard Steffen,10
+Victor Vianu,1
+Uzi Vishkin,0
+Avi Wigderson,47
+Uzi Vishkin,0
+Philip Wadler,91
+Kurt Mehlhorn,1
+Philip Wadler,70
+Andrew Blake,0
+John McCarthy,124
+Ming Li;Russell H. Taylor,4
+Rajiv Gupta,5
+Gurindar S. Sohi,5
+Niklaus Wirth,1
+Baochun Li;Klara Nahrstedt,70
+Ramesh Jain,0
+Wei-Ying Ma,1
+Ramesh Jain,7
+Thomas S. Huang,2
+Alex Pentland,1
+Robbert van Renesse,22
+Anil K. Jain,5
+Yorick Wilks,30
+Edward A. Fox,3
+Ramesh Jain,5
+Alex Pentland,5
+Yong Rui;Thomas S. Huang,173
+John R. Smith;Shih-Fu Chang,1988
+Ian F. Akyildiz,2
+Ian F. Akyildiz,1
+Shih-Fu Chang,1
+Wolfgang Nejdl,2
+Ramesh Jain,17
+Wen Gao,0
+HongJiang Zhang;Wei-Ying Ma,3
+Sajal K. Das,1
+Eitan Altman,59
+Hari Balakrishnan;Venkata N. Padmanabhan;Randy H. Katz,429
+Sunghyun Choi;Kang G. Shin,18
+Sunghyun Choi;Kang G. Shin,25
+Guohong Cao,243
+Charles E. Perkins;David B. Johnson,4725
+Ben Shneiderman,1
+Stefan Decker;Rudi Studer,3
+Jeff Kramer,1
+Joseph Sifakis,0
+Luca Cardelli,63
+Dexter Kozen,7
+John R. Smith,0
+Leslie Lamport,5
+Sajal K. Das,0
+Haim J. Wolfson,2
+Sunita Sarawagi,37
+Ian F. Akyildiz,1
+Klara Nahrstedt,1
+Mario Gerla,1
+Kevin Knight;Philipp Koehn,11
+Wei Wang;Kevin Knight;Daniel Marcu,21
+Yorick Wilks,0
+James F. Allen,0
+James F. Allen,32
+Kathleen McKeown;Steven Feiner,11
+Michel Raynal,5
+Leslie Lamport,30
+Deborah L. McGuinness,2
+Jon Crowcroft,16
+Ian F. Akyildiz,1
+Ahmed Helmy,89
+Ben Shneiderman,0
+Joseph M. Hellerstein,1
+Josep Domingo-Ferrer,30
+John Mylopoulos,3
+David Harel,3
+Carlo Zaniolo,1
+Pierre Baldi,27
+Pierre Baldi,27
+Shun-ichi Amari,101
+Avrim Blum;Ronald L. Rivest,335
+William W. Cohen,32
+William W. Cohen;Robert E. Schapire;Yoram Singer,619
+Trevor Darrell,4
+Trevor Darrell;Alex Pentland,1
+Trevor Darrell;Alex Pentland,19
+Trevor Darrell;Alex Pentland,13
+Yoav Freund;David Haussler,87
+Wulfram Gerstner,43
+Zoubin Ghahramani,88
+Zoubin Ghahramani;Geoffrey E. Hinton,26
+Zoubin Ghahramani;Michael I. Jordan,391
+Zoubin Ghahramani;Michael I. Jordan,895
+Thomas Hofmann,102
+Andrew Y. Ng;Michael I. Jordan,5
+Andrew Y. Ng;Michael I. Jordan,9
+Michael Mozer,98
+Michael Mozer,6
+Sunita Sarawagi;William W. Cohen,340
+Amnon Shashua,40
+Yoram Singer,35
+Yoram Singer,14
+Yoram Singer;Manfred K. Warmuth,48
+Yoram Singer;Manfred K. Warmuth,42
+Padhraic Smyth,7
+Padhraic Smyth,1
+Padhraic Smyth,334
+Sebastian Thrun,31
+Sebastian Thrun,144
+Sebastian Thrun,141
+Sebastian Thrun,262
+Sebastian Thrun,188
+Vladimir Vapnik,213
+Manfred K. Warmuth,8
+Charles E. Leiserson,2
+Marc Snir,12
+Uzi Vishkin,17
+Vladimir Lifschitz,0
+Vladimir Lifschitz,59
+Vladimir Lifschitz,6
+John McCarthy,1227
+David Poole,12
+Didier Dubois;Henri Prade,61
+Pierre Baldi,2
+Zoubin Ghahramani,392
+Mostafa H. Ammar,16
+Ernst Biersack,7
+Henning Schulzrinne,4
+Henning Schulzrinne,36
+Ming Li,2
+Nick Feamster;Hari Balakrishnan,215
+Katsushi Ikeuchi;Martial Hebert,20
+Charles E. Perkins,1
+Demetri Terzopoulos,10
+Georg Gottlob,1
+Steffen Staab,1
+David Harel,3
+David Maier,27
+Umeshwar Dayal,2
+Michael Stonebraker,62
+Randy H. Katz,1
+John Mylopoulos,1
+Elisa Bertino;Sushil Jajodia;Pierangela Samarati,1
+Elisa Bertino;Pierangela Samarati,20
+Pattie Maes,1552
+Oscar Nierstrasz,176
+Oscar Nierstrasz,427
+Oscar Nierstrasz,0
+Mary Beth Rosson,2
+Philip Wadler,1
+John McCarthy,42
+Leslie Lamport,10
+Michel Raynal,0
+Joseph Sifakis,6
+David Kotz,398
+Yuanyuan Zhou;Liviu Iftode;Kai Li,263
+Frank Leymann,26
+Hector Garcia-Molina,1
+Rajkumar Buyya,10
+Michel Raynal,6
+Michel Raynal,1
+Rachid Guerraoui;Michel Raynal,12
+Neil D. Jones,4
+Ming Li;Zhi-Hua Zhou,38
+Prabhakar Raghavan,2
+Andrew Tomkins,1
+Philip S. Yu,0
+Jiawei Han,1
+Christos Faloutsos,1
+Schahram Dustdar,14
+Carl Kesselman,1
+Gio Wiederhold,6
+Gul Agha,20
+Anoop Gupta,8
+Geoffrey E. Hinton,146
+Luc Moreau,8
+David Notkin,5
+Jens Palsberg,50
+Jan M. Rabaey,2
+Hanan Samet,2
+Feng Zhao,7
+Jennifer Rexford;Kang G. Shin,38
+David A. Patterson,11
+David Kotz,77
+Philip Wadler,48
+Rajkumar Buyya,12
+Steve Lawrence;C. Lee Giles,16
+Amin Vahdat,12
+Craig Chambers,15
+Neil D. Jones,0
+Philip Wadler,158
+Jens Palsberg,1
+Thomas W. Reps,35
+Ari Juels,161
+Gene Tsudik,228
+Jie Wu,4
+Hari Balakrishnan,1
+Ian F. Akyildiz,21
+Erol Gelenbe,10
+Scott Shenker,46
+Joseph Sifakis,322
+Birgit Pfitzmann,15
+Gene Tsudik,48
+Ming C. Lin,1
+Norman I. Badler,109
+David Salesin,0
+Josep Domingo-Ferrer,38
+Markus Jakobsson,77
+Markus Jakobsson,15
+Bart Preneel,4
+Jacques Stern,4
+Pedro Domingos,4
+Rakesh Agrawal,4
+Soumen Chakrabarti,37
+Christos Faloutsos,4
+C. Lee Giles,4
+Heikki Mannila,4
+Sebastian Thrun,98
+Dan Roth,9
+Barry Smyth,0
+Anil K. Jain,422
+Monica S. Lam,1139
+Cormac Flanagan;Matthias Felleisen,94
+Rajiv Gupta,96
+Maurice Herlihy,10
+Monica S. Lam,2
+Vivek Sarkar,193
+Vivek Sarkar,21
+David Wagner,4
+Dale Miller,1
+Baruch Awerbuch,15
+Baruch Awerbuch;Yishay Mansour,17
+Amotz Bar-Noy;Danny Dolev,62
+Amotz Bar-Noy;Yishay Mansour,7
+Guohong Cao;Mukesh Singhal,129
+Danny Dolev,0
+Rosario Gennaro,32
+Shafi Goldwasser,213
+Jim Gray,52
+Rachid Guerraoui,108
+Joseph Y. Halpern,109
+Joseph Y. Halpern;Ronald Fagin,84
+Thomas A. Henzinger,51
+Maurice Herlihy,337
+Maurice Herlihy,18
+Maurice Herlihy,49
+Maurice Herlihy,193
+Markus Jakobsson,147
+Markus Jakobsson;Ari Juels,83
+David B. Johnson,0
+Hugo Krawczyk,86
+Barbara Liskov,134
+Silvio Micali,141
+Robin Milner,15
+Michael Mitzenmacher,467
+Andrzej Pelc;David Peleg,57
+David Peleg;Jeffrey D. Ullman,297
+Amir Pnueli,0
+Amir Pnueli,3
+Mahadev Satyanarayanan,664
+Douglas C. Schmidt,4
+Abraham Silberschatz,26
+Marc Snir,3
+Sam Toueg,102
+George Varghese,87
+George Varghese,0
+Tom Leighton,5
+Maurice Herlihy,2
+Joseph Y. Halpern,19
+Serge Abiteboul,2
+Serge Abiteboul,201
+Won Kim,55
+Serge Abiteboul;Victor Vianu,1
+Serge Abiteboul;Victor Vianu,11
+Serge Abiteboul;Victor Vianu,62
+Serge Abiteboul;Victor Vianu,133
+Serge Abiteboul;Victor Vianu,257
+Alfred V. Aho,4
+Rakesh Agrawal,4
+Rakesh Agrawal,27
+Peter Buneman,648
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini,358
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini;Moshe Y. Vardi,54
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini;Moshe Y. Vardi,28
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini;Moshe Y. Vardi,28
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini;Moshe Y. Vardi,99
+Diego Calvanese;Maurizio Lenzerini,53
+Michael J. Carey,16
+Surajit Chaudhuri,1
+Surajit Chaudhuri,17
+Surajit Chaudhuri,414
+Surajit Chaudhuri;Moshe Y. Vardi,93
+Surajit Chaudhuri;Moshe Y. Vardi,20
+Jan Chomicki,54
+Jan Chomicki,30
+Jan Chomicki;Tomasz Imielinski,86
+Umeshwar Dayal,49
+Rina Dechter,52
+Thomas Eiter;Georg Gottlob,383
+Thomas Eiter;Georg Gottlob,43
+Thomas Eiter;Georg Gottlob;Heikki Mannila,69
+Charles Elkan,24
+Charles Elkan,77
+Ronald Fagin,86
+Ronald Fagin,462
+Ronald Fagin,302
+Ronald Fagin;Jeffrey D. Ullman;Moshe Y. Vardi,389
+Gaston H. Gonnet,59
+Georg Gottlob,34
+Georg Gottlob,37
+Joseph Y. Halpern,3
+David Harel,3
+Tomasz Imielinski,4
+David Maier;Jeffrey D. Ullman;Moshe Y. Vardi,10
+Maurizio Lenzerini,1735
+Jeffrey F. Naughton,99
+Jeffrey F. Naughton,110
+Jeffrey F. Naughton;Yehoshua Sagiv,64
+David Maier,27
+David Maier;Jeffrey D. Ullman,56
+Christos H. Papadimitriou,21
+Yehoshua Sagiv;Moshe Y. Vardi,34
+Christos H. Papadimitriou;Dan Suciu;Victor Vianu,108
+Christos H. Papadimitriou;Mihalis Yannakakis,59
+Christos H. Papadimitriou;Mihalis Yannakakis,8
+Christos H. Papadimitriou;Mihalis Yannakakis,33
+Christos H. Papadimitriou;Mihalis Yannakakis,76
+Yannis Papakonstantinou;Victor Vianu,226
+Raghu Ramakrishnan;Yehoshua Sagiv;Jeffrey D. Ullman;Moshe Y. Vardi,70
+Raymond Reiter,130
+Divesh Srivastava;Raghu Ramakrishnan,98
+Dan Suciu,0
+Yehoshua Sagiv,213
+Yehoshua Sagiv,44
+Yehoshua Sagiv,229
+Jeffrey D. Ullman,88
+Jeffrey D. Ullman,102
+Jeffrey D. Ullman,139
+Jeffrey D. Ullman;Moshe Y. Vardi,28
+Moshe Y. Vardi,44
+Moshe Y. Vardi,43
+Moshe Y. Vardi,91
+Moshe Y. Vardi,32
+Moshe Y. Vardi,71
+Moshe Y. Vardi,162
+Victor Vianu,168
+Victor Vianu,25
+Victor Vianu,2
+Ke Wang,6
+Gerhard Weikum,101
+Limsoon Wong,122
+Mihalis Yannakakis,9
+Mihalis Yannakakis,132
+Carlo Zaniolo,246
+Rajeev Alur,42
+Brad Calder;Dirk Grunwald,184
+Luca Cardelli,166
+Luca Cardelli,725
+Luca Cardelli,229
+Alfred V. Aho;Jeffrey D. Ullman,743
+Monica S. Lam,8
+E. Allen Emerson;Joseph Y. Halpern,12
+Matthias Felleisen,1
+Matthias Felleisen,237
+Cormac Flanagan,162
+Cormac Flanagan;Matthias Felleisen,82
+Cormac Flanagan;Patrice Godefroid,268
+Patrice Godefroid,622
+Rajiv Gupta,50
+Joseph Y. Halpern,16
+David Harel,3
+Thomas A. Henzinger;Zohar Manna;Amir Pnueli,174
+Leslie Lamport,479
+Leslie Lamport,22
+Leslie Lamport,36
+Ken Kennedy,81
+Zohar Manna;Amir Pnueli,2
+Zohar Manna;Amir Pnueli,221
+Zohar Manna;Amir Pnueli,139
+Robin Milner,8
+Lawrence C. Paulson,98
+Raghu Ramakrishnan,13
+Raghu Ramakrishnan;Abraham Silberschatz,11
+Thomas W. Reps,98
+Marc Snir,0
+Moshe Y. Vardi,208
+Philip Wadler,256
+Philip Wadler,66
+Philip Wadler,767
+Pierre Wolper,304
+Patrice Godefroid,243
+Philipp Koehn,5
+Peter Buneman,12
+David Maier,0
+Jean-Yves Le Boudec;Patrick Thiran,1
+Dale Miller,1
+Rajiv Gupta,13
+Rajiv Gupta;Mary Lou Soffa,10
+Pat Hanrahan,6
+Maurice Herlihy,176
+Andrew A. Chien,3
+Andrew A. Chien,2
+Mark D. Hill,1
+Jack Dongarra,0
+Dennis Gannon,1
+George Karypis;Vipin Kumar,118
+Ken Kennedy,1
+Wolfgang Banzhaf,181
+David E. Goldberg,53
+Stefan Decker,0
+Michel Raynal,2
+Michel Raynal,61
+Shun-ichi Amari,3
+Pedro Domingos,2
+Bing Liu,2
+Carles Sierra,5
+Ke Wang;Bing Liu,31
+Zhi-Hua Zhou,25
+Matthew Hennessy,21
+John A. Stankovic,17
+Elisa Bertino,1
+Raj Jain,5
+Jack Dongarra,1
+William Gropp,24
+William Gropp,0
+William Gropp,81
+William Gropp,2
+Miron Livny,2
+Satoshi Matsuoka,7
+Joseph Y. Halpern,1
+Luca Cardelli,8
+William Gropp,5
+Nicholas J. Higham,6
+Jeff Kramer,0
+Qian Zhang,2
+Vern Paxson,4
+Oded Goldreich;Avi Wigderson,26
+Oded Goldreich;Avi Wigderson,24
+Russell Impagliazzo,1
+Russell Impagliazzo,1
+Michael Luby,11
+Uriel Feige,7
+Avi Wigderson,0
+John M. Carroll,59
+David Harel,3
+John Mylopoulos,26
+Mary Beth Rosson,0
+Eleazar Eskin,34
+Eleazar Eskin,15
+Gul Agha,78
+Leslie Lamport,51
+Rajeev Alur;Thomas A. Henzinger,608
+Zohar Manna;Amir Pnueli,229
+Thomas A. Henzinger;Zohar Manna;Amir Pnueli,245
+Tobias Nipkow,30
+E. Allen Emerson,34
+Matthew Hennessy,15
+Elisa Bertino,84
+Elisa Bertino,6
+Jiawei Han,3
+M. Tamer Özsu,0
+Abraham Silberschatz,0
+Dan Suciu,2
+Oscar Nierstrasz,17
+Peter Stone,1
+Peter Stone,31
+Peter Stone,5
+Peter Stone;Richard S. Sutton,42
+Didier Dubois;Henri Prade,18
+Yiyu Yao,140
+Witold Pedrycz,11
+Yiyu Yao,51
+Yiyu Yao,88
+Sankar K. Pal,2
+Witold Pedrycz,4
+Tobias Nipkow,36
+Philip Wadler,29
+Frank Pfenning,3
+Farnam Jahanian,1
+John A. Stankovic,3
+Krithi Ramamritham,0
+Farnam Jahanian,15
+John A. Stankovic;Krithi Ramamritham,137
+Joseph Sifakis,11
+Feng Zhao,3
+Jennifer Widom,54
+Carlo Zaniolo,92
+Bijan Parsia,5
+Ulrike Sattler,3
+Luc Moreau,30
+Sabrina De Capitani di Vimercati,11
+Aravind Srinivasan,2
+Leslie Lamport,10
+Frank Pfenning,1
+Erol Gelenbe,8
+Toby Walsh,11
+Neil D. Jones,28
+Mary Lou Soffa,2
+Bernhard Steffen,55
+David Wagner,5
+David Wagner,298
+Alberto O. Mendelzon,3
+Umeshwar Dayal,0
+Christos Faloutsos,3
+Raghu Ramakrishnan,0
+Dennis Shasha,0
+Dennis Shasha,0
+Victor Vianu,5
+Luca Benini,0
+Luca Benini,1
+Giovanni De Micheli,0
+Michael P. Wellman,1
+Steven Feiner,7
+Dennis Gannon,1
+Rajiv Gupta,17
+George Karypis,15
+George Karypis;Vipin Kumar,2
+George Karypis;Vipin Kumar,189
+Zbigniew Michalewicz,3
+Ron Kimmel,61
+Gregg Rothermel,2
+Amir Pnueli,862
+Anil K. Jain,61
+Yorick Wilks,69
+Ari Juels,442
+Bart Preneel,5
+Gene Tsudik,9
+Ivan Damgård,5
+Tao Li,5
+Haixun Wang;Carlo Zaniolo,56
+Josep Domingo-Ferrer,17
+Birgit Pfitzmann,0
+Luca Cardelli,1214
+John Mitchell,37
+Lawrence C. Paulson,18
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini,1
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini;Moshe Y. Vardi,1
+Raghu Ramakrishnan,0
+Gerhard Weikum,2
+Karl Aberer,0
+Elisa Bertino,4
+Jan Camenisch,8
+Jan Camenisch,0
+Nenad Medvidovic,64
+Witold Pedrycz,45
+Gio Wiederhold,11
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini,267
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini,267
+Philip A. Bernstein,45
+Carl Kesselman,6
+Wolfgang Nejdl,9
+Rudi Studer,2
+Christos Faloutsos,1
+Christos H. Papadimitriou,0
+Daniel Thalmann,6
+Michel Raynal,8
+David Garlan,76
+Avrim Blum;Ronald L. Rivest,335
+Ronald L. Rivest;Robert E. Schapire,365
+Bernard Chazelle,0
+Zvi Galil,0
+Simon S. Lam,6
+Ernst Biersack,163
+Simon S. Lam,23
+Baruch Awerbuch,13
+Baruch Awerbuch;David Peleg,232
+Sunghyun Choi;Kang G. Shin,232
+Jean-Yves Le Boudec,6
+Deborah Estrin,17
+Sally Floyd;Van Jacobson,281
+Mark Handley,58
+Mark Handley;Jon Crowcroft,120
+Van Jacobson,5586
+Raj Jain,60
+Srinivasan Keshav,931
+Vern Paxson,1152
+Vern Paxson,862
+Vern Paxson,312
+Vern Paxson;Sally Floyd,3932
+Robbert van Renesse,62
+Scott Shenker,99
+Scott Shenker,220
+Peter Steenkiste,20
+Willy Zwaenepoel,53
+Michael T. Goodrich;Roberto Tamassia,4
+Michael T. Goodrich;Roberto Tamassia,14
+Michael T. Goodrich;Roberto Tamassia,7
+David Kotz,9
+Kevin Skadron,0
+Peter Steenkiste,5
+John M. Carroll,45
+Thomas P. Moran,0
+Thomas P. Moran,1
+Boi Faltings,13
+Michael L. Littman;Peter Stone,86
+Noam Nisan,525
+Brian Curless;Marc Levoy,1635
+Hugues Hoppe,3787
+Hugues Hoppe,12
+Hugues Hoppe,162
+Marc Levoy,92
+Marc Levoy,79
+Marc Levoy;Pat Hanrahan,2658
+Richard Szeliski;Demetri Terzopoulos,100
+James Allan,7
+James Allan,100
+James Allan,216
+Edward A. Fox,22
+John M. Carroll,1
+William W. Cohen,2
+William W. Cohen;Yoram Singer,646
+W. Bruce Croft,10
+W. Bruce Croft,8
+W. Bruce Croft,3
+W. Bruce Croft,14
+W. Bruce Croft,12
+W. Bruce Croft,46
+W. Bruce Croft,0
+Thomas Hofmann,167
+Thomas Hofmann,2212
+Daniel Marcu,118
+Dimitris Papadias,8
+Gerard Salton,4
+Gerard Salton,6
+Gerard Salton,46
+Gerard Salton,3
+Gerard Salton,5
+Terry Winograd,77
+Terry Winograd,3
+Justin Zobel,381
+Martha Stone Palmer,2
+Jean-Yves Le Boudec,29
+Jean-Yves Le Boudec,34
+Philip S. Yu,6
+Erol Gelenbe,9
+Jim Gray,9
+Biswanath Mukherjee,5
+Vern Paxson,1
+Vern Paxson,295
+Scott Shenker,31
+Scott Shenker,220
+Mikkel Thorup,10
+Rakesh Agrawal;Michael J. Carey;Miron Livny,114
+Rakesh Agrawal;David J. DeWitt,24
+Rakesh Agrawal;Johannes Gehrke;Dimitrios Gunopulos;Prabhakar Raghavan,2125
+Jiawei Han,103
+Won Kim,87
+Won Kim,24
+Philip A. Bernstein,2
+Philip A. Bernstein,1
+Peter Buneman;David Maier,3
+Michael J. Carey,0
+Michael J. Carey,2
+Michael J. Carey,66
+Michael J. Carey,26
+Michael J. Carey,1
+Michael J. Carey;David J. DeWitt;Jeffrey F. Naughton,3
+Michael J. Carey;Donald Kossmann,289
+Michael J. Carey;Miron Livny,40
+Soumen Chakrabarti,1
+Surajit Chaudhuri;Luis Gravano,162
+Surajit Chaudhuri;Gerhard Weikum,24
+Jan Chomicki;Tomasz Imielinski,49
+William W. Cohen,422
+William W. Cohen,22
+David J. DeWitt,36
+Ronald Fagin,182
+Christos Faloutsos,3
+Christos Faloutsos,87
+Christos Faloutsos,96
+Christos Faloutsos,0
+Daniela Florescu;Donald Kossmann,1
+Jim Gray,52
+Jim Gray,12
+Jim Gray,1
+Jim Gray,1
+Jim Gray,2
+Jim Gray,2
+Pat Hanrahan,17
+Joseph M. Hellerstein,0
+Joseph M. Hellerstein,90
+Joseph M. Hellerstein;Jeffrey F. Naughton,101
+Joseph M. Hellerstein;Michael Stonebraker,274
+Tomasz Imielinski,16
+H. V. Jagadish,22
+H. V. Jagadish,452
+H. V. Jagadish,308
+H. V. Jagadish,0
+H. V. Jagadish,4
+Sushil Jajodia;Pierangela Samarati;V. S. Subrahmanian;Elisa Bertino,349
+Randy H. Katz,1
+H. T. Kung;Christos H. Papadimitriou,103
+Samuel Madden;Joseph M. Hellerstein,29
+David Maier;Jeffrey D. Ullman,22
+John Mylopoulos,202
+John Mylopoulos,1
+John Mylopoulos,11
+John Mylopoulos,1
+Jeffrey F. Naughton,36
+Jeffrey F. Naughton;Raghu Ramakrishnan;Yehoshua Sagiv;Jeffrey D. Ullman,93
+Christos H. Papadimitriou,10
+Raghu Ramakrishnan,0
+Fernando C. N. Pereira,18
+Raymond Reiter,18
+Gerard Salton,21
+Mary Shaw,3
+Yehoshua Sagiv,99
+Michael Stonebraker,10
+Michael Stonebraker,21
+Michael Stonebraker,504
+Michael Stonebraker,62
+Michael Stonebraker,11
+Michael Stonebraker,71
+Michael Stonebraker,17
+Michael Stonebraker,11
+Dan Suciu,11
+Michael Stonebraker;Joseph M. Hellerstein,97
+S. Sudarshan;Divesh Srivastava;Raghu Ramakrishnan;Jeffrey F. Naughton,8
+Jeffrey D. Ullman,11
+Jeffrey D. Ullman;Mihalis Yannakakis,60
+Moshe Y. Vardi,0
+Ke Wang,1
+Gio Wiederhold,0
+Gio Wiederhold,240
+Carlo Zaniolo,76
+Carlo Zaniolo,251
+Raghu Ramakrishnan,2
+Gerhard Weikum,44
+Ben Shneiderman,31
+David B. Johnson;Willy Zwaenepoel,14
+M. Frans Kaashoek;Andrew S. Tanenbaum,41
+Robbert van Renesse,18
+Mahadev Satyanarayanan,21
+Mahadev Satyanarayanan,1
+Andrew S. Tanenbaum;Robbert van Renesse,3
+Mary Shaw,5
+Edward A. Fox,10
+Rajeev Alur;Mihalis Yannakakis,100
+David Garlan;Somesh Jha;David Notkin,47
+Rajiv Gupta;Mary Lou Soffa,47
+Mary Jean Harrold;Gregg Rothermel,279
+Dorin Comaniciu,2
+Andrzej Pelc,0
+Andrzej Pelc,8
+David Peleg,7
+David Peleg,68
+Roger Wattenhofer,15
+Edmund M. Clarke,0
+Thomas Eiter;Georg Gottlob,58
+Pascal Van Hentenryck,1
+Neil D. Jones,6
+Thomas W. Reps,201
+Heikki Mannila,74
+Fernando C. N. Pereira,15
+Dale Miller,113
+Yehoshua Sagiv,35
+V. S. Subrahmanian,170
+S. Sudarshan;Raghu Ramakrishnan,34
+Philip Wadler,167
+Carlo Zaniolo,118
+Avrim Blum,26
+Dinesh Manocha,8
+Hugues Hoppe,4
+Jean Ponce,29
+Pankaj K. Agarwal;Micha Sharir,24
+Pankaj K. Agarwal;Micha Sharir,31
+Pankaj K. Agarwal;Micha Sharir,9
+Pankaj K. Agarwal;Subhash Suri,109
+Pankaj K. Agarwal;Micha Sharir,8
+Amotz Bar-Noy;Richard E. Ladner,42
+Amotz Bar-Noy;Richard E. Ladner,59
+Bernard Chazelle,3
+David Eppstein,105
+David Eppstein,50
+David Eppstein,61
+David Eppstein,12
+David Eppstein,18
+David Eppstein,18
+David Eppstein,20
+David Eppstein,18
+David Eppstein,13
+David Eppstein,305
+David Eppstein,85
+David Eppstein,106
+David Eppstein,6
+David Eppstein;S. Muthukrishnan,166
+Uriel Feige,4
+Michael T. Goodrich,2
+Michael T. Goodrich,14
+Leonidas J. Guibas;Rajeev Motwani;Prabhakar Raghavan,45
+Piotr Indyk,58
+Piotr Indyk,87
+Piotr Indyk,29
+Piotr Indyk,13
+Piotr Indyk,106
+Donald E. Knuth,21
+Joseph S. B. Mitchell,76
+Joseph S. B. Mitchell;Subhash Suri,49
+S. Muthukrishnan,121
+S. Muthukrishnan,930
+S. Muthukrishnan,36
+Aravind Srinivasan,19
+Christos H. Papadimitriou,4
+Micha Sharir,0
+Prabhakar Raghavan,70
+Victor Shoup,94
+Aravind Srinivasan,39
+Aravind Srinivasan,3
+Aravind Srinivasan,58
+Subhash Suri;George Varghese,19
+Mikkel Thorup,58
+Mikkel Thorup,13
+Mikkel Thorup,19
+Mikkel Thorup,80
+Mikkel Thorup,35
+Mikkel Thorup,27
+Mikkel Thorup,44
+Mihalis Yannakakis,241
+Piotr Indyk,18
+Joseph S. B. Mitchell,42
+David Eppstein,11
+Aravind Srinivasan,18
+Uriel Feige,34
+Aravind Srinivasan,23
+David Eppstein,22
+Piotr Indyk,74
+Noga Alon;Uriel Feige,4
+Mikkel Thorup,13
+Michael I. Jordan,0
+Bernard Chazelle,22
+Didier Dubois;Henri Prade,3
+Maurizio Lenzerini,6
+Bart Preneel,2
+Dan Roth,1
+Peter Brusilovsky,18
+Thomas A. Henzinger,3
+John M. Carroll,13
+David K. Gifford,1330
+Barbara Liskov,114
+Barbara Liskov,153
+Mahadev Satyanarayanan,161
+Jeffrey D. Ullman,89
+David Wetherall,245
+Elisa Bertino;Sushil Jajodia;Pierangela Samarati,124
+Deborah Estrin;Gene Tsudik,28
+Deborah Estrin;Gene Tsudik,29
+Michael T. Goodrich,12
+Sushil Jajodia;Pierangela Samarati;V. S. Subrahmanian,516
+Birgit Pfitzmann;Michael Waidner,299
+Adi Shamir,9
+Soumen Chakrabarti;S. Muthukrishnan,30
+Michael T. Goodrich,49
+Michael T. Goodrich,5
+Prabhakar Raghavan,34
+Michael Mitzenmacher,66
+Michael Mitzenmacher,14
+Michael Mitzenmacher,84
+Michael Mitzenmacher,34
+Michel Raynal,29
+Thomas W. Reps,14
+Marc Snir,8
+Jeffrey D. Ullman;Mihalis Yannakakis,98
+Uzi Vishkin,13
+Uzi Vishkin,1
+Uzi Vishkin,14
+Benjamin Kuipers,89
+Ramesh Jain,15
+Yong Rui;Thomas S. Huang;Sharad Mehrotra,232
+John R. Smith;Shih-Fu Chang,639
+John R. Smith;Shih-Fu Chang,204
+Edmund M. Clarke,1
+Cormac Flanagan,47
+David Wagner,1
+Rajeev Alur,8
+Moshe Y. Vardi,14
+E. Allen Emerson,29
+Edmund M. Clarke,67
+Edmund M. Clarke;E. Allen Emerson,2803
+Charles Elkan,11
+Gonzalo Navarro,93
+Gonzalo Navarro,161
+Dan Suciu,4
+Moni Naor;Adi Shamir,112
+Lawrence C. Paulson,1
+Lawrence C. Paulson,5
+Lawrence C. Paulson,4
+Birgit Pfitzmann;Michael Waidner,51
+Ronald L. Rivest;Adi Shamir,735
+Ross Anderson,3
+Ross Anderson,7
+Ross Anderson,7
+Dennis Gannon,0
+Hector Garcia-Molina,26
+Jim Gray,644
+David B. Johnson,70
+Barbara Liskov;Maurice Herlihy,15
+Chunming Qiao,0
+Robbert van Renesse,11
+Mukesh Singhal,6
+Andrew S. Tanenbaum;Robbert van Renesse,10
+Max J. Egenhofer,546
+Hanan Samet,29
+Won Kim,17
+Peter Buneman,5
+Jim Gray,4
+Heikki Mannila,146
+Zbigniew Michalewicz,2
+Divesh Srivastava,1
+Michael Stonebraker,53
+H. V. Jagadish,0
+Peter Buneman,16
+Thorsten Joachims,5
+Erkki Oja,2
+Josef Kittler,58
+Mary Shaw,143
+Michael Reiter,0
+Jean-Jacques Quisquater,0
+Min Wu,0
+Thomas Eiter;Georg Gottlob,320
+Oded Goldreich,27
+David Harel,25
+Thomas A. Henzinger;Rupak Majumdar,62
+Piotr Indyk,43
+Piotr Indyk,14
+Dexter Kozen,12
+Tobias Nipkow,10
+Noam Nisan,166
+Birgit Pfitzmann;Michael Waidner,39
+Serge Abiteboul,0
+Bernhard Steffen,15
+Mikkel Thorup,53
+Victor Vianu,3
+Mihalis Yannakakis,58
+Moshe Y. Vardi,38
+Mihalis Yannakakis,12
+Alfred V. Aho;Jeffrey D. Ullman,5
+Alfred V. Aho;Jeffrey D. Ullman,36
+Alfred V. Aho;Jeffrey D. Ullman,47
+Serge Abiteboul;Victor Vianu,220
+Alfred V. Aho;Jeffrey D. Ullman,189
+Noga Alon,29
+Alfred V. Aho;Jeffrey D. Ullman,12
+Rajeev Alur;Thomas A. Henzinger;Moshe Y. Vardi,226
+Alfred V. Aho;Jeffrey D. Ullman;Mihalis Yannakakis,185
+Baruch Awerbuch,16
+Baruch Awerbuch;Tom Leighton,154
+Mihir Bellare;Oded Goldreich;Shafi Goldwasser,107
+Mihir Bellare;Silvio Micali;Rafail Ostrovsky,104
+Mihir Bellare;Silvio Micali;Rafail Ostrovsky,76
+Mihir Bellare;Madhu Sudan,218
+Manuel Blum,67
+Dan Boneh,51
+Ran Canetti;Uriel Feige;Oded Goldreich;Moni Naor,296
+Bernard Chazelle,44
+Bernard Chazelle,38
+Bernard Chazelle,44
+Bernard Chazelle,48
+Stephen Cook;Cynthia Dwork,59
+Cynthia Dwork;Moni Naor;Amit Sahai,394
+E. Allen Emerson;Joseph Y. Halpern,502
+David Eppstein,35
+Uriel Feige,192
+Uriel Feige,26
+Uriel Feige,105
+Uriel Feige,86
+Uriel Feige,369
+Uriel Feige,16
+Uriel Feige;Amos Fiat;Adi Shamir,1027
+Uriel Feige;Joe Kilian,94
+Uriel Feige;Joe Kilian,30
+Uriel Feige;Adi Shamir,420
+Amos Fiat;Moni Naor,33
+Amos Fiat;Moni Naor,30
+Lance Fortnow,4
+Yoav Freund;Robert E. Schapire;Yoram Singer;Manfred K. Warmuth,138
+Zvi Galil,12
+Zvi Galil,27
+Zvi Galil,132
+Zvi Galil,55
+Oded Goldreich,52
+Oded Goldreich,132
+Oded Goldreich;Shafi Goldwasser,185
+Oded Goldreich;Silvio Micali;Avi Wigderson,22
+Oded Goldreich;Avi Wigderson,120
+Shafi Goldwasser;Joe Kilian,257
+Shafi Goldwasser;Silvio Micali,350
+Michael T. Goodrich,134
+Joseph Y. Halpern;Michael O. Rabin,80
+Joseph Y. Halpern;Moshe Y. Vardi,29
+Joseph Y. Halpern;Moshe Y. Vardi,41
+David Harel,32
+Matthew Hennessy,6
+Russell Impagliazzo,8
+Russell Impagliazzo;Noam Nisan;Avi Wigderson,103
+Russell Impagliazzo;Avi Wigderson,417
+Piotr Indyk,70
+Piotr Indyk,141
+Piotr Indyk,5
+Piotr Indyk;Rajeev Motwani,1582
+Tao Jiang;Ming Li,14
+David S. Johnson,1913
+Neil D. Jones,42
+Joe Kilian,60
+Joe Kilian,536
+Joe Kilian,59
+Dexter Kozen,190
+Dexter Kozen,54
+Dexter Kozen,195
+Dexter Kozen,4
+H. T. Kung,15
+H. T. Kung,16
+H. T. Kung,17
+Richard E. Ladner,17
+Michael Luby,792
+Michael Luby;Noam Nisan,146
+Zohar Manna,14
+Zohar Manna;Amir Pnueli,21
+Zohar Manna;Adi Shamir,8
+Yishay Mansour;Noam Nisan;Uzi Vishkin,35
+Kurt Mehlhorn,99
+Moni Naor;Moti Yung,840
+Moni Naor;Moti Yung,677
+Noam Nisan,136
+Noam Nisan,356
+Noam Nisan,0
+Noam Nisan;Avi Wigderson,122
+Noam Nisan;Avi Wigderson,18
+Rafail Ostrovsky,51
+Christos H. Papadimitriou,990
+Christos H. Papadimitriou;Mihalis Yannakakis,98
+Christos H. Papadimitriou,1
+Christos H. Papadimitriou,150
+Christos H. Papadimitriou;Mihalis Yannakakis,304
+Amir Pnueli,91
+Prabhakar Raghavan,2
+Raymond Reiter,8
+Ronald L. Rivest;Adi Shamir,8
+Aravind Srinivasan,9
+Aravind Srinivasan,104
+Adi Shamir,53
+Adi Shamir,18
+Mikkel Thorup,30
+Victor Shoup,101
+Mikkel Thorup,71
+Mikkel Thorup,22
+Mikkel Thorup,76
+Mikkel Thorup,34
+Sam Toueg,36
+Sam Toueg;Jeffrey D. Ullman,74
+Uzi Vishkin,68
+Uzi Vishkin,114
+Avi Wigderson,2
+Avi Wigderson,15
+Piotr Indyk,44
+Avi Wigderson,20
+Mihalis Yannakakis,300
+Mihalis Yannakakis,21
+David Haussler,1
+Mikkel Thorup,11
+Jennifer Rexford,5
+David Eppstein,30
+Uriel Feige,35
+Gaston H. Gonnet,1
+Charles E. Leiserson,0
+Heikki Mannila,0
+David Peleg,24
+Mikkel Thorup,7
+Mikkel Thorup,39
+Mikkel Thorup,7
+Michael Mitzenmacher,29
+Ian Horrocks,41
+Ian Horrocks,27
+Ian Horrocks,363
+Thomas A. Henzinger;Rupak Majumdar,52
+Dexter Kozen,18
+Leslie Lamport,0
+Moshe Y. Vardi,227
+Zohar Manna;Amir Pnueli,90
+Robin Milner,3
+Bernhard Steffen,133
+Moshe Y. Vardi,64
+Philip Wadler,21
+Cynthia Dwork,252
+Matthew Hennessy,0
+Bernard Chazelle,19
+Dexter Kozen,16
+Luc Moreau,40
+Jens Palsberg,7
+Robin Milner,3
+Luc Moreau,5
+Bernhard Steffen,18
+Silvio Micali,4
+Joseph Y. Halpern,256
+Joseph Y. Halpern,37
+Joseph Y. Halpern,21
+Joseph Y. Halpern,28
+Thomas A. Henzinger,9
+Craig Boutilier,258
+Adnan Darwiche;Judea Pearl,496
+Ronald Fagin;Joseph Y. Halpern,296
+Ronald Fagin;Joseph Y. Halpern;Moshe Y. Vardi,55
+Ronald Fagin;Moshe Y. Vardi,40
+Nir Friedman;Joseph Y. Halpern,55
+John McCarthy,8
+Judea Pearl,366
+Judea Pearl,52
+Raymond Reiter,95
+Moshe Y. Vardi,93
+Moshe Y. Vardi,17
+Yishay Mansour,0
+Rosario Gennaro,21
+Ronald L. Rivest,33
+Oded Goldreich,9
+Tobias Nipkow;Gerhard Weikum,37
+Christos H. Papadimitriou,4
+Kurt Mehlhorn,56
+Robin Milner,4
+Norman I. Badler,1
+Patrice Godefroid,1
+Pierre Wolper,2
+Max J. Egenhofer,3
+Tobias Nipkow,73
+Frank Pfenning,3
+Zohar Manna;Amir Pnueli,139
+Moshe Y. Vardi,15
+Pierre Wolper,142
+Kurt Keutzer,18
+Dale Miller,0
+Robin Milner,0
+Tobias Nipkow,24
+Tobias Nipkow;Lawrence C. Paulson,12
+James Allan,183
+Tobias Nipkow,82
+Lawrence C. Paulson,27
+Craig Boutilier,28
+Craig Boutilier,14
+Craig Boutilier,17
+Craig Boutilier,26
+Craig Boutilier,6
+Adnan Darwiche,202
+Adnan Darwiche,14
+Adnan Darwiche,25
+Adnan Darwiche,45
+Adnan Darwiche,17
+Rina Dechter,475
+Rina Dechter,103
+Didier Dubois;Henri Prade,21
+Didier Dubois;Henri Prade,36
+Didier Dubois;Henri Prade,23
+Didier Dubois;Henri Prade,10
+Ronald Fagin;Joseph Y. Halpern,179
+Nir Friedman,531
+Nir Friedman;Joseph Y. Halpern,75
+Nir Friedman;Joseph Y. Halpern,21
+David Heckerman,353
+David Heckerman,47
+David Heckerman,49
+David Heckerman,118
+David Heckerman,5
+Joseph Y. Halpern,31
+David Heckerman,87
+Joseph Y. Halpern,89
+David Heckerman,127
+Joseph Y. Halpern,82
+Joseph Y. Halpern;Judea Pearl,147
+David Heckerman;Eric Horvitz,15
+David Heckerman;Eric Horvitz,93
+Thomas Hofmann,0
+Eric Horvitz,323
+Andrew Y. Ng;Michael I. Jordan,302
+Andrew McCallum,370
+Judea Pearl,276
+Judea Pearl,145
+Judea Pearl,1
+Judea Pearl,125
+Judea Pearl,62
+Judea Pearl,35
+Judea Pearl;Rina Dechter,38
+David Poole,26
+David Poole,41
+David Poole,22
+David Poole,16
+David Poole,25
+Robert E. Schapire,10
+Yoram Singer,59
+Sebastian Thrun,146
+Michael P. Wellman,29
+Michael P. Wellman,4
+Judea Pearl,29
+Manfred K. Warmuth,8
+Dieter Fensel,10
+Luca Cardelli,151
+Saul Greenberg,2
+Matt Welsh,4
+Michael Luby,2
+Stefan Savage,204
+Markus Jakobsson;Ari Juels;Ronald L. Rivest,295
+Ari Juels,1
+Nadia Magnenat-Thalmann,3
+Christos Faloutsos,0
+Nicholas Ayache,0
+Jack Dongarra,8
+Satoshi Matsuoka,1
+Birgit Pfitzmann;Michael Waidner,6
+Stuart K. Card,0
+Hugues Hoppe,350
+Hugues Hoppe,752
+Kwan-Liu Ma,65
+Ben Shneiderman,0
+Max J. Egenhofer,18
+Max J. Egenhofer,88
+Michael Cohen,3
+David Harel,3
+Ben Shneiderman,2191
+John R. Smith,0
+Rakesh Agrawal;H. V. Jagadish,107
+Rakesh Agrawal;H. V. Jagadish,20
+Rakesh Agrawal;H. V. Jagadish,25
+Rakesh Agrawal;H. V. Jagadish,63
+Serge Abiteboul;Victor Vianu,3
+Philip A. Bernstein;Umeshwar Dayal,175
+Won Kim,289
+Won Kim,115
+Philip A. Bernstein,1
+Philip A. Bernstein,0
+Michael J. Carey,1
+Michael J. Carey;David J. DeWitt,115
+Michael J. Carey;Donald Kossmann,130
+Michael J. Carey;Miron Livny,102
+Michael J. Carey;Michael Stonebraker,122
+Peter Buneman,3
+Surajit Chaudhuri,16
+Surajit Chaudhuri;Luis Gravano,272
+Surajit Chaudhuri;Gerhard Weikum,198
+Surajit Chaudhuri;Gerhard Weikum,24
+Umeshwar Dayal,281
+Umeshwar Dayal,0
+Umeshwar Dayal;Philip A. Bernstein,147
+Ronald Fagin,70
+Christos Faloutsos,11
+Christos Faloutsos;H. V. Jagadish,55
+Luis Gravano;Hector Garcia-Molina,326
+Luis Gravano;Hector Garcia-Molina,78
+Joseph M. Hellerstein,14
+H. V. Jagadish,46
+H. V. Jagadish;Abraham Silberschatz;S. Sudarshan,68
+Frank Leymann,15
+Alberto O. Mendelzon,22
+Alberto O. Mendelzon;David Maier,23
+Jeffrey F. Naughton;Raghu Ramakrishnan,8
+Jeffrey F. Naughton;Raghu Ramakrishnan;Yehoshua Sagiv;Jeffrey D. Ullman,73
+Wolfgang Nejdl,43
+M. Tamer Özsu,0
+Yannis Papakonstantinou;Serge Abiteboul;Hector Garcia-Molina,305
+Raghu Ramakrishnan;Abraham Silberschatz,0
+Raghu Ramakrishnan;Divesh Srivastava;S. Sudarshan,68
+Raghu Ramakrishnan;Divesh Srivastava;S. Sudarshan,237
+Yehoshua Sagiv;Mihalis Yannakakis,336
+Hanan Samet,4
+Sunita Sarawagi,66
+Sunita Sarawagi,38
+Sunita Sarawagi,76
+Sunita Sarawagi,92
+Sunita Sarawagi;Michael Stonebraker,45
+Dennis Shasha,19
+Scott Shenker,11
+Michael Stonebraker,348
+Rudi Studer,6
+Rudi Studer,11
+Dan Suciu,72
+Dan Suciu,5
+S. Sudarshan;Raghu Ramakrishnan,74
+Richard Taylor,4
+Haixun Wang;Carlo Zaniolo,71
+Gio Wiederhold,0
+Mihalis Yannakakis,334
+Carlo Zaniolo,99
+H. T. Kung,7
+Anantha Chandrakasan,7
+Krishnendu Chakrabarty,11
+Rajesh Gupta,4
+Mani B. Srivastava,5
+Moshe Y. Vardi,56
+Amir Pnueli,4
+David Harel,47
+Thomas Ertl,0
+Marc Levoy,0
+Marc Pollefeys,50
+Richard Szeliski,4
+Mark Billinghurst,0
+Daniel Thalmann;Nadia Magnenat-Thalmann,1
+Ming C. Lin,0
+Demetri Terzopoulos,16
+Krishnendu Chakrabarty,107
+David Maier,82
+Ian Horrocks,13
+Ian Horrocks,37
+Erol Gelenbe,0
+Bernard Chazelle,4
+Leonidas J. Guibas,8
+Kurt Mehlhorn,4
+Joseph S. B. Mitchell,1
+Pankaj K. Agarwal;Micha Sharir,83
+Luc Devroye,1
+David Eppstein,67
+David Eppstein,64
+David Eppstein,18
+Kurt Mehlhorn,0
+Mihalis Yannakakis,2
+Micha Sharir,7
+David Eppstein;Michael T. Goodrich,6
+Donald E. Knuth,57
+Peter Buneman,3
+Sushil Jajodia,6
+Christos Faloutsos,1
+Raghu Ramakrishnan,4
+Baruch Awerbuch;Yishay Mansour,10
+Amotz Bar-Noy;Danny Dolev;Daphne Koller;David Peleg,2
+Rachid Guerraoui,169
+Danny Dolev,0
+Cynthia Dwork,14
+Michael Mitzenmacher,0
+Andrzej Pelc,3
+David Peleg,37
+David Peleg,4
+Leslie Lamport,0
+Leslie Lamport,28
+Michel Raynal,0
+Karl Aberer,42
+Christos H. Papadimitriou,3
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini;Moshe Y. Vardi,6
+William W. Cohen,29
+David Lowe,17
+Boi Faltings,1
+Carl Kesselman,7
+Yiyu Yao,7
+John McCarthy,0
+Prabhakar Raghavan,7
+Dieter Fensel,1
+Yiyu Yao,2
+Dieter Fensel,1
+Peter Brusilovsky,14
+Peter Brusilovsky,41
+Wolfgang Nejdl,2
+Umeshwar Dayal,0
+Ian Horrocks,201
+Carl Gutwin;Saul Greenberg,185
+Alex Pentland,3
+Franco Zambonelli,3
+Fabio Casati,1
+Leonidas J. Guibas;Joseph S. B. Mitchell,102
+Kurt Mehlhorn,3
+David Peleg,83
+Mikkel Thorup,18
+Roger Wattenhofer,3
+Norman I. Badler,7
+Michael Mozer,0
+Wolfgang Nejdl,11
+Thomas A. Henzinger,3
+Ming Li,7
+Moshe Y. Vardi,1
+Mihalis Yannakakis,0
+Mary Shaw,0
+Mary Shaw,2
+David Garlan,1
+Alberto O. Mendelzon,3
+Donald Kossmann,1
+Didier Dubois;Henri Prade,12
+Sankar K. Pal,0
+Christos H. Papadimitriou,3
+Mihalis Yannakakis,0
+Massimiliano Pontil,0
+Peter Buneman,5
+Bing Liu,1
+Franco Zambonelli,68
+Wolfgang Banzhaf,9
+Fabio Casati,9
+Carlo Ghezzi,6
+Mary Shaw,67
+Birgit Pfitzmann;Michael Waidner,48
+Srdjan Capkun;Jean-Pierre Hubaux,62
+Ari Juels,2
+Adrian Perrig,1
+Ari Juels,197
+Luc Devroye,0
+Luc Devroye,39
+Sharad Mehrotra,2
+Vern Paxson;Sally Floyd,426
+Anand Sivasubramaniam,8
+Edward A. Lee,2
+David Harel,3
+George Varghese,16
+Won Kim,4
+Peter Brusilovsky,299
+Soumen Chakrabarti,203
+Soumen Chakrabarti,105
+Moshe Y. Vardi,0
+David Maier,26
+David Maier,6
+David Maier,27
+David Maier;Jeffrey D. Ullman,56
+David Maier;Jeffrey D. Ullman,5
+Alberto O. Mendelzon,69
+Jeffrey F. Naughton,110
+Yehoshua Sagiv,229
+David Garlan,18
+Leslie Lamport,45
+Jie Wu,0
+Karl Aberer,0
+Hermann Ney,15
+Douglas C. Schmidt,7
+Douglas C. Schmidt,7
+Won Kim,14
+Won Kim,24
+Won Kim,14
+Ajith Abraham,13
+Ajith Abraham,3
+Barry Smyth,0
+Vern Paxson,1
+Dan Suciu,4
+Yiyu Yao,8
+Oscar Nierstrasz,20
+Ben Shneiderman,25
+Marvin Minsky,12
+Ben Shneiderman,3
+Maurice Herlihy,26
+Sankar K. Pal,0
+Krithi Ramamritham,2
+Sankar K. Pal,2
+Witold Pedrycz,1
+Guohong Cao;Mukesh Singhal,32
+Hisao Ishibuchi,16
+Shih-Fu Chang,4
+Yiyu Yao,88
+Hsinchun Chen,9
+Giovanni De Micheli,1
+Donald E. Knuth,2
+Niklaus Wirth,15
+Peter Brusilovsky,77
+Barry Smyth,59
+Limsoon Wong,1
+David Tse,0
+Kurt Mehlhorn,0
+Dan Boneh,8
+Divyakant Agrawal,5
+Henri Prade,14
+Jan Chomicki,4
+Mary Shaw,1
+Tomaso Poggio,1
+Michael J. Carey,9
+Oren Etzioni,0
+Hector Garcia-Molina,1
+Ravi Kumar,1
+Gerhard Weikum,5
+Schahram Dustdar,4
+Satoshi Matsuoka,0
+Paul Dourish,9
+Ari Juels,0
+Joseph M. Hellerstein;Wei Wang,23
+Nadia Magnenat-Thalmann,0
+Nadia Magnenat-Thalmann,0
+Christos H. Papadimitriou,3
+Shmuel Peleg,1
+Nicholas Ayache,0
+Alex Pentland,6
+Witold Pedrycz,6
+Teuvo Kohonen,11
+Kurt Mehlhorn,0
+Didier Dubois;Henri Prade,50
+Didier Dubois;Henri Prade,6
+Moshe Y. Vardi,3
+Thomas Ball,13
+Rajeev Alur,4
+Daniel Thalmann,3
+Hsinchun Chen,5
+Hsinchun Chen,1
+Ajith Abraham,1
+Erol Gelenbe,3
+Jon Crowcroft,0
+Ian F. Akyildiz,2
+Raouf Boutaba,0
+Nadia Magnenat-Thalmann,3
+HongJiang Zhang,0
+Moshe Y. Vardi,12
+Feng Zhao,2
+Jason Cong,2
+Ian F. Akyildiz,2
+Gerard Salton;James Allan,126
+Gerard Salton,6
+W. Bruce Croft,21
+Mary Jean Harrold,5
+Shun-ichi Amari,16
+Paul Dourish,38
+Marco Dorigo,5
+Simon S. Lam,9
+Marvin Minsky,2
+Milind Tambe,78
+Michael Wooldridge,19
+Michael Luck,9
+William W. Cohen,13
+Tuomas Sandholm,100
+Carles Sierra,38
+Michael Wooldridge,163
+Michael Wooldridge,0
+John M. Carroll,30
+H. T. Kung,274
+Giovanni De Micheli,11
+Edward A. Lee,224
+Azriel Rosenfeld,8
+Mihalis Yannakakis,9
+Bernard Chazelle,6
+Edmund M. Clarke,13
+Thomas Eiter,10
+Thomas Eiter;Heikki Mannila,141
+Luc Devroye,55
+Luc Devroye,114
+Luc Devroye,89
+Luc Devroye,10
+Zvi Galil,24
+Zvi Galil,24
+Zvi Galil,31
+Erol Gelenbe,35
+Leonidas J. Guibas,10
+Matthew Hennessy,41
+Matthew Hennessy,20
+Donald E. Knuth,356
+Donald E. Knuth,90
+Donald E. Knuth,49
+H. T. Kung;Christos H. Papadimitriou,103
+Leslie Lamport,37
+Leslie Lamport,147
+Zohar Manna;Amir Pnueli,82
+Zohar Manna;Amir Pnueli,137
+Kurt Mehlhorn,82
+Kurt Mehlhorn,33
+Kurt Mehlhorn;Uzi Vishkin,230
+Tobias Nipkow,102
+Robin Milner,158
+Michael O. Rabin,93
+Thomas W. Reps,12
+Thomas W. Reps,25
+Jeffrey D. Ullman,101
+Moshe Y. Vardi,35
+Victor Vianu,10
+Niklaus Wirth,827
+Mikkel Thorup,9
+Joseph Sifakis,322
+Erol Gelenbe,0
+Leonard Kleinrock,41
+Benjamin Kuipers,10
+Benjamin Kuipers,14
+Bing Liu,12
+Daniel S. Weld,6
+James F. Allen,2585
+Craig Boutilier,96
+Craig Boutilier,185
+Craig Boutilier,31
+Craig Boutilier,51
+William W. Cohen,59
+William W. Cohen,94
+Adnan Darwiche,197
+Adnan Darwiche,36
+Adnan Darwiche;Judea Pearl,496
+William W. Cohen,36
+Rina Dechter,583
+Rina Dechter,221
+Rina Dechter,433
+Rina Dechter;Judea Pearl,904
+Rina Dechter;Judea Pearl,547
+Rina Dechter;Judea Pearl,156
+Thomas Eiter;Georg Gottlob,383
+Thomas Eiter;V. S. Subrahmanian,48
+Charles Elkan,98
+Oren Etzioni,69
+Oren Etzioni,136
+Oren Etzioni,90
+Didier Dubois;Henri Prade,91
+Ronald Fagin;Joseph Y. Halpern,720
+Didier Dubois;Henri Prade,219
+Ronald Fagin;Joseph Y. Halpern;Moshe Y. Vardi,55
+Boi Faltings,153
+Boi Faltings,82
+Boi Faltings,95
+Nir Friedman;Joseph Y. Halpern,72
+W. Eric L. Grimson,136
+Joseph Y. Halpern,557
+Joseph Y. Halpern,118
+Joseph Y. Halpern;Ronald Fagin,211
+Joseph Y. Halpern;Michael O. Rabin,80
+David Haussler,483
+Pascal Van Hentenryck,27
+Geoffrey E. Hinton,1232
+Geoffrey E. Hinton,220
+Ian Horrocks;Ulrike Sattler,89
+Eric Horvitz,51
+Katsushi Ikeuchi,90
+Katsushi Ikeuchi,1
+Tomasz Imielinski,85
+Takeo Kanade,143
+Takeo Kanade,480
+Takeo Kanade,6
+Kevin Knight;Daniel Marcu,248
+Benjamin Kuipers,610
+Benjamin Kuipers,479
+Benjamin Kuipers,1574
+Benjamin Kuipers,92
+Benjamin Kuipers,68
+Vladimir Lifschitz,259
+Vladimir Lifschitz,114
+Vladimir Lifschitz,95
+Vladimir Lifschitz,169
+Vladimir Lifschitz,135
+Vladimir Lifschitz,68
+Zohar Manna,48
+John McCarthy,13
+John McCarthy,2210
+John McCarthy,11
+John McCarthy,1227
+John McCarthy,15
+Kathleen McKeown,273
+Marvin Minsky,42
+Marvin Minsky,4
+Joseph S. B. Mitchell,130
+Allen Newell,2237
+Allen Newell,85
+Judea Pearl,111
+Judea Pearl,139
+Judea Pearl,2
+Judea Pearl,41
+Judea Pearl,75
+Judea Pearl,1739
+Judea Pearl,146
+Judea Pearl,357
+Judea Pearl,167
+Judea Pearl,99
+Alex Pentland,116
+Alex Pentland,598
+David Poole,882
+David Poole,73
+David Poole,515
+David Poole,41
+David Poole,274
+Ronald L. Rivest,71
+Dan Roth,335
+Raymond Reiter,4258
+Raymond Reiter,2589
+Raymond Reiter,175
+Tuomas Sandholm,661
+Tuomas Sandholm;Subhash Suri,122
+Herbert A. Simon,1609
+Herbert A. Simon,110
+Herbert A. Simon,14
+Herbert A. Simon,100
+Steffen Staab,4
+Sebastian Thrun,849
+John K. Tsotsos,74
+Daniel S. Weld,117
+Daniel S. Weld,93
+Daniel S. Weld,66
+Daniel S. Weld,114
+Michael P. Wellman,351
+Michael P. Wellman,0
+Yorick Wilks,356
+Yorick Wilks,201
+Terry Winograd,64
+John McCarthy,19
+Feng Zhao,94
+Zhi-Hua Zhou,74
+Terry Winograd,26
+Tuomas Sandholm,30
+Peter Stone,24
+John McCarthy,32
+Boi Faltings,1
+Boi Faltings,6
+Michael J. Black,0
+James F. Allen,32
+Craig Boutilier,35
+Diego Calvanese;Giuseppe De Giacomo,47
+Justine Cassell,168
+Adnan Darwiche,35
+Oren Etzioni,117
+Oren Etzioni,136
+Vipin Kumar,1069
+Kevin Knight,72
+Marvin Minsky,119
+Marvin Minsky,3
+Marvin Minsky,270
+John McCarthy,12
+Allen Newell,5
+Allen Newell,1
+Allen Newell,458
+Allen Newell,4
+Allen Newell,5
+Judea Pearl,30
+Sebastian Thrun;Michael L. Littman,3
+Andreas Stolcke,22
+Toby Walsh,2
+V. S. Subrahmanian,0
+Daniel S. Weld,0
+Daniel S. Weld,637
+Daniel S. Weld,385
+Sebastian Thrun,435
+Yorick Wilks,11
+Pankaj K. Agarwal;Micha Sharir,57
+Noga Alon;Moni Naor,110
+Noga Alon;Aravind Srinivasan,15
+Bernard Chazelle,79
+Bernard Chazelle,50
+Bernard Chazelle;Leonidas J. Guibas,375
+Bernard Chazelle;Leonidas J. Guibas,119
+Luc Devroye,20
+Luc Devroye,14
+Luc Devroye,11
+David Eppstein,170
+David Eppstein,2
+Daniela Rus,31
+Leonidas J. Guibas;Donald E. Knuth;Micha Sharir,408
+Donald E. Knuth,50
+Joseph S. B. Mitchell,117
+S. Muthukrishnan,6
+Pattie Maes,740
+Serge Abiteboul;Victor Vianu,45
+Thomas Eiter;Georg Gottlob,229
+Kalyanmoy Deb;David E. Goldberg,121
+Didier Dubois;Henri Prade,207
+David E. Goldberg,74
+Joseph Y. Halpern,43
+Joseph Y. Halpern,19
+Joseph Y. Halpern,4
+Tomasz Imielinski,26
+Vladimir Lifschitz,1
+Vladimir Lifschitz,31
+Joseph S. B. Mitchell,39
+Judea Pearl,6
+David Poole,48
+Raghu Ramakrishnan,13
+Bart Selman,2
+Divesh Srivastava,75
+Jeffrey D. Ullman;Mihalis Yannakakis,60
+Victor Vianu,30
+Jan Chomicki,28
+Darrell Whitley,27
+Feng Zhao,16
+Jonathan Grudin,60
+Niklaus Wirth,17
+Edward A. Lee,137
+Dexter Kozen,1
+Vladimir Lifschitz,8
+Moshe Y. Vardi,75
+Dipankar Dasgupta,12
+Risto Miikkulainen,9
+Kevin Knight,15
+Bing Liu,75
+Bing Liu,6
+Jun Wang,15
+Benjamin Kuipers,5
+Sebastian Thrun,207
+Sebastian Thrun;Wolfram Burgard;Dieter Fox,899
+Tao Jiang,9
+Tao Jiang,0
+Judea Pearl,50
+Benjamin Kuipers,14
+William W. Cohen,20
+Pierre Baldi,29
+Steven Salzberg,138
+Christos Faloutsos,24
+David Eppstein,30
+Donald E. Knuth,48
+James F. Allen,6360
+Gul Agha,375
+Norman I. Badler,11
+Philip A. Bernstein,65
+Philip A. Bernstein,706
+Alan Borning,70
+Stuart K. Card;Thomas P. Moran;Allen Newell,730
+John M. Carroll,86
+John M. Carroll;Mary Beth Rosson,42
+John M. Carroll;Mary Beth Rosson,172
+Justine Cassell,1150
+Edward A. Fox,15
+Edward A. Fox,76
+Edward A. Fox,14
+W. Bruce Croft,6
+Jon Crowcroft,3
+Jon Crowcroft,12
+David J. DeWitt;Jim Gray,1169
+Oren Etzioni,585
+Oren Etzioni;Daniel S. Weld,680
+Ronald Fagin,4
+Zvi Galil,116
+Erol Gelenbe,10
+David K. Gifford,3
+David K. Gifford,91
+David K. Gifford,100
+David E. Goldberg,349
+Gaston H. Gonnet,33
+Gaston H. Gonnet,31
+Jonathan Grudin,79
+Jonathan Grudin,316
+Jonathan Grudin,83
+Jonathan Grudin,1417
+David Harel,104
+David Harel,1498
+David Heckerman;Michael P. Wellman,198
+Tomasz Imielinski;Heikki Mannila,556
+Ramesh Jain,21
+Ramesh Jain,32
+Ramesh Jain,126
+Raj Jain;Imrich Chlamtac,113
+Ken Kennedy;Moshe Y. Vardi,1
+Leonard Kleinrock,70
+Leonard Kleinrock,110
+Kevin Knight,122
+Kevin Knight,53
+Donald E. Knuth,17
+Donald E. Knuth,69
+Donald E. Knuth,9
+Donald E. Knuth,33
+Donald E. Knuth,99
+Donald E. Knuth,13
+Donald E. Knuth,33
+Donald E. Knuth,125
+Donald E. Knuth,182
+Donald E. Knuth,61
+Donald E. Knuth,58
+Donald E. Knuth,16
+Donald E. Knuth,142
+Richard E. Ladner,17
+Leslie Lamport,682
+Leslie Lamport,563
+Leslie Lamport,14
+Leslie Lamport,267
+Leslie Lamport,7620
+Leslie Lamport,8
+Leslie Lamport,1768
+Leslie Lamport,301
+Barbara Liskov,114
+Barbara Liskov,490
+Pattie Maes,3198
+Pattie Maes,636
+Zohar Manna;Adi Shamir,25
+John McCarthy,1341
+Robin Milner,306
+Robert Morris,294
+Robert Morris,110
+Allen Newell,7
+Allen Newell;Herbert A. Simon,1826
+David A. Patterson,139
+David A. Patterson,3
+David A. Patterson,9
+David A. Patterson,2
+David A. Patterson,1
+David A. Patterson,57
+David A. Patterson,19
+David A. Patterson,3
+David A. Patterson,21
+David A. Patterson,53
+David A. Patterson,1
+David A. Patterson,25
+Judea Pearl,71
+Shmuel Peleg;Azriel Rosenfeld,86
+Alex Pentland,17
+Adrian Perrig;John A. Stankovic;David Wagner,1011
+Michael O. Rabin,32
+Ronald L. Rivest,233
+Ronald L. Rivest;Adi Shamir,121
+Mary Beth Rosson,56
+Mary Beth Rosson;John M. Carroll,52
+Gerard Salton,51
+Gerard Salton,2
+Gerard Salton,1
+Gerard Salton,10
+Gerard Salton,0
+Gerard Salton,0
+Gerard Salton,1
+Gerard Salton,0
+Gerard Salton,0
+Gerard Salton,9
+Gerard Salton,44
+Gerard Salton,383
+Hanan Samet,15
+Hanan Samet,229
+Hanan Samet,26
+Hanan Samet,6
+Hanan Samet,56
+Hanan Samet,127
+Tuomas Sandholm,130
+Douglas C. Schmidt,181
+Douglas C. Schmidt,257
+Douglas C. Schmidt,133
+Ben Shneiderman,518
+Ben Shneiderman,170
+Ben Shneiderman,335
+Ben Shneiderman,9
+Ben Shneiderman,116
+Ben Shneiderman,80
+Ben Shneiderman,17
+Ben Shneiderman,51
+Ben Shneiderman,2
+Ben Shneiderman,8
+Adi Shamir,7090
+Mary Shaw,5
+Abraham Silberschatz;Michael Stonebraker;Jeffrey D. Ullman,232
+Michael Stonebraker,528
+Andrew S. Tanenbaum,156
+Demetri Terzopoulos,147
+Sebastian Thrun,2830
+Uzi Vishkin,19
+Philip Wadler,59
+Gio Wiederhold,103
+Yorick Wilks,228
+Terry Winograd,169
+Terry Winograd,124
+Niklaus Wirth,36
+Niklaus Wirth,0
+Niklaus Wirth,0
+Niklaus Wirth,7
+Niklaus Wirth,17
+Niklaus Wirth,56
+Niklaus Wirth,1390
+Niklaus Wirth,171
+Niklaus Wirth,247
+Niklaus Wirth,42
+Niklaus Wirth,31
+Gio Wiederhold,24
+Terry Winograd,36
+Jeff Kramer,190
+Sebastian Thrun,3
+Ben Shneiderman,59
+Ben Shneiderman,166
+Jon Crowcroft,10
+Bernard Chazelle,4
+Moshe Y. Vardi,0
+Gul Agha,24
+Michael Stonebraker;David J. DeWitt,0
+David Harel,34
+Ian Horrocks,122
+David A. Patterson,1
+Michael Stonebraker,14
+Jeffrey D. Ullman,1
+Tom Leighton,67
+Madhu Sudan,7
+Bernd Hamann,331
+Bernd Hamann,8
+John Mitchell,2
+Hans-Peter Seidel,38
+Hans-Peter Seidel,60
+Luc Moreau,1
+Uriel Feige,13
+Mihir Bellare;Oded Goldreich;Shafi Goldwasser,89
+Ran Canetti;Oded Goldreich,28
+Oded Goldreich,0
+Noam Nisan,120
+Noam Nisan;Avi Wigderson,66
+Simon S. Lam,6
+Jon Crowcroft,7
+Nick Feamster,33
+Nick Feamster;Hari Balakrishnan,38
+Anja Feldmann,8
+Srinivasan Keshav,61
+Jun Wang;Klara Nahrstedt,12
+Matt Welsh,41
+Lixia Zhang,8
+David Wetherall,10
+Vern Paxson,1152
+Jon Crowcroft,76
+Anja Feldmann,180
+Jon Crowcroft,3
+Mark Crovella;Christophe Diot,0
+Jennifer Rexford,0
+Jon Crowcroft,0
+Hojjat Adeli,4
+Hojjat Adeli,2
+Hugues Hoppe,333
+Nadia Magnenat-Thalmann;Daniel Thalmann,4
+Nadia Magnenat-Thalmann;Daniel Thalmann,0
+Hanan Samet,76
+Norman I. Badler,26
+Kwan-Liu Ma,27
+Kwan-Liu Ma,12
+Kwan-Liu Ma,1
+Steven Feiner;Daniel Thalmann,4
+Ramesh Jain,8
+Nassir Navab,44
+Ben Shneiderman,62
+Kwan-Liu Ma,12
+Norman I. Badler,11
+Nadia Magnenat-Thalmann;Daniel Thalmann,5
+Pat Hanrahan,3
+Jiawei Han,38
+Didier Dubois;Henri Prade,8
+Didier Dubois;Henri Prade,83
+Didier Dubois;Henri Prade,429
+Craig Boutilier,10
+Craig Boutilier,0
+Ronald Fagin;Joseph Y. Halpern,197
+Boi Faltings,0
+William W. Cohen,9
+Joseph Y. Halpern,2
+Joseph Y. Halpern,10
+Judea Pearl,14
+David Poole,261
+John K. Tsotsos,68
+Tuomas Sandholm,283
+Daniel S. Weld,2
+Michael P. Wellman,0
+Michael P. Wellman,0
+Ian F. Akyildiz,4
+Elisa Bertino,3
+Jack Dongarra,14
+Erol Gelenbe,1
+Sushil Jajodia,5
+Donald E. Knuth,1361
+Dinesh Manocha,23
+Fionn Murtagh,1
+Fionn Murtagh,457
+Fionn Murtagh,79
+Tobias Nipkow,5
+Lawrence C. Paulson,15
+Jie Wu,10
+Abraham Silberschatz,0
+Abraham Silberschatz,24
+Andrew S. Tanenbaum,7
+Robin Milner,36
+Rachid Guerraoui;Michel Raynal,39
+Uriel Feige;Joe Kilian,40
+Moshe Y. Vardi,3
+Matthias Felleisen,21
+Ken Kennedy,20
+Nadia Magnenat-Thalmann,2
+Hanan Samet,9
+Micha Sharir,71
+Micha Sharir,6
+Charles E. Perkins;David B. Johnson,683
+Mostafa H. Ammar,5
+Steve Benford,6
+Simon S. Lam,188
+Ernst Biersack,7
+Jean-Yves Le Boudec,384
+Imrich Chlamtac,32
+Jon Crowcroft;Christophe Diot,0
+Deborah Estrin,26
+Deborah Estrin,29
+Deborah Estrin;Gene Tsudik,14
+Anja Feldmann,100
+David K. Gifford,25
+Ahmed Helmy,42
+Raj Jain,72
+Raj Jain,531
+Leonard Kleinrock,22
+Leslie Lamport,208
+Steve Lawrence;C. Lee Giles,148
+Vern Paxson,1815
+Charles E. Perkins,51
+Krithi Ramamritham,31
+John A. Stankovic,94
+Peter Stone,3
+Bart Preneel,15
+Stephen Grossberg,918
+Risto Miikkulainen,100
+Herbert A. Simon,47
+Kevin Knight,222
+Daniel Marcu,151
+Kathleen McKeown,26
+Fernando C. N. Pereira,165
+Fernando C. N. Pereira,97
+Andreas Stolcke,317
+Yorick Wilks,2
+Noga Alon,759
+Noga Alon,30
+Noga Alon,96
+Noga Alon,32
+Noga Alon,53
+Noga Alon,64
+Manuel Blum,164
+Donald E. Knuth,65
+Noam Nisan,129
+Noam Nisan,356
+Noam Nisan;Avi Wigderson,103
+Christos H. Papadimitriou;Mihalis Yannakakis,16
+Micha Sharir,58
+Micha Sharir,30
+Micha Sharir,6
+Mikkel Thorup,22
+Noga Alon,64
+Donald E. Knuth,191
+Donald E. Knuth,64
+David Eppstein,17
+Guohong Cao;Mukesh Singhal,36
+Biswanath Mukherjee,16
+Peter Steenkiste,20
+Roger Wattenhofer,25
+Pankaj K. Agarwal,20
+Pankaj K. Agarwal;Micha Sharir,14
+David Eppstein,28
+David Eppstein,32
+David Eppstein,18
+David Eppstein,17
+David Eppstein,50
+Michael T. Goodrich,6
+Joseph S. B. Mitchell;Subhash Suri,49
+Elisa Bertino,46
+Josep Domingo-Ferrer,6
+Ming Li,71
+Ming Li,73
+Bart Preneel,1
+John M. Carroll,2
+John M. Carroll,3
+Dharma P. Agrawal,131
+Edward A. Fox,191
+Luca Benini;Giovanni De Micheli,2787
+Philip A. Bernstein,153
+Edward A. Lee,561
+Gaetano Borriello,18
+Edward A. Lee,287
+Hsinchun Chen,89
+Steven Feiner;Kathleen McKeown,232
+Dieter Fensel,119
+Jim Gray,32
+Jonathan Grudin,325
+Jonathan Grudin,1011
+David Harel,127
+David Harel,266
+Mark D. Hill,290
+Mark D. Hill,150
+Randy H. Katz,71
+Leonard Kleinrock,110
+Teuvo Kohonen,658
+H. T. Kung,2039
+Marc Levoy,99
+Dinesh Manocha,44
+Biswanath Mukherjee,22
+Alex Pentland,132
+Alex Pentland,200
+Krithi Ramamritham,8
+Michel Raynal;Mukesh Singhal,257
+Mahadev Satyanarayanan,445
+Micha Sharir,146
+Kang G. Shin,121
+Ben Shneiderman,1736
+Douglas C. Schmidt,1090
+Mukesh Singhal,238
+John A. Stankovic,20
+John A. Stankovic,12
+Peter Steenkiste,123
+Alex Waibel,129
+Gio Wiederhold,9
+Gio Wiederhold,172
+Gio Wiederhold,2632
+Niklaus Wirth,113
+Niklaus Wirth,57
+David A. Wood;Mark D. Hill,85
+Thomas A. Henzinger;Joseph Sifakis,124
+Franco Zambonelli;Michael Luck,2
+Raghu Ramakrishnan;Andrew Tomkins,48
+Barry Smyth,47
+Michael J. Carey,26
+David Harel,28
+Ramesh Jain,31
+John A. Stankovic,89
+Jie Wu,2
+Rachid Guerraoui,1
+Frank Leymann,52
+James Demmel,6
+Ben Y. Zhao,0
+Stefano Nolfi,45
+Stefano Nolfi,97
+Pascal Van Hentenryck,0
+Pascal Van Hentenryck,10
+Rina Dechter,20
+Raghu Ramakrishnan,3
+Roberto Tamassia,38
+Fred Glover,43
+Fred Glover,2065
+Fred Glover,23
+Olvi L. Mangasarian,39
+Jun Wang,9
+Daniel Marcu,4
+Adnan Darwiche,64
+David Eppstein,37
+Joseph Y. Halpern,82
+Joseph Y. Halpern,31
+Joseph Y. Halpern;Judea Pearl,147
+Nir Friedman;Joseph Y. Halpern,81
+Joseph Y. Halpern;Judea Pearl,195
+Nir Friedman;Joseph Y. Halpern,72
+Nir Friedman;Joseph Y. Halpern,60
+Joseph Y. Halpern;Daphne Koller,21
+Ajith Abraham,46
+Ajith Abraham,172
+Ajith Abraham,126
+Ajith Abraham,26
+Ajith Abraham,55
+Ajith Abraham,44
+Ajith Abraham,30
+Joseph Y. Halpern,43
+Joseph Y. Halpern,33
+Michael P. Wellman,599
+William W. Cohen,62
+William W. Cohen,55
+Toby Walsh,40
+Giuseppe De Giacomo;Maurizio Lenzerini,55
+Joseph Y. Halpern,89
+Milind Tambe,1009
+Adnan Darwiche,149
+Nir Friedman;Joseph Y. Halpern;Daphne Koller,9
+Joseph Y. Halpern,19
+Nir Friedman;Joseph Y. Halpern,84
+Nir Friedman;Joseph Y. Halpern,61
+Joseph Y. Halpern,53
+Jim Gray,2
+Uriel Feige,6
+Russell Impagliazzo,15
+Fionn Murtagh,1
+David Eppstein;S. Muthukrishnan,166
+David Eppstein,8
+David Eppstein,12
+David Eppstein,6
+David Eppstein,50
+David Eppstein,28
+Andreas Stolcke,231
+Philipp Koehn;Kevin Knight,146
+Dan Roth,195
+Yorick Wilks,7
+Yorick Wilks,21
+Jan Chomicki,4
+Jan Chomicki,31
+Jim Gray,4
+Joseph Y. Halpern,15
+William Gropp,46
+Rajkumar Buyya,670
+Jim Gray;Leslie Lamport,150
+Joseph Y. Halpern,6
+Joseph Y. Halpern,0
+David Eppstein,105
+David Eppstein,67
+David Eppstein,50
+David Eppstein,64
+David Eppstein,61
+Aravind Srinivasan,58
+David Eppstein,55
+David Eppstein,18
+David Eppstein,27
+David Eppstein,305
+David Eppstein,106
+Jim Gray,79
+Joseph Y. Halpern,47
+Joseph Y. Halpern,46
+Robert Harper;Frank Pfenning,103
+Satoshi Matsuoka,3
+Lawrence C. Paulson,71
+Lawrence C. Paulson,59
+Lawrence C. Paulson,29
+Lawrence C. Paulson,164
+Lawrence C. Paulson,389
+Lawrence C. Paulson,530
+Lawrence C. Paulson,19
+Lawrence C. Paulson,133
+Lawrence C. Paulson,32
+Lawrence C. Paulson,94
+Lawrence C. Paulson,73
+Lawrence C. Paulson,53
+Ahmed Helmy,9
+Ahmed Helmy,12
+Ahmed Helmy,43
+Ahmed Helmy,29
+Jim Gray,158
+Vern Paxson,594
+Raj Jain,5
+Raj Jain,531
+Raj Jain,144
+Raj Jain,172
+Raj Jain,60
+Raj Jain,41
+Raj Jain,72
+Raj Jain,327
+Raj Jain,126
+Raj Jain,47
+Raj Jain,5
+David Eppstein,8
+David Eppstein,20
+Lance Fortnow,39
+Jim Gray,11
+Jim Gray,19
+Jim Gray,5
+Fionn Murtagh,6
+Fionn Murtagh,1
+Joseph Y. Halpern,32
+David Eppstein;Michael T. Goodrich,6
+David Eppstein,22
+David Eppstein,17
+Stephen Cook,0
+David Eppstein,11
+Jan Chomicki,28
+David Eppstein,8
+Joseph Y. Halpern,1
+Fionn Murtagh,32
+Dale Miller,1
+Fionn Murtagh,4
+David Eppstein,10
+Dexter Kozen,8
+David Eppstein,8
+David Eppstein,19
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini,39
+Jan Chomicki,17
+David Eppstein,17
+Steffen Staab,1
+Mihalis Yannakakis,12
+David Eppstein,1
+Fionn Murtagh,0
+Joseph Y. Halpern,2
+David Eppstein,4
+David Eppstein;Michael T. Goodrich,39
+Joseph Y. Halpern,19
+Joseph Y. Halpern,18
+David Eppstein,5
+Fionn Murtagh,11
+David Eppstein;Michael T. Goodrich,33
+Fionn Murtagh,4
+Fionn Murtagh,3
+Toby Walsh,27
+Toby Walsh,26
+Toby Walsh,23
+Toby Walsh,27
+Toby Walsh,124
+Yoav Freund,1
+Amnon Shashua,0
+Michael T. Goodrich,12
+Michael T. Goodrich,20
+Noga Alon,34
+Noga Alon,31
+Keith Edwards,5
+Keith Edwards,9
+Keith Edwards,15
+Michael Mitzenmacher,32
+Micha Sharir,18
+Mikkel Thorup,27
+Noga Alon,1
+Noga Alon,2
+Noga Alon,24
+Carl Gutwin;Saul Greenberg,604
+Paul Dourish,144
+Paul Dourish,40
+John M. Carroll,1
+Ben Shneiderman,2
+Michel Raynal,12
+Gregory D. Abowd,6
+Pankaj K. Agarwal;Subhash Suri,0
+Pankaj K. Agarwal;Micha Sharir,222
+Gul Agha,6
+Rajeev Alur,0
+Alan Burns,0
+Luca Cardelli,436
+Luca Cardelli,13
+Luca Cardelli,40
+Soumen Chakrabarti,37
+Craig Chambers,4
+Shih-Fu Chang,2
+Umeshwar Dayal,0
+Rina Dechter,20
+Didier Dubois;Henri Prade,15
+David Garlan,82
+Christos Faloutsos,419
+Oded Goldreich;Avi Wigderson,8
+Zvi Galil,271
+Won Kim,76
+Won Kim,0
+Stephanie Forrest,113
+Jonathan Grudin,23
+Dirk Grunwald,1
+Rachid Guerraoui,53
+Rachid Guerraoui,4
+Pascal Van Hentenryck,10
+Thomas A. Henzinger,5
+Sushil Jajodia,53
+Sushil Jajodia,1
+Daphne Koller,2
+Neil D. Jones,228
+Donald Kossmann,699
+Randy H. Katz,607
+Won Kim,57
+Kevin Knight,310
+Donald E. Knuth,39
+Donald E. Knuth,742
+Vladimir Lifschitz,10
+Prasant Mohapatra,105
+Thomas P. Moran,217
+Thomas P. Moran,0
+Nadia Magnenat-Thalmann;Daniel Thalmann,329
+Rajeev Motwani;Prabhakar Raghavan,4453
+Klara Nahrstedt,31
+Gonzalo Navarro,1290
+M. Tamer Özsu,4
+Dale Miller,3
+Jens Palsberg,10
+Jens Palsberg,0
+Jens Palsberg,2
+Judea Pearl,30
+Fernando C. N. Pereira,2
+Raghu Ramakrishnan,3
+Krithi Ramamritham,0
+Krithi Ramamritham,3
+Azriel Rosenfeld,889
+Azriel Rosenfeld,51
+Mary Beth Rosson,21
+Hanan Samet,13
+Hanan Samet,1984
+Hanan Samet,79
+Hanan Samet,4
+Douglas C. Schmidt,11
+Bart Selman,2
+Dennis Shasha,11
+Ben Shneiderman,199
+Ben Shneiderman,4
+Joseph Sifakis,5
+Joseph Sifakis,1
+John A. Stankovic,90
+John A. Stankovic,142
+John A. Stankovic,5
+Roberto Tamassia,3
+Roberto Tamassia,27
+Andrew S. Tanenbaum,42
+Andrew S. Tanenbaum,1
+Andrew S. Tanenbaum,130
+Andrew S. Tanenbaum;Robbert van Renesse,1288
+Jeffrey D. Ullman,6
+Jeffrey D. Ullman,0
+Philip Wadler,14
+Philip Wadler,167
+Michael P. Wellman,68
+Michael P. Wellman,68
+Jennifer Widom,25
+Gio Wiederhold,103
+Niklaus Wirth,174
+Pierre Wolper,3
+Pierre Wolper,5
+David A. Wood,0
+Luca Cardelli,725
+Andrew Blake,123
+Michael T. Goodrich,23
+W. Eric L. Grimson,166
+W. Eric L. Grimson,0
+W. Eric L. Grimson,3
+Katsushi Ikeuchi;Takeo Kanade,44
+Michal Irani;Shmuel Peleg,1088
+Ron Kimmel,61
+Dinesh Manocha;James Demmel,70
+Shmuel Peleg,12
+Tomaso Poggio,59
+Jean Ponce,62
+Mubarak Shah;Ramesh Jain,56
+Azriel Rosenfeld,31
+Azriel Rosenfeld,31
+Azriel Rosenfeld,31
+Azriel Rosenfeld,120
+Azriel Rosenfeld,31
+Azriel Rosenfeld,30
+Azriel Rosenfeld,30
+Hanan Samet,26
+Hanan Samet,8
+Hanan Samet,59
+Demetri Terzopoulos,319
+Katsushi Ikeuchi;Patrick J. Flynn,10
+Azriel Rosenfeld,14
+Azriel Rosenfeld,30
+Azriel Rosenfeld,41
+Azriel Rosenfeld,30
+Azriel Rosenfeld,30
+Azriel Rosenfeld,30
+Azriel Rosenfeld,30
+Azriel Rosenfeld,30
+Zhengyou Zhang,4
+Noga Alon,5
+Fred Glover,172
+Fred Glover,248
+Pavol Hell,0
+Rajeev Motwani;Madhu Sudan,58
+David Peleg,68
+Prabhakar Raghavan,3
+Keith Edwards,7
+Moni Naor,42
+Rakesh Agrawal;Johannes Gehrke;Dimitrios Gunopulos;Prabhakar Raghavan,115
+Olvi L. Mangasarian,157
+Pedro Domingos,234
+Steven Salzberg,487
+Sunita Sarawagi,16
+David Heckerman,537
+Pedro Domingos,34
+Ben Shneiderman,0
+Edmund M. Clarke,2
+Amotz Bar-Noy;Danny Dolev,22
+Oded Goldreich,22
+Leslie Lamport,57
+Leslie Lamport,16
+Leslie Lamport,2
+Leslie Lamport,48
+Leslie Lamport,5
+Rachid Guerraoui,54
+Joseph Y. Halpern,15
+Barbara Liskov,134
+Joseph Y. Halpern;Ronald Fagin,191
+Michael Mitzenmacher,14
+Mukesh Singhal,25
+Leslie Lamport,135
+Leslie Lamport,65
+Andrzej Pelc,7
+Leslie Lamport,0
+Andrzej Pelc,0
+Josep Domingo-Ferrer,4
+Ari Juels;Madhu Sudan,790
+Pankaj K. Agarwal,43
+Pankaj K. Agarwal,90
+Pankaj K. Agarwal;Micha Sharir,33
+Pankaj K. Agarwal;Micha Sharir,83
+Pankaj K. Agarwal;Micha Sharir,36
+Pankaj K. Agarwal;Micha Sharir,92
+Noga Alon,17
+Bernard Chazelle,5
+Bernard Chazelle,705
+Bernard Chazelle,224
+Bernard Chazelle,213
+Bernard Chazelle,48
+Bernard Chazelle;Leonidas J. Guibas,262
+David Eppstein,50
+David Eppstein,67
+David Eppstein,35
+Michael T. Goodrich,19
+Michael T. Goodrich,53
+Micha Sharir,113
+Micha Sharir,142
+Micha Sharir,84
+Gul Agha,4
+Rakesh Agrawal,0
+Rakesh Agrawal;Michael J. Carey,7
+Won Kim,0
+Rakesh Agrawal;H. V. Jagadish,68
+Michael J. Carey,6
+Michael J. Carey,0
+Michael J. Carey;David J. DeWitt,40
+Michael J. Carey;Donald Kossmann,33
+Fabio Casati;Umeshwar Dayal,0
+Philip A. Bernstein,1
+Won Kim,0
+David J. DeWitt,9
+Surajit Chaudhuri,123
+Surajit Chaudhuri,4
+Surajit Chaudhuri,4
+Surajit Chaudhuri;Luis Gravano,162
+Surajit Chaudhuri;Rajeev Motwani,15
+Max J. Egenhofer,45
+Jan Chomicki,8
+Christos Faloutsos,74
+Christos Faloutsos,19
+Daniela Florescu;Donald Kossmann,132
+William W. Cohen,11
+Daniela Florescu;Donald Kossmann,1058
+W. Bruce Croft,3
+W. Bruce Croft,3
+Joseph M. Hellerstein,17
+Ian Horrocks,373
+Tomasz Imielinski,51
+Luis Gravano;Yannis Papakonstantinou,47
+Jim Gray,5
+Manish Gupta,1
+Randy H. Katz,10
+Randy H. Katz,1
+Steve Lawrence,331
+Zbigniew Michalewicz,0
+Oscar Nierstrasz,11
+Prabhakar Raghavan,32
+Raghu Ramakrishnan;Divesh Srivastava,0
+Michel Raynal,4
+Gerard Salton,16
+Sunita Sarawagi,4
+Sunita Sarawagi,4
+Sunita Sarawagi,117
+Sunita Sarawagi,7
+Dennis Shasha,18
+Dennis Shasha,104
+Michael Stonebraker,5
+Michael Stonebraker,511
+Michael Stonebraker,14
+Jeffrey D. Ullman,2
+Jennifer Widom,51
+Jennifer Widom,200
+Gio Wiederhold,0
+Jim Gray,3
+Serge Abiteboul,154
+Elisa Bertino,64
+Frank Leymann,16
+Frank Leymann,7
+Mary Shaw,62
+Barry Smith,256
+Noga Alon,11
+Noga Alon,106
+Keith Edwards,0
+David Haussler,13
+Noga Alon,91
+Noga Alon,66
+Noga Alon,2
+David Peleg,14
+Noga Alon,0
+Richard Taylor,1
+Oded Goldreich,0
+Keith Edwards,4
+Noga Alon,10
+Keith Edwards,0
+David Peleg,8
+Noga Alon,6
+Noga Alon,106
+Boualem Benatallah;Fabio Casati,40
+Schahram Dustdar,125
+Krithi Ramamritham,658
+Serge Abiteboul,0
+Philip S. Yu,0
+Philip A. Bernstein,6
+Philip A. Bernstein,0
+Raghu Ramakrishnan,0
+Philip A. Bernstein,1
+Krithi Ramamritham,0
+Philip A. Bernstein,0
+Krithi Ramamritham,0
+Elisa Bertino,0
+Krithi Ramamritham,1
+Elisa Bertino,0
+Krithi Ramamritham,0
+Elisa Bertino,0
+Elisa Bertino,0
+Michael J. Carey,1
+Michael J. Carey,0
+Michael J. Carey,0
+Surajit Chaudhuri,0
+Dennis Shasha,0
+Surajit Chaudhuri,0
+Dennis Shasha,0
+Dennis Shasha,0
+Dennis Shasha,0
+Jim Gray,1
+Tomasz Imielinski,0
+H. V. Jagadish,0
+Divesh Srivastava,0
+H. V. Jagadish,0
+Divesh Srivastava,0
+H. V. Jagadish,0
+Divesh Srivastava,0
+H. V. Jagadish,0
+Divesh Srivastava,0
+H. V. Jagadish,0
+H. V. Jagadish,0
+H. V. Jagadish,0
+Victor Vianu,0
+Christian S. Jensen,1
+Victor Vianu,0
+Victor Vianu,0
+Victor Vianu,0
+Gerhard Weikum,1
+Gerhard Weikum,0
+Gerhard Weikum,0
+Jennifer Widom,1
+David Maier,1
+Alberto O. Mendelzon,3
+Alberto O. Mendelzon,0
+Alberto O. Mendelzon,0
+Alberto O. Mendelzon,0
+Andrew S. Tanenbaum,16
+Gregory D. Abowd,1
+Frank van Harmelen,20
+Ramesh Jain,0
+Vipin Kumar,18
+Mahadev Satyanarayanan,2
+Mahadev Satyanarayanan,1
+Mahadev Satyanarayanan,1
+Ben Shneiderman,1
+Hsinchun Chen,14
+Michael L. Littman;Peter Stone,86
+Tuomas Sandholm,154
+Rajesh Gupta,1
+Rajesh Gupta,0
+Rajesh Gupta,0
+Rajesh Gupta,2
+Andrew B. Kahng,6
+Andrew B. Kahng,3
+Andrew B. Kahng,2
+Andrew B. Kahng,10
+Giovanni De Micheli,15
+Giovanni De Micheli,1
+Jan M. Rabaey;Sharad Malik,17
+Lance Fortnow,16
+Lance Fortnow,66
+David Harel,47
+Dexter Kozen,14
+Christos H. Papadimitriou,84
+Moshe Y. Vardi,0
+Kalyanmoy Deb,851
+Marco Dorigo,64
+Zbigniew Michalewicz,76
+Oded Goldreich,54
+Ran Canetti,35
+Oded Goldreich;Avi Wigderson,9
+Oded Goldreich,52
+Oded Goldreich,12
+Cynthia Dwork;Moni Naor,105
+Piotr Indyk,4
+Oded Goldreich;Avi Wigderson,26
+Oded Goldreich,2
+Noga Alon;Oded Goldreich;Yishay Mansour,20
+Oded Goldreich;Madhu Sudan,59
+Oded Goldreich,63
+Oded Goldreich,49
+Oded Goldreich,29
+Oded Goldreich,5
+Noam Nisan;Avi Wigderson,103
+Oded Goldreich,27
+Lance Fortnow,3
+Mihir Bellare;Oded Goldreich;Madhu Sudan,396
+Oded Goldreich;Noam Nisan;Avi Wigderson,124
+Oded Goldreich,37
+Oded Goldreich;Avi Wigderson,2
+Oded Goldreich,3
+Oded Goldreich;Shafi Goldwasser,185
+Oded Goldreich,120
+Oded Goldreich,47
+Oded Goldreich;Madhu Sudan,8
+Oded Goldreich;Shafi Goldwasser;Silvio Micali,3
+Ran Canetti;Oded Goldreich;Shafi Goldwasser;Silvio Micali,211
+Oded Goldreich,2
+Noam Nisan,1
+Oded Goldreich,9
+Piotr Indyk,44
+Mihir Bellare;Oded Goldreich,13
+Frank van Harmelen,0
+Kurt Mehlhorn,1
+Noga Alon,17
+David Eppstein,55
+Robert Morris,12
+Schahram Dustdar,0
+Jan Mendling,9
+Jan Mendling,91
+Frank Leymann,23
+Matthew Hennessy,2
+Neil D. Jones,1
+Dale Miller,1
+Moshe Y. Vardi,1
+Robin Milner,4
+Dale Miller,3
+Robin Milner,20
+Donald E. Knuth,2
+Gregg Rothermel;Mary Jean Harrold,14
+David Poole,36
+W. Bruce Croft,100
+W. Bruce Croft,25
+Charles Elkan,132
+Charles Elkan,9
+Oren Etzioni;Daniel S. Weld,461
+Boi Faltings,5
+W. Eric L. Grimson,14
+Takeo Kanade,18
+Pattie Maes,29
+Deborah L. McGuinness,59
+Enrico Motta,7
+Steffen Staab,18
+Yorick Wilks,5
+Ben Shneiderman,6
+Yorick Wilks,41
+James Hendler,0
+Matthew Hennessy,41
+Tobias Nipkow,24
+Michel Raynal,2
+John M. Carroll,4
+Rajeev Alur;Thomas A. Henzinger,596
+Patrice Godefroid,107
+Patrice Godefroid;Pierre Wolper,242
+Didier Dubois;Henri Prade,0
+Didier Dubois;Henri Prade,124
+Didier Dubois;Henri Prade,94
+Witold Pedrycz,56
+Craig Boutilier,13
+Thomas Eiter;Georg Gottlob,35
+Frank Pfenning,46
+Tao Jiang,29
+Dimitris Papadias;Max J. Egenhofer,44
+Frank Leymann,0
+Dimitris Papadias,66
+Riccardo Poli,85
+Fred Glover,30
+Fred Glover,13
+Fred Glover,6
+Serge Abiteboul;Christos H. Papadimitriou;Victor Vianu,14
+Rajeev Alur;Thomas A. Henzinger,470
+Alfred V. Aho;Jeffrey D. Ullman,189
+Amotz Bar-Noy;Danny Dolev;Daphne Koller;David Peleg,7
+Manuel Blum,140
+Luca Cardelli,1214
+Bernard Chazelle,82
+Didier Dubois;Henri Prade,87
+David Eppstein,54
+Yoav Freund,55
+Yoav Freund,1239
+Zvi Galil,3
+Zvi Galil,132
+Patrice Godefroid;Pierre Wolper,307
+Georg Gottlob,33
+Georg Gottlob;Christos H. Papadimitriou,25
+Joseph Y. Halpern,7
+David Harel;Dexter Kozen,34
+David Harel;David Peleg,35
+David Haussler,742
+Matthew Hennessy,77
+Matthew Hennessy,46
+Matthew Hennessy,65
+Thomas A. Henzinger;Zohar Manna;Amir Pnueli,122
+Tao Jiang,24
+Neil D. Jones,8
+Neil D. Jones,5
+Donald E. Knuth,786
+Donald E. Knuth,75
+Dexter Kozen,40
+Dexter Kozen,479
+Dexter Kozen,38
+Richard E. Ladner,95
+Kurt Mehlhorn,8
+Robin Milner,103
+Robin Milner,170
+Jens Palsberg,104
+Christos H. Papadimitriou;Mihalis Yannakakis,130
+Michael O. Rabin,607
+Shmuel Peleg,4
+David Peleg,28
+Frank Pfenning,82
+Ronald L. Rivest;Adi Shamir,128
+Ronald L. Rivest;Robert E. Schapire,365
+Azriel Rosenfeld,25
+Azriel Rosenfeld,10
+Azriel Rosenfeld,123
+Azriel Rosenfeld,182
+Azriel Rosenfeld,29
+Azriel Rosenfeld,15
+Azriel Rosenfeld,19
+Azriel Rosenfeld,6
+Azriel Rosenfeld,274
+Azriel Rosenfeld,10
+Azriel Rosenfeld,94
+Joseph Sifakis,4
+Herbert A. Simon,91
+Herbert A. Simon,23
+Herbert A. Simon,23
+Jacques Stern,66
+Mikkel Thorup,104
+Moshe Y. Vardi;Pierre Wolper,696
+Uzi Vishkin,152
+Uzi Vishkin;Avi Wigderson,18
+Philip Wadler,21
+Pierre Wolper,712
+Simon S. Lam,117
+Ronald Fagin,122
+Simon S. Lam,11
+Vivek Sarkar,71
+Prabhakar Raghavan;Marc Snir,168
+Vivek Sarkar,75
+Gio Wiederhold;John McCarthy,1
+Gregory D. Abowd,661
+Mary Beth Rosson;John M. Carroll,1134
+Thomas Hofmann,22
+Pedro Domingos,73
+Michael Wooldridge,786
+Franco Zambonelli,0
+Sushil Jajodia,2
+Schahram Dustdar,5
+Ramesh Jain,1
+Ramesh Jain,1
+Ramesh Jain,5
+Ramesh Jain,5
+Ramesh Jain,1
+Ramesh Jain,32
+Ramesh Jain,5
+Ramesh Jain,2
+Ramesh Jain,0
+Ramesh Jain,26
+Ramesh Jain,2
+Ramesh Jain,2
+Ramesh Jain,36
+Ramesh Jain,6
+Ramesh Jain,17
+Ramesh Jain,2
+Ramesh Jain,1
+Ramesh Jain,12
+Ramesh Jain,1
+Ramesh Jain,0
+Ramesh Jain,0
+Ramesh Jain,3
+Ramesh Jain,10
+Ramesh Jain,2
+Ramesh Jain,2
+David Lowe,1
+Ben Shneiderman,4
+John R. Smith,6
+John R. Smith;Shih-Fu Chang,421
+Rosario Gennaro,11
+Ross Anderson,4
+Hermann Ney,7
+Frank Leymann,31
+Lawrence C. Paulson,11
+Moshe Y. Vardi,5
+Craig Boutilier,19
+Adnan Darwiche,25
+Didier Dubois;Henri Prade,31
+Didier Dubois;Henri Prade,35
+Didier Dubois;Henri Prade,88
+Didier Dubois;Henri Prade,71
+Didier Dubois;Henri Prade,163
+Didier Dubois;Henri Prade,50
+Didier Dubois;Henri Prade,85
+Charles Elkan,6
+Eric Horvitz,323
+Hisao Ishibuchi,0
+Judea Pearl,32
+Judea Pearl,17
+Judea Pearl,124
+Judea Pearl,14
+Witold Pedrycz,0
+Witold Pedrycz,7
+Michael P. Wellman,8
+Yiyu Yao,110
+Pankaj K. Agarwal;Micha Sharir,8
+David Eppstein,2
+David Eppstein,25
+Michael T. Goodrich,5
+Ming C. Lin;Dinesh Manocha,18
+Joseph S. B. Mitchell,115
+Ajith Abraham,13
+Gio Wiederhold,5
+Pascal Fua,134
+Michal Irani,53
+Cordelia Schmid,46
+Cordelia Schmid;Andrew Zisserman,136
+Mubarak Shah,17
+John K. Tsotsos,30
+Katsushi Ikeuchi,168
+Jitendra Malik,293
+Rachid Deriche,1167
+W. Eric L. Grimson,62
+Alex Pentland,156
+Jean Ponce,18
+Alex Pentland,266
+Richard Szeliski,241
+W. Eric L. Grimson,1
+John K. Tsotsos,137
+Roberto Cipolla;Andrew Blake,273
+Ingemar J. Cox,242
+Zhengyou Zhang,1458
+Venu Govindaraju,132
+W. Eric L. Grimson,2
+Amnon Shashua,214
+Pascal Fua,111
+Pascal Fua,14
+Zhengyou Zhang,1046
+Ingemar J. Cox,1
+Seong-Whan Lee,0
+Sartaj Sahni,47
+V. S. Subrahmanian,3
+V. S. Subrahmanian,1
+Ming Li,7
+Michael Cohen,10
+Witold Pedrycz,6
+Tao Li,2
+Sankar K. Pal,15
+Witold Pedrycz,6
+Didier Dubois;Henri Prade,75
+Witold Pedrycz,19
+John M. Carroll,270
+Michael Cohen,35
+W. Bruce Croft,43
+Didier Dubois;Henri Prade,23
+Jonathan Grudin,58
+Josef Kittler,71
+Benjamin Kuipers,14
+Thomas P. Moran,0
+Thomas P. Moran,543
+Gerard Salton;James Allan,76
+Ben Shneiderman,96
+Barry Smith,104
+Wei Wang,99
+Steve Whittaker,197
+Yorick Wilks,0
+John M. Carroll;Mary Beth Rosson,14
+Yoshua Bengio,21
+Erkki Oja,758
+Yoram Singer,59
+Xin Yao,250
+Ajith Abraham,126
+Shun-ichi Amari,51
+Teuvo Kohonen,17923
+Erkki Oja,185
+David Lowe,14
+Erkki Oja,18
+Fionn Murtagh,18
+Stefano Nolfi,113
+Witold Pedrycz,0
+Witold Pedrycz,0
+Witold Pedrycz,0
+Witold Pedrycz,4
+Ken Kennedy,52
+Vivek Sarkar,69
+Yoshua Bengio,55
+Zoubin Ghahramani,200
+Ion Stoica,3
+Zhengyou Zhang,83
+Barry Smyth,2
+Dieter Fox,305
+Andrew Blake,20
+Roberto Cipolla;Andrew Blake,46
+Pradeep K. Khosla;Takeo Kanade,90
+Daniela Rus,27
+Sebastian Thrun,431
+Terry Winograd,93
+Pascal Van Hentenryck,62
+Thomas W. Reps,201
+Donald Kossmann;Frank Leymann,73
+Steffen Staab,55
+Niklaus Wirth,19
+Steve Benford,7
+John M. Carroll,40
+Jonathan Grudin,22
+Jonathan Grudin,3
+Saul Greenberg,52
+Pattie Maes,15
+Ben Shneiderman,0
+Ben Shneiderman,24
+Ben Shneiderman,16
+Ben Shneiderman,96
+Ben Shneiderman,49
+Ben Shneiderman;Pattie Maes,307
+Terry Winograd,0
+Terry Winograd,4
+Jonathan Grudin,1
+Jonathan Grudin,6
+Jonathan Grudin,1
+Jonathan Grudin,4
+Elisa Bertino;Krithi Ramamritham,3
+Steve Lawrence;C. Lee Giles,258
+Pattie Maes,32
+Charles E. Perkins,377
+Birgit Pfitzmann;Michael Waidner,75
+Prabhakar Raghavan,62
+Tuomas Sandholm,54
+Rachid Guerraoui,2
+Dieter Fensel;Frank van Harmelen,104
+Serge Abiteboul,32
+Noga Alon,35
+Noga Alon,57
+Noga Alon;Oded Goldreich;Yishay Mansour,20
+Noga Alon;Yishay Mansour,18
+Rakesh Agrawal;David J. DeWitt,21
+Baruch Awerbuch,114
+Eli Biham,40
+Avrim Blum,41
+Ran Canetti,47
+Bernard Chazelle,2
+Bernard Chazelle,20
+Jiawei Han,2
+Josep Domingo-Ferrer,2
+Luc Devroye,8
+Luc Devroye,4
+Ronald Fagin;Moshe Y. Vardi,47
+Uriel Feige,4
+Uriel Feige;Joe Kilian,22
+E. Allen Emerson,23
+David Eppstein,57
+David Eppstein,12
+Josep Domingo-Ferrer,140
+Lance Fortnow,17
+Zvi Galil,19
+Zvi Galil;Moti Yung,20
+Erol Gelenbe,5
+Oded Goldreich,48
+Carlo Ghezzi,9
+Gaston H. Gonnet,8
+Michael T. Goodrich,36
+Georg Gottlob,100
+Georg Gottlob,16
+Rachid Guerraoui,21
+Rajiv Gupta,6
+David Harel,14
+David Harel;David Peleg,7
+Robert Harper,101
+Robert Harper,20
+Thomas A. Henzinger,75
+H. V. Jagadish,54
+Sushil Jajodia,4
+Neil D. Jones,16
+Josef Kittler,1
+Josef Kittler,2
+Donald E. Knuth,126
+H. T. Kung,8
+Leslie Lamport,1
+Ming Li,1
+Vladimir Lifschitz,2
+Heikki Mannila;Kurt Mehlhorn,14
+Kurt Mehlhorn,10
+Kurt Mehlhorn,225
+Silvio Micali,36
+Fionn Murtagh,26
+Christos H. Papadimitriou,33
+Jens Palsberg,6
+Christos H. Papadimitriou,174
+Christos H. Papadimitriou;Mihalis Yannakakis,3
+Christos H. Papadimitriou;Mihalis Yannakakis,59
+Judea Pearl,4
+Andrzej Pelc,8
+Andrzej Pelc;David Peleg,58
+Michel Raynal,19
+Michel Raynal,7
+Gerard Salton,14
+Gerard Salton,48
+Hanan Samet,2
+Hanan Samet,1
+Adi Shamir,47
+Adi Shamir,17
+Micha Sharir,0
+Micha Sharir,28
+Micha Sharir,8
+Micha Sharir,1
+Victor Shoup,70
+Victor Shoup,16
+Marc Snir,6
+Roberto Tamassia,12
+Andrew Tomkins,1
+Uzi Vishkin,57
+Moshe Y. Vardi,37
+Moshe Y. Vardi,2
+Moshe Y. Vardi,36
+Moshe Y. Vardi,4
+Niklaus Wirth,2
+Carlo Zaniolo,5
+Xin Yao,13
+Xin Yao,1
+Aravind Srinivasan,0
+James Allan,94
+W. Bruce Croft,145
+W. Bruce Croft,145
+Edward A. Fox,123
+Edward A. Fox,1
+Fionn Murtagh,33
+Gerard Salton,30
+Gerard Salton,0
+Gerard Salton,11
+Gerard Salton,7
+Gerard Salton,46
+Gerard Salton,39
+Gerard Salton,163
+Ben Shneiderman,7
+Justin Zobel,0
+James Allan,20
+Justin Zobel,0
+Mary Beth Rosson;John M. Carroll,1134
+Jiawei Han,15
+Jiawei Han,0
+Elisa Bertino;Sushil Jajodia;Pierangela Samarati,54
+W. Bruce Croft,153
+Umeshwar Dayal;Philip A. Bernstein,16
+Frank Leymann,1
+John Mylopoulos,216
+Zbigniew Michalewicz,10
+Zbigniew Michalewicz,3
+Zbigniew Michalewicz,2
+Henri Prade,96
+Krithi Ramamritham,1
+Krithi Ramamritham,1
+Krithi Ramamritham,1
+Ben Shneiderman,26
+Ben Shneiderman,17
+Jan Chomicki,17
+Didier Dubois;Henri Prade,690
+Didier Dubois;Henri Prade,800
+Didier Dubois;Henri Prade,172
+Didier Dubois;Henri Prade,1
+Didier Dubois;Henri Prade,26
+Didier Dubois;Henri Prade,188
+Erol Gelenbe,11
+Jiawei Han,2
+Rachid Guerraoui,2
+David Haussler,14
+Josef Kittler,5
+Vipin Kumar,7
+Maurizio Lenzerini,5
+Sankar K. Pal,35
+Sankar K. Pal,4
+Sankar K. Pal,78
+Witold Pedrycz,17
+Witold Pedrycz,7
+Shmuel Peleg,1
+Raymond Reiter,1
+Azriel Rosenfeld,13
+Azriel Rosenfeld,1
+Azriel Rosenfeld,2
+Azriel Rosenfeld,35
+Jun Wang,7
+Gio Wiederhold,5
+Kurt Mehlhorn,10
+Andrew Blake;Roberto Cipolla,39
+Nicholas Ayache,115
+Patrick J. Flynn,1
+Ramesh Jain,64
+Josef Kittler,39
+Alex Pentland,26
+Pietro Perona,174
+Azriel Rosenfeld,1
+Zhengyou Zhang,65
+Zhengyou Zhang,610
+Bernt Schiele,29
+Ben Shneiderman,114
+John M. Carroll,61
+John M. Carroll,280
+John M. Carroll,32
+John M. Carroll,27
+Jonathan Grudin,123
+Serge Abiteboul,2
+Serge Abiteboul;Victor Vianu,63
+Serge Abiteboul;Victor Vianu,39
+Serge Abiteboul;Moshe Y. Vardi;Victor Vianu,106
+Alfred V. Aho,454
+Alfred V. Aho,135
+Baruch Awerbuch,560
+Rajeev Alur;Thomas A. Henzinger,594
+Baruch Awerbuch;David Peleg,161
+Mihir Bellare;Silvio Micali,103
+Manuel Blum,828
+Manuel Blum,67
+Avrim Blum,87
+Bernard Chazelle,41
+Bernard Chazelle,240
+Bernard Chazelle,137
+Bernard Chazelle,104
+Edmund M. Clarke,2
+Adnan Darwiche,195
+Adnan Darwiche,202
+Rina Dechter;Judea Pearl,555
+Luc Devroye,193
+Leslie Lamport,112
+Simon S. Lam,36
+Thomas Eiter;Georg Gottlob,308
+E. Allen Emerson;Joseph Y. Halpern,1045
+Ronald Fagin,327
+Ronald Fagin,288
+Cynthia Dwork;Moni Naor;Amit Sahai,376
+Ronald Fagin;Joseph Y. Halpern,296
+Ronald Fagin;Joseph Y. Halpern;Moshe Y. Vardi,182
+Ronald Fagin;Joseph Y. Halpern;Moshe Y. Vardi,97
+Uriel Feige,1334
+Nir Friedman;Joseph Y. Halpern,84
+Zvi Galil,50
+Zvi Galil,69
+Zvi Galil,55
+Erol Gelenbe,205
+Erol Gelenbe,205
+Oded Goldreich;Shafi Goldwasser;Silvio Micali,1423
+Oded Goldreich;Silvio Micali;Avi Wigderson,3310
+Oded Goldreich;Rafail Ostrovsky,360
+Shafi Goldwasser;Joe Kilian,60
+Gaston H. Gonnet,172
+Georg Gottlob,51
+Georg Gottlob,63
+Jim Gray,79
+W. Eric L. Grimson,58
+Leonidas J. Guibas,18
+Joseph Y. Halpern,0
+Joseph Y. Halpern,0
+Joseph Y. Halpern,1
+Joseph Y. Halpern,1
+Joseph Y. Halpern,1
+David Harel,98
+Matthew Hennessy,161
+Matthew Hennessy;Robin Milner,1404
+Maurice Herlihy,14
+Tomasz Imielinski,14
+Leonard Kleinrock,23
+Leonard Kleinrock,277
+Donald E. Knuth,13
+H. T. Kung,53
+Richard E. Ladner,564
+Leslie Lamport,240
+Leslie Lamport,216
+David Maier,371
+David Maier,117
+David Maier;Yehoshua Sagiv;Mihalis Yannakakis,56
+Zohar Manna,78
+Zohar Manna;Amir Pnueli,70
+John McCarthy,15
+Alberto O. Mendelzon,64
+Rajeev Motwani,44
+Robin Milner,110
+Marvin Minsky,135
+Joseph S. B. Mitchell;Christos H. Papadimitriou,229
+Christos H. Papadimitriou,2
+Christos H. Papadimitriou;Mihalis Yannakakis,103
+Jeffrey F. Naughton,30
+Jeffrey F. Naughton;Raghu Ramakrishnan,8
+David Peleg,115
+Tobias Nipkow,25
+Christos H. Papadimitriou,20
+Christos H. Papadimitriou,198
+Christos H. Papadimitriou,123
+Christos H. Papadimitriou,93
+Christos H. Papadimitriou,25
+Christos H. Papadimitriou,731
+Michael O. Rabin,1205
+Prabhakar Raghavan,1
+Raymond Reiter,205
+Raymond Reiter,61
+Raymond Reiter,163
+Raymond Reiter,132
+Ronald L. Rivest,35
+Ronald L. Rivest;Robert E. Schapire,90
+Azriel Rosenfeld,601
+Azriel Rosenfeld,120
+Yehoshua Sagiv,53
+Yehoshua Sagiv,22
+Yehoshua Sagiv;Mihalis Yannakakis,336
+Sartaj Sahni,275
+Sartaj Sahni,383
+Gerard Salton,2
+Gerard Salton,127
+Gerard Salton,0
+Gerard Salton,0
+Gerard Salton,1
+Gerard Salton,8
+Gerard Salton,47
+Hanan Samet,183
+Adi Shamir,659
+Herbert A. Simon,72
+Mikkel Thorup,164
+Mikkel Thorup,263
+Jeffrey D. Ullman,9
+Jeffrey D. Ullman,42
+Victor Vianu,65
+Avi Wigderson,165
+Niklaus Wirth,154
+Mihalis Yannakakis,38
+Mihalis Yannakakis,89
+Mihalis Yannakakis,70
+Mihalis Yannakakis,114
+Oded Goldreich;Madhu Sudan,59
+Piotr Indyk,294
+Mikkel Thorup,25
+William W. Cohen,62
+Dieter Fox;Wolfram Burgard;Sebastian Thrun,797
+Nir Friedman;Joseph Y. Halpern,61
+Giuseppe De Giacomo;Maurizio Lenzerini,58
+Joseph Y. Halpern,82
+William W. Cohen,55
+Joseph Y. Halpern,31
+William W. Cohen;Robert E. Schapire;Yoram Singer,619
+Joseph Y. Halpern,77
+Joseph Y. Halpern;Daphne Koller,21
+Adnan Darwiche,149
+Milind Tambe,1009
+Toby Walsh,40
+Michael P. Wellman,599
+Pankaj K. Agarwal;Micha Sharir,27
+Pankaj K. Agarwal;Micha Sharir,24
+Baruch Awerbuch,22
+Amotz Bar-Noy;Richard E. Ladner,42
+Luc Devroye,22
+Danny Dolev,402
+Danny Dolev;Manfred K. Warmuth,30
+David Eppstein,6
+David Eppstein,72
+David Eppstein,18
+David Eppstein,4
+Michael T. Goodrich,46
+Michael T. Goodrich;Roberto Tamassia,60
+Leonidas J. Guibas,12
+Leonidas J. Guibas,12
+Leonidas J. Guibas,12
+Leonidas J. Guibas,12
+Leonidas J. Guibas,12
+Leonidas J. Guibas,12
+Leonidas J. Guibas,12
+Leonidas J. Guibas,12
+Leonidas J. Guibas,12
+Leonidas J. Guibas,12
+Leonidas J. Guibas,12
+Leonidas J. Guibas,12
+Leonidas J. Guibas,12
+Leonidas J. Guibas,12
+Piotr Indyk,106
+David S. Johnson,385
+David S. Johnson,385
+David S. Johnson,385
+David S. Johnson,385
+David S. Johnson,385
+David S. Johnson,385
+David S. Johnson,385
+David S. Johnson,385
+David S. Johnson,385
+David S. Johnson,385
+David S. Johnson,385
+David S. Johnson,385
+David S. Johnson,385
+David S. Johnson,385
+David S. Johnson,385
+David S. Johnson,385
+David S. Johnson,385
+David S. Johnson,385
+Donald E. Knuth,382
+David S. Johnson,385
+Donald E. Knuth,31
+David S. Johnson,385
+Donald E. Knuth,10
+David S. Johnson,385
+David S. Johnson,385
+David S. Johnson,385
+David B. Johnson;Willy Zwaenepoel,427
+Hugo Krawczyk,96
+Rajeev Motwani,0
+S. Muthukrishnan,0
+Moni Naor,17
+Judea Pearl,15
+Marc Snir,79
+Roberto Tamassia,17
+Mikkel Thorup,53
+Mikkel Thorup,27
+Mikkel Thorup,7
+Mikkel Thorup,22
+Mikkel Thorup,35
+Uzi Vishkin,101
+Uzi Vishkin,15
+Mihalis Yannakakis,241
+Adnan Darwiche,27
+Vladimir Lifschitz,27
+Vladimir Lifschitz,1
+Tobias Nipkow,47
+Tobias Nipkow,13
+Lawrence C. Paulson,19
+Lawrence C. Paulson,29
+Lawrence C. Paulson,389
+Lawrence C. Paulson,94
+Lawrence C. Paulson,94
+Ian Horrocks;Ulrike Sattler,384
+Hsinchun Chen,12
+Hsinchun Chen,259
+Wei-Ying Ma;B. S. Manjunath,139
+John R. Smith,23
+Jun Wang,9
+Michael Wooldridge,1199
+Michael Wooldridge,4916
+Barry Smith,82
+James Demmel,24
+H. T. Kung,58
+H. T. Kung,34
+Yishay Mansour;Noam Nisan;Uzi Vishkin,35
+Madhu Sudan,536
+Massimiliano Pontil,21
+Pierre Baldi,4
+Steven Salzberg,63
+Joseph Y. Halpern,6
+Joseph Y. Halpern,0
+Nadia Magnenat-Thalmann;Daniel Thalmann,4
+Mary Beth Rosson,45
+Somesh Jha;Thomas W. Reps,33
+Lawrence C. Paulson,98
+Lawrence C. Paulson,980
+Sabrina De Capitani di Vimercati;Pierangela Samarati,54
+Serge Abiteboul;Victor Vianu,99
+Serge Abiteboul;Victor Vianu,293
+Serge Abiteboul;Victor Vianu,96
+Serge Abiteboul;Victor Vianu,257
+Alfred V. Aho;Jeffrey D. Ullman,130
+Alfred V. Aho;Jeffrey D. Ullman,62
+Alfred V. Aho;Jeffrey D. Ullman,17
+Alfred V. Aho;Jeffrey D. Ullman,7
+Alfred V. Aho;Jeffrey D. Ullman,31
+Alfred V. Aho;Jeffrey D. Ullman,47
+Pierre Baldi,3
+Dan Boneh,51
+Peter Buneman,1
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini;Moshe Y. Vardi,99
+Surajit Chaudhuri;Moshe Y. Vardi,93
+Bernard Chazelle,55
+Rina Dechter,52
+Luc Devroye,19
+Thomas Eiter;Georg Gottlob,29
+E. Allen Emerson;Joseph Y. Halpern,502
+Ronald Fagin,19
+Ronald Fagin,462
+Uriel Feige,149
+Uriel Feige,19
+Uriel Feige;Joe Kilian,89
+Uriel Feige;Joe Kilian,267
+Uriel Feige;Adi Shamir,15
+Amos Fiat;Adi Shamir,18
+Lance Fortnow,38
+Yoav Freund;Robert E. Schapire,7432
+Zvi Galil,21
+Oded Goldreich;Shafi Goldwasser,185
+Oded Goldreich;Madhu Sudan,8
+Shafi Goldwasser;Silvio Micali,2890
+Gaston H. Gonnet,7
+Michael T. Goodrich,104
+Joseph Y. Halpern;Moshe Y. Vardi,266
+Matthew Hennessy,19
+Russell Impagliazzo;Avi Wigderson,131
+Piotr Indyk,19
+Tao Jiang;Ming Li,14
+David S. Johnson,337
+David S. Johnson,1913
+David S. Johnson;Christos H. Papadimitriou;Mihalis Yannakakis,548
+Neil D. Jones,278
+Dexter Kozen,271
+Dexter Kozen,195
+H. T. Kung,15
+Richard E. Ladner,40
+Michael Luby,88
+Robin Milner,17
+Robin Milner,2379
+Robin Milner,336
+Joseph S. B. Mitchell,45
+Zohar Manna,156
+Zohar Manna,26
+Michael Mitzenmacher,66
+Yishay Mansour,74
+Kurt Mehlhorn,99
+Jeffrey F. Naughton,99
+Jeffrey F. Naughton,108
+Noam Nisan;Avi Wigderson,558
+Christos H. Papadimitriou,241
+Christos H. Papadimitriou,344
+Christos H. Papadimitriou;Dan Suciu;Victor Vianu,108
+Christos H. Papadimitriou;Mihalis Yannakakis,304
+Christos H. Papadimitriou;Mihalis Yannakakis,1544
+Christos H. Papadimitriou;Mihalis Yannakakis,174
+Christos H. Papadimitriou;Mihalis Yannakakis,33
+Christos H. Papadimitriou;Mihalis Yannakakis,117
+Michael O. Rabin,82
+Michael O. Rabin,60
+Michael O. Rabin,136
+Prabhakar Raghavan,594
+David Peleg,34
+Raghu Ramakrishnan;Yehoshua Sagiv;Jeffrey D. Ullman;Moshe Y. Vardi,23
+Yehoshua Sagiv,213
+Aravind Srinivasan,1
+Subhash Suri,34
+Mikkel Thorup,76
+Jeffrey D. Ullman,779
+Moshe Y. Vardi,43
+Moshe Y. Vardi,91
+Moshe Y. Vardi;Pierre Wolper,494
+Manfred K. Warmuth;David Haussler,34
+Mihalis Yannakakis,114
+Mihalis Yannakakis,182
+Mihalis Yannakakis;Christos H. Papadimitriou,113
+Carlo Zaniolo,246
+Jie Wu,16
+Zhi-Hua Zhou,43
+Zhi-Hua Zhou,14
+Noga Alon,30
+Noga Alon,14
+David Eppstein,26
+David Haussler,166
+Tao Jiang,7
+Tao Jiang,9
+Donald E. Knuth,28
+Donald E. Knuth,17
+Donald E. Knuth,1
+Andrzej Pelc,98
+Andrzej Pelc,16
+Andrzej Pelc,27
+Micha Sharir,22
+Wei Wang,1
+Dan Suciu,4
+Gonzalo Navarro,24
+Gaston H. Gonnet,5
+David Peleg,24
+Gonzalo Navarro,93
+Won Kim,8
+David Eppstein,106
+Donald E. Knuth,10
+Gonzalo Navarro,15
+John M. Carroll;Mary Beth Rosson,31
+John McCarthy,15
+Matthias Felleisen,0
+Cormac Flanagan;Matthias Felleisen,40
+Robert Harper,28
+Neil D. Jones,65
+Jens Palsberg,50
+Limsoon Wong,97
+David Eppstein,67
+David Eppstein,305
+David Eppstein,64
+David Eppstein,8
+Giuseppe De Giacomo,16
+Ke Wang,63
+Gio Wiederhold,14
+Gio Wiederhold,36
+Gio Wiederhold,114
+Carlo Zaniolo,16
+Jan Chomicki,19
+Thomas Eiter;Georg Gottlob,21
+Matthew Hennessy,35
+Pascal Van Hentenryck,0
+Tomasz Imielinski,107
+Dale Miller,315
+Jeffrey F. Naughton;Yehoshua Sagiv,6
+Lawrence C. Paulson,164
+Divesh Srivastava;Raghu Ramakrishnan,98
+David Poole,65
+Raghu Ramakrishnan,263
+Raghu Ramakrishnan;Jeffrey D. Ullman,281
+Raymond Reiter,130
+Raymond Reiter,123
+Olvi L. Mangasarian,57
+Cynthia Dwork;Moni Naor,82
+Mihir Bellare,41
+Uriel Feige;Amos Fiat;Adi Shamir,1027
+Amos Fiat,117
+Mihir Bellare;Ronald L. Rivest,15
+Mihir Bellare;Moti Yung,53
+Eli Biham,395
+Eli Biham,54
+Eli Biham,27
+Eli Biham;Adi Shamir,1680
+Rosario Gennaro,28
+Oded Goldreich,5
+Oded Goldreich,5
+Oded Goldreich,133
+Ran Canetti,636
+Russell Impagliazzo;Moni Naor,212
+Ivan Damgård,96
+Moni Naor,470
+Victor Shoup,319
+Victor Shoup,38
+Victor Shoup;Rosario Gennaro,167
+Max J. Egenhofer,35
+Nir Friedman;Joseph Y. Halpern,81
+Giuseppe De Giacomo,35
+Maarten de Rijke,1
+Maarten de Rijke,23
+Maarten de Rijke,1
+Maarten de Rijke,0
+Michael Luck,1
+Won Kim,2
+Won Kim,1
+Won Kim,51
+Won Kim,0
+Won Kim,0
+Won Kim,9
+Won Kim,9
+Won Kim,1
+Won Kim,0
+Won Kim,1
+Won Kim,4
+Won Kim,6
+Won Kim,15
+Won Kim,2
+Won Kim,2
+Won Kim,6
+Won Kim,3
+Won Kim,1
+Guohong Cao;Mukesh Singhal,32
+Andrew A. Chien,42
+Babak Falsafi;David A. Wood,1
+Rajiv Gupta,12
+Mary Jane Irwin,0
+George Karypis;Vipin Kumar,210
+Prasant Mohapatra,14
+Prasant Mohapatra,9
+David Peleg,55
+David Peleg,15
+Jie Wu,3
+Azriel Rosenfeld,11
+Chunming Qiao,13
+Jie Wu,5
+Jie Wu,3
+Sartaj Sahni,0
+Mukesh Singhal,118
+Jeffrey D. Ullman,15
+Uzi Vishkin,5
+Jun Wang,1
+Witold Pedrycz,1
+Ernst Biersack,13
+Ernst Biersack,129
+Jean-Yves Le Boudec,91
+H. Vincent Poor,85
+Srdjan Capkun;Jean-Pierre Hubaux,204
+Ari Juels,1079
+Bernard Chazelle;Micha Sharir,32
+Thomas Eiter,36
+Robert Harper,20
+Dinesh Manocha,115
+Tobias Nipkow,36
+Dale Miller,218
+Lawrence C. Paulson,59
+Victor Shoup,94
+Victor Shoup,124
+Stanley Osher,5
+Stanley Osher,5
+Mary Jean Harrold,30
+David Notkin,109
+Thomas Eiter;Georg Gottlob,4
+Ronald Fagin,337
+Ronald Fagin,32
+Ronald Fagin;Joseph Y. Halpern;Moshe Y. Vardi,33
+Georg Gottlob,56
+Joseph Y. Halpern,38
+Richard E. Ladner,56
+Vladimir Lifschitz,8
+Andrzej Pelc,0
+Michael O. Rabin,17
+Maarten de Rijke,138
+Jacques Stern,10
+Schahram Dustdar,25
+Lawrence C. Paulson,74
+Tao Li,15
+Hermann Ney,1
+Peter Brusilovsky,561
+Thomas Eiter;Georg Gottlob,5
+Dieter Fensel,2
+Dieter Fensel,5
+Thorsten Joachims,5
+Thorsten Joachims,2
+Marvin Minsky,0
+Philip Wadler,59
+Luc Moreau,9
+Luc Moreau,40
+Dexter Kozen,8
+Elisa Bertino;Sushil Jajodia;Pierangela Samarati,32
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini,98
+Georg Gottlob,377
+Joseph Y. Halpern,46
+Robert Harper;Frank Pfenning,28
+Ian Horrocks;Ulrike Sattler,224
+Dale Miller,564
+Lawrence C. Paulson,73
+Thomas Ball,45
+Rajiv Gupta,136
+Huan Liu,113
+Alex Pentland,9
+William W. Cohen,49
+William W. Cohen,8
+William W. Cohen,7
+Avrim Blum,129
+Avrim Blum,201
+Sally Floyd;Manfred K. Warmuth,161
+Yoav Freund,235
+Yoav Freund;Robert E. Schapire,784
+Nir Friedman;Daphne Koller,568
+Pedro Domingos,269
+Zoubin Ghahramani;Michael I. Jordan,895
+Marco Dorigo,117
+David E. Goldberg,72
+David Haussler,2
+David Haussler,213
+Thomas Hofmann,2463
+Tao Li,20
+Fernando C. N. Pereira;Yoram Singer,43
+Ronald L. Rivest,765
+Richard S. Sutton,3257
+Steven Salzberg,471
+Robert E. Schapire,43
+Robert E. Schapire,2557
+Robert E. Schapire,15
+Sebastian Thrun,242
+Robert E. Schapire;Yoram Singer,1454
+Sebastian Thrun;Wolfram Burgard;Dieter Fox,899
+Robert E. Schapire;Yoram Singer,2375
+Robert E. Schapire;Manfred K. Warmuth,25
+Ronald Fagin,11
+Wei-Ying Ma;B. S. Manjunath,678
+Nadia Magnenat-Thalmann;Daniel Thalmann,16
+Yong Rui;Thomas S. Huang;Sharad Mehrotra,296
+Henning Schulzrinne,30
+John R. Smith;Shih-Fu Chang,110
+Nicholas J. Higham,22
+Sunghyun Choi;Kang G. Shin,38
+Guohong Cao,75
+Hari Balakrishnan;Venkata N. Padmanabhan;Randy H. Katz,429
+Tomasz Imielinski,10
+Anupam Joshi,87
+Leonard Kleinrock,235
+Charles E. Perkins,97
+Charles E. Perkins;David B. Johnson,0
+Olvi L. Mangasarian,45
+Olvi L. Mangasarian,20
+Robin Milner,731
+Lawrence C. Paulson,7
+Philip Wadler,884
+Robin Milner,61
+Alfred V. Aho;Jeffrey D. Ullman,47
+Alfred V. Aho;Jeffrey D. Ullman,3
+Alfred V. Aho;Jeffrey D. Ullman,10
+Shun-ichi Amari,72
+Amotz Bar-Noy;Danny Dolev,22
+Zvi Galil,33
+Tao Jiang;Ming Li,23
+Neil D. Jones,20
+Neil D. Jones,0
+Donald E. Knuth,2107
+Kurt Mehlhorn,12
+Michael Mitzenmacher,84
+Michael Mitzenmacher,4
+Prabhakar Raghavan,34
+Marc Snir,42
+Martha Stone Palmer,19
+Yorick Wilks,1
+Kevin Knight,36
+Wei-Ying Ma;B. S. Manjunath,45
+Daniela Rus;James Allan,10
+Saul Greenberg,48
+Zhengyou Zhang,31
+Mubarak Shah,34
+Craig Boutilier,13
+Shun-ichi Amari,35
+Shun-ichi Amari,1553
+Shun-ichi Amari,144
+Yoshua Bengio,75
+Wulfram Gerstner,300
+Zoubin Ghahramani;Geoffrey E. Hinton,282
+Geoffrey E. Hinton,825
+Teuvo Kohonen,58
+Yoram Singer,35
+Padhraic Smyth;David Heckerman;Michael I. Jordan,314
+Shun-ichi Amari,46
+Lixia Zhang,3
+David Eppstein,13
+Andrzej Pelc,109
+Nicholas Ayache,8
+Shun-ichi Amari,32
+Neil D. Jones,0
+Neil D. Jones,50
+David Poole,72
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini,28
+Gonzalo Navarro,6
+Shun-ichi Amari,169
+Shun-ichi Amari,73
+Shun-ichi Amari,80
+Shun-ichi Amari,266
+Avrim Blum;Ronald L. Rivest,335
+Wulfram Gerstner,34
+Stephen Grossberg,12
+Stephen Grossberg,27
+Stephen Grossberg,1133
+Stephen Grossberg,38
+Seong-Whan Lee,65
+Teuvo Kohonen,735
+Erkki Oja,650
+Jun Wang,94
+Teuvo Kohonen,45
+Stephen Grossberg,27
+Teuvo Kohonen,31
+Amnon Shashua,32
+Xin Yao,3
+Philip A. Bernstein,0
+David Maier,0
+Gio Wiederhold,8
+Andrew A. Chien,20
+Rachid Guerraoui,3
+Mary Beth Rosson,0
+Mary Beth Rosson,0
+Ion Stoica,2
+Ming Li;David Kotz,2
+Andrew Blake,174
+Rama Chellappa,0
+Rama Chellappa,0
+Rama Chellappa,0
+Dorin Comaniciu,294
+Trevor Darrell;Alex Pentland,147
+Rachid Deriche,490
+Luc Devroye,127
+Patrick J. Flynn,21
+Patrick J. Flynn;Anil K. Jain,152
+Patrick J. Flynn;Anil K. Jain,155
+W. Eric L. Grimson,98
+W. Eric L. Grimson,97
+Takeo Kanade;Katsushi Ikeuchi,13
+Seong-Whan Lee,179
+Josef Kittler;Anil K. Jain,2
+Hermann Ney,19
+Hermann Ney,81
+B. S. Manjunath;Rama Chellappa,377
+B. S. Manjunath;Wei-Ying Ma,2983
+Fionn Murtagh,38
+Sharath Pankanti;Anil K. Jain,36
+Witold Pedrycz,160
+Alex Pentland,399
+Alex Pentland,61
+Alex Pentland,38
+Pietro Perona,290
+Pietro Perona;Jitendra Malik,7674
+Amnon Shashua,165
+Amnon Shashua,287
+Amnon Shashua;Nassir Navab,128
+Stefano Soatto;Pietro Perona,109
+Richard Szeliski,194
+Demetri Terzopoulos,448
+Haim J. Wolfson,224
+Zhengyou Zhang,4790
+Zhengyou Zhang,230
+Zhengyou Zhang,95
+Zhengyou Zhang,29
+Zhengyou Zhang,60
+Hanan Samet,30
+Carlo Ghezzi,8
+Tao Li,4
+Bernhard Steffen,0
+Franco Zambonelli,10
+Jean-Yves Le Boudec,10
+Biswanath Mukherjee,4
+Sunghyun Choi;Kang G. Shin,10
+Mukesh Singhal,12
+Jean-Yves Le Boudec,63
+Henning Schulzrinne,4
+Adam Wolisz,0
+Jie Wu,1
+Jie Wu,2
+Jie Wu,1
+Andrzej Pelc,2
+Andrzej Pelc,2
+Chunming Qiao,17
+Sartaj Sahni,22
+Andrzej Pelc,0
+Thomas S. Huang,0
+Josef Kittler,6
+Josef Kittler,66
+Josef Kittler,7
+John Mylopoulos,20
+Judea Pearl,6
+Witold Pedrycz,288
+Azriel Rosenfeld,92
+Azriel Rosenfeld,104
+Azriel Rosenfeld,89
+Azriel Rosenfeld,1
+Padhraic Smyth,134
+John K. Tsotsos,35
+Michael Cohen,26
+Michael Cohen,22
+Michael Cohen,7
+Christos Faloutsos,32
+Sankar K. Pal,35
+Fionn Murtagh,4
+Fionn Murtagh,108
+Theo Pavlidis,53
+Theo Pavlidis,42
+Witold Pedrycz,84
+Witold Pedrycz,35
+Sankar K. Pal;Azriel Rosenfeld,23
+Witold Pedrycz,15
+Witold Pedrycz,2
+Witold Pedrycz,6
+Witold Pedrycz,208
+Witold Pedrycz,14
+Theo Pavlidis,11
+Azriel Rosenfeld,31
+Azriel Rosenfeld,17
+Azriel Rosenfeld,12
+Padhraic Smyth,27
+Padhraic Smyth,141
+Haim J. Wolfson,20
+Witold Pedrycz,13
+Paul Dourish,841
+Eitan Altman,24
+Jean-Yves Le Boudec,15
+Daniela Florescu,24
+Jim Gray,6
+David A. Patterson,2
+Andrew McCallum,114
+John Canny,49
+Gaetano Borriello,3
+William W. Cohen,39
+Dieter Fox;Wolfram Burgard;Sebastian Thrun,374
+Erol Gelenbe,4
+Stefano Nolfi,136
+John K. Tsotsos,17
+Sebastian Thrun,60
+David Lowe,66
+Noga Alon,54
+Noga Alon,34
+Noga Alon,88
+Noga Alon,9
+Noga Alon,134
+Noga Alon,10
+Luc Devroye,14
+Luc Devroye,29
+Luc Devroye,43
+Luc Devroye,25
+Luc Devroye,9
+Uriel Feige,128
+Uriel Feige,128
+Oded Goldreich;Hugo Krawczyk,17
+Russell Impagliazzo;Noam Nisan,6
+Stefano Soatto;Pietro Perona,11
+Alan Burns,21
+John McCarthy,34
+Maarten de Rijke,29
+Luca Cardelli,249
+E. Allen Emerson;Edmund M. Clarke,665
+Matthias Felleisen,122
+Cormac Flanagan,15
+David Harel,7362
+Neil D. Jones,24
+Dexter Kozen,7
+Leslie Lamport,78
+Zohar Manna;Amir Pnueli,139
+Luc Moreau,60
+Tobias Nipkow,24
+Thomas W. Reps,38
+Lawrence C. Paulson,133
+Lawrence C. Paulson,71
+Bernhard Steffen,92
+Noga Alon;Moni Naor,43
+Pankaj K. Agarwal,88
+Pankaj K. Agarwal;Micha Sharir,24
+Pankaj K. Agarwal;Micha Sharir,53
+Pankaj K. Agarwal;Micha Sharir,31
+Pankaj K. Agarwal;Subhash Suri,109
+Alfred V. Aho;Yehoshua Sagiv;Jeffrey D. Ullman,352
+Alfred V. Aho;Jeffrey D. Ullman,41
+Alfred V. Aho;Jeffrey D. Ullman,36
+Amotz Bar-Noy;Richard E. Ladner,59
+Amotz Bar-Noy;Richard E. Ladner,18
+Mihir Bellare;Shafi Goldwasser,64
+Mihir Bellare;Oded Goldreich;Madhu Sudan,396
+Avrim Blum,36
+Manuel Blum;Silvio Micali,1314
+Bernard Chazelle,200
+Bernard Chazelle,323
+Bernard Chazelle,253
+Bernard Chazelle,95
+Bernard Chazelle,25
+Ming-Syan Chen;Kang G. Shin,11
+Luc Devroye,15
+Luc Devroye,83
+Luc Devroye,7
+Danny Dolev;Cynthia Dwork;Moni Naor,1215
+Danny Dolev;Manfred K. Warmuth,30
+Thomas Eiter;Georg Gottlob,326
+David Eppstein,27
+David Eppstein,119
+David Eppstein,763
+Ronald Fagin;David Maier;Jeffrey D. Ullman;Mihalis Yannakakis,20
+Uriel Feige,26
+Uriel Feige;Joe Kilian,94
+Amos Fiat;Moni Naor,33
+Amos Fiat;Moni Naor,30
+Zvi Galil,32
+Zvi Galil,56
+Oded Goldreich;Hugo Krawczyk,350
+Oded Goldreich;Hugo Krawczyk;Michael Luby,147
+Shafi Goldwasser,0
+Shafi Goldwasser;Silvio Micali;Ronald L. Rivest,2223
+Michael T. Goodrich,49
+Michael T. Goodrich,137
+Michael T. Goodrich;Roberto Tamassia,73
+Leonidas J. Guibas;Rajeev Motwani;Prabhakar Raghavan,113
+Matthew Hennessy,38
+Matthew Hennessy,88
+Tao Jiang;Ming Li,171
+Ken Kennedy,26
+Richard E. Ladner,480
+Richard E. Ladner,39
+Zohar Manna;Adi Shamir,41
+Yishay Mansour,67
+Michael Luby,792
+Kurt Mehlhorn,58
+Kurt Mehlhorn,20
+David Maier,26
+Silvio Micali,130
+Joseph S. B. Mitchell,285
+Christos H. Papadimitriou,111
+Christos H. Papadimitriou,30
+Noam Nisan,136
+Christos H. Papadimitriou,77
+Noam Nisan;Avi Wigderson,122
+Christos H. Papadimitriou;Jeffrey D. Ullman,103
+Christos H. Papadimitriou;Mihalis Yannakakis,225
+Christos H. Papadimitriou;Mihalis Yannakakis,8
+Christos H. Papadimitriou;Mihalis Yannakakis,508
+David Peleg;Jeffrey D. Ullman,297
+Ronald L. Rivest,217
+Ronald L. Rivest,69
+Michael O. Rabin,296
+Yehoshua Sagiv,23
+Yehoshua Sagiv,17
+Sartaj Sahni,229
+Adi Shamir,80
+Micha Sharir,96
+Marc Snir,161
+Aravind Srinivasan,78
+Roberto Tamassia,458
+Mikkel Thorup,80
+Mikkel Thorup,50
+Sam Toueg;Jeffrey D. Ullman,74
+Jeffrey D. Ullman;Mihalis Yannakakis,98
+George Varghese,87
+Uzi Vishkin,114
+Uzi Vishkin;Avi Wigderson,65
+Mihalis Yannakakis,124
+Mihalis Yannakakis,108
+Mihalis Yannakakis,36
+Cynthia Dwork;Moni Naor,105
+Aravind Srinivasan,58
+Oded Goldreich;Madhu Sudan,0
+Noga Alon,136
+Baruch Awerbuch;David Peleg,159
+Pierre Baldi,11
+Uriel Feige,61
+Donald E. Knuth,10
+Moni Naor,33
+Aravind Srinivasan,0
+Ran Canetti,32
+Victor Vianu,2
+Lance Fortnow,0
+Oded Goldreich,183
+Dan Suciu,36
+Mikkel Thorup,7
+Steve Lawrence;C. Lee Giles,1898
+Pattie Maes,188
+W. Bruce Croft,9
+W. Bruce Croft,4
+W. Bruce Croft,3
+Edward A. Fox,79
+Edward A. Fox,0
+Edward A. Fox,0
+Edward A. Fox,0
+Ben Shneiderman,4
+Gerard Salton,0
+Gerard Salton,0
+Gerard Salton,81
+Gerard Salton,0
+Gerard Salton,1
+Gerard Salton,7
+Gerard Salton,1
+Gerard Salton,0
+Gerard Salton,0
+Gerard Salton,0
+Gerard Salton,0
+Gerard Salton,0
+Gerard Salton,0
+Gerard Salton,0
+Gerard Salton,12
+Gerard Salton,0
+Gerard Salton,0
+Gerard Salton,9
+Gerard Salton,0
+Gerard Salton,1
+Gerard Salton,0
+Gerard Salton,0
+Gerard Salton,81
+Gerard Salton,0
+Gerard Salton,9
+Johannes Gehrke,11
+Dimitrios Gunopulos;Rajeev Rastogi,4
+Soumen Chakrabarti,301
+Pedro Domingos,13
+Pedro Domingos,68
+Charles Elkan,218
+Charles Elkan,1
+Wenke Lee,39
+Heikki Mannila,98
+John McCarthy,15
+Erol Gelenbe,18
+Erol Gelenbe,118
+Raj Jain,2
+David B. Johnson,0
+David B. Johnson;Jean-Pierre Hubaux,1
+Ahmed Helmy,11
+Charles E. Perkins,7
+Charles E. Perkins,7
+Charles E. Perkins,7
+Charles E. Perkins,5
+Karl Aberer,1
+Karl Aberer,0
+Karl Aberer,0
+Karl Aberer,0
+Karl Aberer,0
+Karl Aberer,0
+Karl Aberer,0
+Karl Aberer,2
+Karl Aberer,0
+Karl Aberer,7
+Karl Aberer,0
+Karl Aberer,0
+Philip A. Bernstein,0
+Karl Aberer,0
+Philip A. Bernstein,104
+Serge Abiteboul,201
+Rakesh Agrawal;Michael J. Carey;David J. DeWitt,23
+Surajit Chaudhuri;Umeshwar Dayal,2275
+Jiawei Han,196
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini;Moshe Y. Vardi,33
+Luca Cardelli,28
+David J. DeWitt,0
+David J. DeWitt;Jim Gray,107
+Ronald Fagin,143
+Won Kim,0
+Joseph M. Hellerstein,55
+Won Kim,0
+Won Kim,0
+H. V. Jagadish,0
+H. V. Jagadish,1
+Ramesh Jain,49
+Won Kim,0
+Won Kim,0
+Won Kim,0
+Won Kim,0
+Won Kim,0
+Won Kim,0
+Won Kim,0
+Won Kim,0
+Alberto O. Mendelzon,0
+Alberto O. Mendelzon,0
+Jeffrey F. Naughton,0
+Cyrus Shahabi;Ramesh Govindan;Karl Aberer,0
+Ben Shneiderman,4
+Michael Stonebraker,60
+Michael Stonebraker,1
+Michael Stonebraker,1
+Michael Stonebraker,1
+Michael Stonebraker,1
+Michael Stonebraker,0
+Michael Stonebraker,1
+Abraham Silberschatz;Michael Stonebraker;Jeffrey D. Ullman,174
+Michael Stonebraker,0
+Michael Stonebraker,1
+Michael Stonebraker,1
+Mukesh Singhal,72
+Michael Stonebraker,1
+Michael Stonebraker,1
+Michael Stonebraker,106
+Michael Stonebraker,1
+Michael Stonebraker,0
+Dan Suciu,72
+Dan Suciu,49
+Jie Wu,14
+Jeffrey D. Ullman;Carlo Zaniolo,31
+Victor Vianu,168
+Gerhard Weikum,0
+Jennifer Widom,67
+Jennifer Widom,33
+Limsoon Wong,7
+Samuel Madden;David J. DeWitt,10
+Gerhard Weikum,0
+Karl Aberer;Gustavo Alonso;Donald Kossmann,6
+Michael Stonebraker,0
+H. V. Jagadish,3
+Maurice Herlihy,18
+Maurice Herlihy,49
+Jim Gray,0
+Leslie Lamport,110
+David B. Johnson;Willy Zwaenepoel,14
+M. Frans Kaashoek;Andrew S. Tanenbaum,41
+Barbara Liskov,4
+Birgit Pfitzmann;Michael Waidner,22
+Michel Raynal,104
+Michel Raynal,48
+Robbert van Renesse,39
+Robbert van Renesse,21
+Mahadev Satyanarayanan,21
+Mahadev Satyanarayanan,1
+Mahadev Satyanarayanan,1
+Andrew S. Tanenbaum,2
+Andrew S. Tanenbaum,39
+John A. Stankovic;Krithi Ramamritham,188
+Michael Stonebraker,47
+Gul Agha,15
+Thomas Ball,1
+Luca Cardelli,40
+Tao Li,5
+David Garlan,4
+Maurice Herlihy,2
+Neil D. Jones,0
+Oscar Nierstrasz,1
+Philip Wadler,91
+Limsoon Wong,3
+Limsoon Wong;Beng Chin Ooi,2
+Matthias Felleisen,0
+Franco Zambonelli,5
+Robert Harper,0
+Didier Dubois;Henri Prade,19
+Witold Pedrycz,7
+Witold Pedrycz,10
+Didier Dubois;Henri Prade,45
+Mary Jean Harrold;Mary Lou Soffa,107
+Nenad Medvidovic,21
+Michel Raynal;Mukesh Singhal,11
+Ben Shneiderman,622
+Mary Shaw,333
+Mary Shaw,116
+John A. Stankovic;Krithi Ramamritham,315
+Moshe Y. Vardi,43
+Moshe Y. Vardi,4
+Gio Wiederhold,58
+Rajkumar Buyya,100
+David B. Johnson;Willy Zwaenepoel,90
+Donald E. Knuth,742
+Donald E. Knuth,169
+Nadia Magnenat-Thalmann;Daniel Thalmann,6
+Nadia Magnenat-Thalmann;Daniel Thalmann,22
+Gonzalo Navarro,72
+David Notkin,6
+Hanan Samet,7
+Ben Shneiderman,9
+Ben Shneiderman,7
+Abraham Silberschatz,0
+Peter Steenkiste,35
+Daniel Thalmann,6
+Sabrina De Capitani di Vimercati;Stefano Paraboschi;Pierangela Samarati,57
+Philip Wadler,46
+Niklaus Wirth,135
+Niklaus Wirth,504
+Niklaus Wirth,51
+Niklaus Wirth,85
+Niklaus Wirth,73
+Niklaus Wirth,298
+Niklaus Wirth,4
+Rajiv Gupta,14
+Donald E. Knuth,2
+Niklaus Wirth,7
+Niklaus Wirth,13
+Rajeev Alur;Thomas A. Henzinger,38
+Mary Shaw,98
+Pierre Wolper,26
+Rajiv Gupta;Mary Jean Harrold;Mary Lou Soffa,87
+Rajiv Gupta;Mary Lou Soffa,20
+Jeff Offutt,0
+Jeff Offutt,0
+Jeff Offutt,0
+Jeff Offutt,0
+Jeff Offutt,3
+Jeff Offutt,1
+David S. Johnson,22
+David Eppstein,32
+David S. Johnson,5
+David Eppstein,1
+David S. Johnson,13
+David Eppstein,12
+Douglas C. Schmidt,64
+Rachid Guerraoui,8
+Jens Palsberg,6
+Dharma P. Agrawal,4
+Dharma P. Agrawal,33
+Guohong Cao,135
+Dharma P. Agrawal,207
+Ian F. Akyildiz,58
+Ian F. Akyildiz,37
+Dharma P. Agrawal,25
+Dharma P. Agrawal,1
+Dharma P. Agrawal,4
+Dharma P. Agrawal;Ramesh Jain,22
+Rakesh Agrawal;H. V. Jagadish,71
+Amotz Bar-Noy;David Peleg,89
+Bernard Chazelle,183
+Bernard Chazelle,63
+Ming-Syan Chen;Kang G. Shin,244
+Ming-Syan Chen;Kang G. Shin,82
+Ming-Syan Chen;Kang G. Shin,151
+David J. DeWitt,223
+Rina Dechter;Leonard Kleinrock,85
+Hector Garcia-Molina,558
+Rachid Guerraoui;Michel Raynal,113
+Maurice Herlihy,30
+Niraj K. Jha,30
+Niraj K. Jha,8
+Anil K. Jain,31
+Anil K. Jain,18
+Anil K. Jain,20
+Josef Kittler,28
+Josef Kittler,20
+Leonard Kleinrock,20
+Simon S. Lam,128
+Simon S. Lam,17
+Leslie Lamport,1977
+Leslie Lamport,71
+Charles E. Leiserson,833
+Heikki Mannila,107
+Marco Ajmone Marsan;Mario Gerla,124
+Erkki Oja,6
+David A. Patterson,63
+Judea Pearl,27
+Judea Pearl,2
+Andrzej Pelc,43
+Andrzej Pelc,9
+Andrzej Pelc,12
+Raymond Reiter,48
+Ronald L. Rivest,31
+Azriel Rosenfeld,21
+Sartaj Sahni,25
+Sartaj Sahni,24
+Hanan Samet,2
+Majid Sarrafzadeh,0
+Kang G. Shin;Ming-Syan Chen,19
+Jie Wu,112
+Mukesh Singhal,114
+Kang G. Shin,5
+Kang G. Shin;Ming-Syan Chen,49
+John A. Stankovic,22
+John A. Stankovic,120
+John A. Stankovic,108
+John A. Stankovic,37
+Jie Wu,43
+Gurindar S. Sohi,51
+Gurindar S. Sohi,360
+Gurindar S. Sohi,55
+Jie Wu,61
+Kishor S. Trivedi,33
+Kishor S. Trivedi,0
+Kishor S. Trivedi,41
+Willy Zwaenepoel,7
+Luca Benini;Giovanni De Micheli,155
+Krishnendu Chakrabarty,153
+Krishnendu Chakrabarty,46
+Jason Cong,45
+Srinivas Devadas,34
+Srinivas Devadas,20
+Srinivas Devadas;Kurt Keutzer,40
+Srinivas Devadas;Kurt Keutzer,101
+Srinivas Devadas;Kurt Keutzer,60
+Srinivas Devadas;Kurt Keutzer,36
+Srinivas Devadas;Kurt Keutzer;Sharad Malik,106
+Niraj K. Jha,33
+Niraj K. Jha,14
+Niraj K. Jha,18
+Niraj K. Jha,14
+Niraj K. Jha,14
+Andrew B. Kahng;Majid Sarrafzadeh,73
+Sharad Malik,172
+Giovanni De Micheli,100
+Giovanni De Micheli,32
+Giovanni De Micheli,119
+Kaushik Roy,20
+Jan M. Rabaey;Miodrag Potkonjak,67
+Miodrag Potkonjak;Jan M. Rabaey,6
+Miodrag Potkonjak;Jan M. Rabaey,137
+Miodrag Potkonjak;Jan M. Rabaey,11
+Miodrag Potkonjak;Mani B. Srivastava,10
+Majid Sarrafzadeh,45
+Serge Abiteboul;Victor Vianu,129
+Serge Abiteboul;Moshe Y. Vardi;Victor Vianu,21
+Diego Calvanese;Giuseppe De Giacomo;Moshe Y. Vardi,26
+Guohong Cao;Mukesh Singhal,38
+Soumen Chakrabarti,2
+Jiawei Han,31
+Keith Edwards,58
+E. Allen Emerson,88
+Thomas Eiter;Georg Gottlob,184
+Ronald Fagin,108
+Uriel Feige,17
+Xiang-Yang Li,32
+Lance Fortnow,39
+Lance Fortnow,39
+Zvi Galil,108
+Zvi Galil,14
+Erol Gelenbe,18
+Erkki Oja,25
+David Harel,26
+David Harel,13
+David Harel;David Peleg,28
+Matthew Hennessy,48
+Matthew Hennessy,45
+Tao Jiang,3
+Tao Jiang;Ming Li,30
+Tao Jiang;Ming Li,21
+Neil D. Jones,6
+Neil D. Jones,53
+Dexter Kozen,60
+Dexter Kozen,54
+Dexter Kozen,2048
+Dexter Kozen,16
+Leslie Lamport,10
+Leslie Lamport,22
+David Maier;Jeffrey D. Ullman,56
+Zohar Manna;Amir Pnueli,232
+Zohar Manna;Adi Shamir,11
+Dale Miller,8
+Dale Miller,203
+Robin Milner,467
+Robin Milner,1010
+Robin Milner,6
+Jeffrey F. Naughton;Raghu Ramakrishnan;Yehoshua Sagiv;Jeffrey D. Ullman,73
+Gonzalo Navarro,7
+Noam Nisan,43
+Christos H. Papadimitriou,315
+Christos H. Papadimitriou;Mihalis Yannakakis,385
+Andrzej Pelc,113
+Andrzej Pelc,7
+Andrzej Pelc,72
+Andrzej Pelc,6
+David Peleg,74
+David Peleg,59
+David Peleg,7
+Amir Pnueli,862
+Joseph Sifakis,102
+Marc Snir,6
+Marc Snir,91
+Marc Snir,3
+Jacques Stern,36
+V. S. Subrahmanian,61
+Dan Suciu,24
+Dan Suciu,15
+Roberto Tamassia,24
+Jeffrey D. Ullman,167
+Uzi Vishkin,49
+Philip Wadler,817
+Thomas Eiter;Georg Gottlob,1
+Andrzej Pelc;David Peleg,57
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini;Moshe Y. Vardi,45
+Luca Cardelli,87
+Luca Cardelli,17
+Michael T. Goodrich,6
+Luca Cardelli,87
+Robin Milner,1
+Vern Paxson;Michael Waidner,0
+Dipankar Dasgupta,19
+Rajesh Gupta,1
+Jie Wu,49
+Leonard Kleinrock,41
+Witold Pedrycz,33
+Ron Kimmel,425
+Wei-Ying Ma;B. S. Manjunath,321
+Pietro Perona,238
+Kannan Ramchandran;Martin Vetterli,815
+Kannan Ramchandran;Martin Vetterli,154
+Michael Unser,1213
+John M. Carroll,0
+Ben Shneiderman,0
+Lawrence C. Paulson,213
+Noga Alon;Michael Luby,94
+Shun-ichi Amari,201
+Pierre Baldi,53
+Jean-Yves Le Boudec,286
+Bernard Chazelle,155
+Ivan Damgård,1
+Amos Fiat;Adi Shamir,53
+David Haussler,70
+Leonard Kleinrock,15
+Donald E. Knuth,42
+Donald E. Knuth,145
+Michael Luby;Michael Mitzenmacher,40
+Michael Mitzenmacher,6
+H. Vincent Poor,66
+H. Vincent Poor,2
+Bart Preneel;Paul C. van Oorschot,70
+Ronald L. Rivest,207
+Shlomo Shamai,11
+Shlomo Shamai,15
+Adi Shamir,408
+Michael Mitzenmacher,8
+Michael Mitzenmacher,26
+Rakesh Agrawal;H. V. Jagadish,65
+Elisa Bertino;Won Kim,319
+Elisa Bertino;Beng Chin Ooi,19
+Elisa Bertino;Pierangela Samarati;Sushil Jajodia,114
+Ming-Syan Chen;Jiawei Han;Philip S. Yu,2195
+Ming-Syan Chen;Philip S. Yu,65
+Ming-Syan Chen;Philip S. Yu,26
+Ming-Syan Chen;Philip S. Yu,6
+Dieter Fensel;Enrico Motta,117
+Max J. Egenhofer,438
+Jiawei Han,12
+Jiawei Han,15
+Won Kim,333
+Bing Liu;Soumen Chakrabarti,0
+Raghu Ramakrishnan;Divesh Srivastava;S. Sudarshan,68
+Rajeev Rastogi,2
+Herbert A. Simon,23
+Mukesh Singhal,7
+Pierangela Samarati,1116
+Pierangela Samarati;Elisa Bertino;Sushil Jajodia,92
+Michael Stonebraker,64
+Michael Stonebraker,39
+Michael Stonebraker,132
+V. S. Subrahmanian,9
+Jennifer Widom,118
+Philip S. Yu,0
+Philip S. Yu,0
+Philip S. Yu,125
+Philip S. Yu,125
+Beng Chin Ooi,0
+Zhi-Hua Zhou;Ming Li,291
+Zhi-Hua Zhou;Ming Li,61
+Jean-Yves Le Boudec,25
+Nicholas Ayache,31
+John R. Smith,55
+Paul Dourish,134
+Paul Dourish,125
+John Riedl;Paul Dourish,12
+Jonathan Grudin,35
+Carl Gutwin;Saul Greenberg,244
+Mary Beth Rosson;John M. Carroll,90
+Ben Shneiderman,279
+Dexter Kozen,89
+Lawrence C. Paulson,49
+Raymond Reiter,70
+Nir Friedman;Joseph Y. Halpern;Daphne Koller,29
+Robert Harper;Frank Pfenning,103
+Lawrence C. Paulson,22
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini,39
+Manuel Blum,245
+Maurice Herlihy,252
+Maurice Herlihy,42
+David Kotz,398
+Leslie Lamport,421
+Leslie Lamport,50
+Leslie Lamport,1178
+Mahadev Satyanarayanan,166
+Mahadev Satyanarayanan,233
+Adi Shamir,284
+Birgit Pfitzmann;Michael Waidner,26
+Peter Steenkiste,23
+Lixia Zhang,720
+Luca Benini;Giovanni De Micheli,493
+Luca Benini;Giovanni De Micheli,22
+Luca Benini;Giovanni De Micheli,68
+Krishnendu Chakrabarty,101
+Massoud Pedram,518
+Massoud Pedram,1
+Rakesh Agrawal;Michael J. Carey;Miron Livny,451
+Rakesh Agrawal;David J. DeWitt,134
+Alfred V. Aho;Yehoshua Sagiv;Jeffrey D. Ullman,280
+Alfred V. Aho;Jeffrey D. Ullman,135
+Michael J. Carey;Miron Livny,182
+Jan Chomicki,369
+Jan Chomicki,143
+Jan Chomicki;Tomasz Imielinski,70
+Philip A. Bernstein,488
+Philip A. Bernstein,0
+Umeshwar Dayal;Philip A. Bernstein,294
+Thomas Eiter;Georg Gottlob;Heikki Mannila,398
+Ronald Fagin,629
+Ronald Fagin,103
+Ronald Fagin,185
+Ronald Fagin;Alberto O. Mendelzon;Jeffrey D. Ullman,277
+Won Kim,396
+Maurice Herlihy,160
+Maurice Herlihy,143
+Hector Garcia-Molina,531
+Hector Garcia-Molina;Gio Wiederhold,213
+Jim Gray;Leslie Lamport,150
+H. V. Jagadish,96
+H. V. Jagadish,6
+Joseph M. Hellerstein,142
+David Maier;Alberto O. Mendelzon;Yehoshua Sagiv,406
+David Maier;Jeffrey D. Ullman,161
+David Maier;Jeffrey D. Ullman;Moshe Y. Vardi,274
+Alberto O. Mendelzon,69
+Yehoshua Sagiv,89
+Hanan Samet,10
+Ben Shneiderman,119
+Divesh Srivastava;S. Sudarshan;Raghu Ramakrishnan;Jeffrey F. Naughton,4
+Michael Stonebraker,75
+V. S. Subrahmanian,235
+Dan Suciu,100
+Jeffrey D. Ullman,394
+Victor Vianu,5
+Gerhard Weikum,291
+Carlo Zaniolo,50
+Surajit Chaudhuri,0
+Ronald Fagin,86
+Donald E. Knuth,278
+Marc Levoy,1136
+Dinesh Manocha;James Demmel,70
+Hans-Peter Seidel,38
+Ben Shneiderman,1149
+Richard Szeliski,58
+Elisa Bertino;Sushil Jajodia;Pierangela Samarati,130
+John M. Carroll;Mary Beth Rosson,412
+William W. Cohen,187
+William W. Cohen;Yoram Singer,646
+Jonathan Grudin,21
+Thomas Hofmann,638
+Erol Gelenbe,26
+Luc Devroye,24
+Babak Falsafi;David A. Wood,31
+Nicholas J. Higham,111
+Robert Morris,1
+Jean-Yves Le Boudec,29
+Sunghyun Choi;Kang G. Shin,100
+Sunghyun Choi;Kang G. Shin,96
+Sally Floyd;Van Jacobson,6682
+Sally Floyd;Van Jacobson,284
+Sally Floyd;Van Jacobson,1417
+Nick McKeown,1051
+Michael Mitzenmacher,467
+Sally Floyd;Vern Paxson,860
+Vern Paxson,617
+Vern Paxson,1152
+Vern Paxson,862
+Vern Paxson;Sally Floyd,3932
+Scott Shenker,220
+Nick Feamster;Jennifer Rexford,37
+Michael T. Goodrich,46
+Thomas Ball,26
+Rajeev Alur;Thomas A. Henzinger,46
+Rajeev Alur;Mihalis Yannakakis,100
+Alan Borning,1088
+Cormac Flanagan;Matthias Felleisen,94
+David Harel,32
+Mary Jean Harrold;Mary Lou Soffa,125
+Matthew Hennessy,38
+Maurice Herlihy,1286
+Maurice Herlihy,404
+Maurice Herlihy;Barbara Liskov,203
+Dexter Kozen,312
+Leslie Lamport,85
+Leslie Lamport,542
+Leslie Lamport,244
+Leslie Lamport,23
+Leslie Lamport,2108
+Leslie Lamport;Lawrence C. Paulson,112
+Zohar Manna;Pierre Wolper,402
+Jens Palsberg,89
+Jens Palsberg,20
+Christos H. Papadimitriou;Philip A. Bernstein,4
+Lawrence C. Paulson,22
+Thomas W. Reps,37
+Thomas W. Reps,15
+Hanan Samet,2
+Micha Sharir,40
+Dennis Shasha;Marc Snir,285
+Mikkel Thorup,18
+Niklaus Wirth,165
+Niklaus Wirth,2
+Mary Jean Harrold;Rajiv Gupta;Mary Lou Soffa,447
+Gregg Rothermel;Mary Jean Harrold,428
+Erol Gelenbe,32
+Guohong Cao;Mukesh Singhal,129
+Guohong Cao;Mukesh Singhal,38
+Guohong Cao;Mukesh Singhal,12
+Guohong Cao;Mukesh Singhal,135
+Ming-Syan Chen;Philip S. Yu,53
+Andrew A. Chien,198
+Sunghyun Choi;Kang G. Shin,89
+Rosario Gennaro,13
+Rajiv Gupta,18
+George Karypis;Vipin Kumar,51
+Edward A. Lee,128
+Michael Mitzenmacher,202
+Michael Mitzenmacher,240
+Jie Wu,62
+Jie Wu,178
+Jie Wu,49
+Krithi Ramamritham,189
+Jennifer Rexford;Niraj K. Jha,12
+Sartaj Sahni,21
+Sartaj Sahni,16
+Mukesh Singhal,94
+Peter Steenkiste,19
+Jie Wu,75
+Jie Wu;Dharma P. Agrawal,1
+Yiyu Yao,21
+Yiyu Yao,174
+Yiyu Yao,22
+Rakesh Agrawal,180
+Ian F. Akyildiz,51
+Ian F. Akyildiz,68
+Michael J. Carey,9
+Deborah Estrin,27
+Christos Faloutsos,152
+Erol Gelenbe,1
+Simon S. Lam,109
+Jim Gray,61
+Rajiv Gupta;Mary Lou Soffa,135
+Mary Jean Harrold;Gregg Rothermel,50
+Sushil Jajodia,1
+Donald E. Knuth,65
+Simon S. Lam,6
+Leslie Lamport,850
+Leslie Lamport,57
+Barbara Liskov,93
+M. Tamer Özsu,30
+Krithi Ramamritham,8
+Gregg Rothermel;Mary Jean Harrold,463
+Gregg Rothermel;Mary Jean Harrold,203
+Hanan Samet,4
+Hanan Samet,1
+Mahadev Satyanarayanan,72
+Abraham Silberschatz,43
+Abraham Silberschatz,1
+Abraham Silberschatz,11
+Abraham Silberschatz,20
+Herbert A. Simon,53
+Mukesh Singhal,34
+John A. Stankovic,12
+John A. Stankovic,93
+Michael Stonebraker,404
+Andrew S. Tanenbaum,17
+Niklaus Wirth,66
+Witold Pedrycz,10
+Witold Pedrycz,98
+Jun Wang,20
+Jun Wang,11
+Gio Wiederhold,3
+Ming Li;Zhi-Hua Zhou,86
+Pat Hanrahan,0
+Thomas Ertl,0
+Mani B. Srivastava;Miodrag Potkonjak,45
+Peter Brusilovsky,2059
+Peter Brusilovsky,2205
+Daniel Cohen-Or,9
+Marc Levoy,208
+Ming C. Lin;Dinesh Manocha,83
+Nadia Magnenat-Thalmann,0
+Nadia Magnenat-Thalmann;Daniel Thalmann,28
+Nadia Magnenat-Thalmann;Daniel Thalmann,4
+Alex Pentland,15
+Daniel Thalmann,19
+Max J. Egenhofer,174
+Max J. Egenhofer,256
+Elisa Bertino,49
+Johannes Gehrke;Joseph M. Hellerstein,2
+Sunita Sarawagi,10
+Gonzalo Navarro,162
+Schahram Dustdar,2
+Xiang-Yang Li,73
+Guohong Cao,38
+Sunghyun Choi;Kang G. Shin,62
+Xiang-Yang Li,14
+David B. Johnson,100
+Michele Zorzi,41
+Michele Zorzi,21
+Tao Jiang,0
+Min Wu,1
+Min Wu,2
+Henri Prade,35
+Gian Pietro Picco,131
+Alexander J. Smola;Bernhard Schölkopf,3197
+Didier Dubois,96
+Jason H. Moore,1
+Miodrag Potkonjak;Jan M. Rabaey,6
+Lothar Thiele,45
+Srinivas Devadas;Kurt Keutzer;Sharad Malik,4
+Sunita Sarawagi,248
+Michael Mitzenmacher,750
+Michael Mitzenmacher,118
+Michael Mitzenmacher,50
+Witold Pedrycz,304
+Vladimir Vapnik,2065
+Michael Unser,50
+Didier Dubois;Henri Prade,29
+Geoffrey E. Hinton,22
+Marco Dorigo,78
+Yoshua Bengio,17
+Erkki Oja,1
+Marco Dorigo,7
+S. Muthukrishnan,894
+Oded Goldreich,31
+Michael Luby;Avi Wigderson,67
+Oded Goldreich,3
+Richard Szeliski,569
+Tao Li,42
+Ajith Abraham,55
+Christos H. Papadimitriou,26
+Mario Gerla,44
+Justin Zobel,0
+Witold Pedrycz,2
+John M. Carroll,41
+Eitan Altman,23
+Peter Brusilovsky,73
+Georg Gottlob,2
+Pavol Hell,20
+Jonathan Grudin,9
+Jan Mendling,22
+S. Sudarshan,26
+Michael J. Carey,51
+Craig Chambers,210
+Gerhard Weikum,6
+Limsoon Wong,73
+Joseph M. Hellerstein,14
+Divesh Srivastava,0
+Bart Preneel,0
+Bart Preneel,0
+Bart Preneel,0
+Hugo Krawczyk,0
+Bart Preneel,0
+Bart Preneel,2
+Dan Boneh,2
+Bart Preneel,2
+Bart Preneel,0
+Bart Preneel,3
+Bart Preneel,1
+Qian Zhang,6
+Jiawei Han,3
+Andrzej Pelc,39
+Gonzalo Navarro,2
+Wolfram Burgard;Martial Hebert,17
+David Garlan,71
+Witold Pedrycz,0
+Daniel Thalmann,98
+Sabrina De Capitani di Vimercati;Pierangela Samarati;Sushil Jajodia,0
+Kalyanmoy Deb,9
+Witold Pedrycz,3
+Witold Pedrycz,0
+David Heckerman,2314
+Sebastian Thrun,60
+Benjamin Kuipers,36
+Didier Dubois;Henri Prade,318
+Joseph Sifakis,4
+Gio Wiederhold,0
+Luca Benini,0
+Joseph Sifakis,1
+S. Muthukrishnan,11
+Ravi Kumar,0
+Christos Faloutsos,2
+John K. Tsotsos,3
+Justine Cassell,8
+Kurt Mehlhorn,2
+Christos H. Papadimitriou,1
+Mateo Valero,1
+Ravi Kumar,2
+Heikki Mannila,1
+Zhi-Hua Zhou,57
+Yiyu Yao,20
+Moshe Y. Vardi,0
+Surajit Chaudhuri,15
+Patrice Godefroid,8
+Joseph Sifakis,0
+Shafi Goldwasser,0
+Avi Wigderson,0
+Lance Fortnow,8
+James Allan,183
+James Allan,180
+Schahram Dustdar,0
+Gonzalo Navarro,0
+Tao Jiang,1
+Maurice Herlihy,3
+Moshe Y. Vardi,28
+Edward A. Lee,76
+Erol Gelenbe,64
+Moshe Y. Vardi,1
+Luc Devroye,33
+Kurt Mehlhorn;Zvi Galil,36
+Christos H. Papadimitriou,294
+Toby Walsh,39
+Bernard Chazelle,17
+Michael T. Goodrich,6
+Ravi Kumar;Andrew Tomkins,31
+Daniel Cohen-Or,15
+David Notkin,3
+Tom Leighton,67
+Jim Gray,158
+Daniela Florescu;Donald Kossmann,37
+David Eppstein,11
+Xiang-Yang Li,74
+Hermann Ney,4
+Bing Liu,37
+Schahram Dustdar,9
+Kalyanmoy Deb,10
+Erol Gelenbe,0
+Jun Wang,2
+Jiawei Han,11
+Yishay Mansour,3
+Fernando C. N. Pereira,0
+Zhi-Hua Zhou,0
+Frank van Harmelen,2
+Demetri Terzopoulos,0
+Jens Palsberg,0
+Markus Jakobsson,3
+Robin Milner,2
+Charles E. Leiserson,99
+Joseph Sifakis,9
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini;Moshe Y. Vardi,21
+Jiawei Han,11
+Yishay Mansour,3
+Fernando C. N. Pereira,0
+Luca Cardelli,33
+Divesh Srivastava,0
+John Mylopoulos,0
+Max J. Egenhofer,3
+Peter Buneman,5
+Michael Mitzenmacher,12
+Moti Yung,1
+Pat Hanrahan,0
+Michael Reiter,0
+Bernhard Steffen,1
+Venu Govindaraju,0
+Mary Jean Harrold,4
+Leslie Lamport,14
+Ming Li,0
+Toby Walsh,39
+Wen-Mei W. Hwu,1
+John Owens,2
+Kaushik Roy,0
+Heikki Mannila,0
+Bart Preneel,0
+John Mylopoulos,1
+Edmund M. Clarke,2
+Josep Domingo-Ferrer,4
+S. Muthukrishnan,1
+HongJiang Zhang,4
+Matt Welsh,0
+Thomas Ball,1
+Robbert van Renesse,1
+William Gropp,2
+Jon Crowcroft,1
+Luis Gravano,0
+Surajit Chaudhuri,0
+Mary Shaw,0
+Michael T. Goodrich,12
+Pierre Wolper,0
+Markus Gross,0
+Hanan Samet,0
+Marco Dorigo,2
+Eitan Altman,13
+Karl Aberer,0
+Mihalis Yannakakis,0
+Moshe Y. Vardi,1
+Fionn Murtagh,2
+Frank van Harmelen,2
+Zhi-Hua Zhou,0
+Elisa Bertino,0
+Michael Stonebraker,6
+Yorick Wilks,0
+Lance Fortnow,76
+Moshe Y. Vardi,2
+Lance Fortnow,23
+Johannes Gehrke,1
+Surajit Chaudhuri,4
+V. S. Subrahmanian,6
+David Eppstein,2
+Michael T. Goodrich,26
+David Eppstein,4
+David Eppstein,7
+Marlon Dumas;Manfred Reichert,2
+Dale Miller,6
+Didier Dubois;Henri Prade,37
+Fred Glover,91
+David Eppstein,50
+Terry Winograd,7
+Jonathan Grudin,2
+Jonathan Grudin,0
+Amit Sheth,45
+Michael T. Goodrich,20
+Yiyu Yao,89
+Jonathan Grudin,3
+Won Kim,82
+Brad Calder;Dirk Grunwald,2
+Jie Wu,6
+Shun-ichi Amari,18
+Alex Pentland,5
+Erol Gelenbe,224
+Leslie Lamport,4
+Jeff Offutt,0
+Jeff Offutt,0
+Jeff Offutt,0
+Beng Chin Ooi,0
+Beng Chin Ooi,0
+Beng Chin Ooi,0
+Jeff Kramer,0
+Nadia Magnenat-Thalmann,0
+Bing Liu,7
+Wulfram Gerstner,7
+Geoffrey E. Hinton,4
+Yoshua Bengio,362
+Mihalis Yannakakis,12
+Leonard Kleinrock,33
+Elisa Bertino,4
+Fionn Murtagh,32
+Fionn Murtagh,63
+William Gropp;Marc Snir,2
+Didier Dubois;Henri Prade,29
+Wolfgang Banzhaf,20
+Witold Pedrycz,2
+Soumen Chakrabarti,4
+Ramesh Jain,2
+Bing Liu,18
+Dan Suciu,36
+Dan Suciu,2
+Ming-Hsuan Yang,12
+Witold Pedrycz,0
+Peter Stone,16
+Yiyu Yao,12
+Mario Gerla,10
+Andrew Blake,2
+Rajkumar Buyya,50
+Michael Luck,0
+Jean Ponce,10
+Karl Aberer,0
+Shun-ichi Amari,2
+Pattie Maes,2
+Dan Suciu,0
+Yishay Mansour,4
+David Eppstein,2
+S. Muthukrishnan,29
+Didier Dubois;Henri Prade,13
+Nadia Magnenat-Thalmann,7
+Michael Cohen,3
+Daniel Thalmann,27
+Gonzalo Navarro,12
+Wei Wang,1
+Josep Domingo-Ferrer,2
+Kim G. Larsen,4
+Thomas A. Henzinger,7
+Bart Preneel,7
+Krithi Ramamritham,1
+Maurice Herlihy,2
+Sartaj Sahni,0
+Mark Horowitz,3
+Jan Camenisch,1
+Matthias Felleisen,0
+Hisao Ishibuchi,3
+Barry Smyth,1
+Teuvo Kohonen,192
+Pat Hanrahan,1
+Richard E. Ladner,2
+Edmund M. Clarke;E. Allen Emerson;Joseph Sifakis,49
+Moshe Y. Vardi,1
+Dennis Shasha,2
+Moshe Y. Vardi,4
+Ari Juels,0
+Vern Paxson,356
+Jon Crowcroft,1
+Henning Schulzrinne,0
+Kwan-Liu Ma,20
+Toby Walsh,2
+Uriel Feige,3
+Fionn Murtagh,0
+Noga Alon,1
+Ramesh Jain,3
+Hsinchun Chen,13
+Ramesh Jain,4
+John R. Smith,14
+Hanan Samet,1
+Thomas Ertl,0
+Tobias Nipkow,12
+Jun Wang,8
+Tao Jiang,7
+Ming Li,3
+David Eppstein,4
+Gio Wiederhold,4
+Theo Pavlidis,1
+Alan Burns,0
+Uriel Feige,105
+Oded Goldreich,0
+Donald E. Knuth,2
+Michael Mitzenmacher,0
+Michael Mitzenmacher,0
+Madhu Sudan,80
+Lance Fortnow,0
+Avrim Blum;Prabhakar Raghavan,1
+Dan Suciu,100
+Cynthia Dwork,2
+Michael Luby,0
+Cynthia Dwork,2
+Mihalis Yannakakis,10
+David S. Johnson,0
+Christos H. Papadimitriou,21
+David Harel,3
+Rajeev Motwani;Prabhakar Raghavan,4453
+Cynthia Dwork,1
+Oded Goldreich,3
+Cynthia Dwork,2
+Thomas Anderson,5
+Philip Wadler,116
+Mary Shaw,4
+Jeff Offutt,0
+Giovanni De Micheli,17
+Luc Devroye,22
+Eitan Altman,6
+Alfred V. Aho,6
+Steven Feiner;Kathleen McKeown,1
+Witold Pedrycz,1
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini;Moshe Y. Vardi,4
+Moshe Y. Vardi,0
+Manfred K. Warmuth,1
+Ben Shneiderman,0
+Marco Ajmone Marsan,11
+David Harel,2
+Oded Goldreich,15
+Joseph Sifakis,9
+Zohar Manna;Amir Pnueli,3
+Jens Palsberg,1
+Vladimir Lifschitz,9
+E. Allen Emerson,1
+Leslie Lamport,1
+Frank Pfenning,2
+Pierre Wolper,3
+David Eppstein,4
+Pierangela Samarati;Sabrina De Capitani di Vimercati,44
+Toby Walsh,2
+Manuel Blum,0
+Sunita Sarawagi,0
+Bernard Chazelle;Leonidas J. Guibas,262
+Bernard Chazelle,3
+Bernard Chazelle,1
+Pankaj K. Agarwal,5
+Joseph S. B. Mitchell,7
+Rina Dechter,7
+Pascal Van Hentenryck,13
+Zvi Galil,0
+Hugo Krawczyk,28
+Mihir Bellare,16
+Joe Kilian,29
+Moti Yung,32
+Dan Boneh,21
+Victor Shoup,343
+Cynthia Dwork,15
+Hugo Krawczyk,15
+Bart Preneel,0
+Nicholas Ayache,10
+Miodrag Potkonjak,9
+Edward A. Lee,7
+Bernd Hamann,0
+Mark Horowitz,4
+Raghu Ramakrishnan,29
+Toby Walsh,22
+Jean Ponce;Andrew Zisserman;Martial Hebert,20
+Barry Smyth,1
+Oscar Nierstrasz,6
+Rachid Guerraoui,2
+Elisa Bertino,1
+Luca Cardelli,3
+Ian Horrocks,4
+Pierangela Samarati,0
+Dan Suciu,0
+Lothar Thiele,0
+Georg Gottlob;Wolfgang Nejdl,4
+Riccardo Poli,0
+Ari Juels,2
+Gene Tsudik,0
+Jean-Pierre Hubaux,0
+Ueli Maurer,6
+Alan Rector,3
+Eli Biham,12
+Bart Preneel,3
+Wei Wang,0
+Kalyanmoy Deb,4
+Risto Miikkulainen,13
+Riccardo Poli,0
+Max J. Egenhofer,8
+Thomas A. Henzinger;Shankar Sastry,82
+Roger Wattenhofer,1
+Jeffrey F. Naughton,0
+Donald Kossmann,3
+Diego Calvanese;Maurizio Lenzerini;Rajeev Motwani,2
+Zhengyou Zhang,0
+Theo Pavlidis,10
+Wei Wang;Zhi-Hua Zhou,31
+Pierre Baldi,0
+Kurt Mehlhorn,1
+Ramesh Jain,1
+William Dally,1
+Josep Domingo-Ferrer,64
+Georg Gottlob;Toby Walsh,5
+Feng Zhao;Leonidas J. Guibas,8
+Adnan Darwiche,1
+Joseph Y. Halpern,1
+Joseph Y. Halpern,4
+Piotr Indyk,3
+Gian Pietro Picco,8
+Rachid Guerraoui,1
+B. S. Manjunath,0
+Bart Preneel,1
+Klara Nahrstedt,0
+Pascal Van Hentenryck,0
+Wei-Ying Ma,0
+Vipin Kumar,1
+Josef Kittler,17
+Rosalind Picard,0
+Jiawei Han,1
+Christos Faloutsos,0
+Susan Eggers,1
+Joseph M. Hellerstein,14
+Alan Borning,11
+Toby Walsh,1
+Josep Domingo-Ferrer,15
+Tobias Nipkow,2
+Frank Pfenning,1
+Pascal Van Hentenryck,1
+Jens Palsberg,5
+E. Allen Emerson,0
+Hanan Samet,0
+Demetri Terzopoulos,0
+Don Towsley,21
+David Eppstein,7
+Cynthia Dwork,30
+Michael T. Goodrich,26
+Patrice Godefroid,2
+Zbigniew Michalewicz,5
+Luc Devroye,0
+Mihalis Yannakakis,0
+Joseph Sifakis,9
+Moni Naor,12
+Joe Kilian,9
+Carlo Zaniolo,6
+Krishnendu Chakrabarty,2
+Ming C. Lin;Dinesh Manocha,12
+Divesh Srivastava,0
+Rachid Guerraoui,1
+Andrzej Pelc,1
+Ravi Kumar;Andrew Tomkins,24
+Jean Ponce;Martial Hebert;Cordelia Schmid;Andrew Zisserman,80
+Sankar K. Pal,5
+Yiyu Yao,51
+Zhi-Hua Zhou,57
+Sartaj Sahni,0
+Henri Prade;V. S. Subrahmanian,1
+Wei Wang,1
+Bart Preneel,7
+Dusit Niyato,1
+Wei Wang;Kevin Knight;Daniel Marcu,54
+Philipp Koehn,409
+Gonzalo Navarro,1
+Randy H. Katz,1
+Gerhard Weikum,3
+Qian Zhang,1
+Wei Wang,2
+Robbert van Renesse;Rachid Guerraoui,3
+Barbara Liskov,2
+Wolfgang Banzhaf,43
+Wolfgang Banzhaf,14
+Risto Miikkulainen,36
+Padhraic Smyth;Charles Elkan,0
+Sebastian Thrun,14
+Michael Stonebraker,60
+Moshe Y. Vardi,1
+Fionn Murtagh,11
+Fionn Murtagh,4
+James Hendler,10
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini;Moshe Y. Vardi,2
+Michael T. Goodrich,4
+Bernard Chazelle,6
+Toby Walsh,22
+Wei Wang;Zhi-Hua Zhou,8
+Luca Cardelli,15
+David Eppstein,4
+Toby Walsh,1
+Toby Walsh,3
+Toby Walsh,2
+Michael T. Goodrich;Michael Mitzenmacher,12
+Toby Walsh,4
+Fionn Murtagh,0
+Soumen Chakrabarti;Sunita Sarawagi;S. Sudarshan,11
+Tao Jiang,0
+Robert K. Brayton;Jason Cong,1
+Hsinchun Chen,5
+Hsinchun Chen,1
+Amit Sheth,7
+Andrzej Pelc,2
+Victor Vianu,0
+Philipp Koehn,14
+Anil K. Jain,412
+Jeff Offutt,0
+David Eppstein,18
+James Demmel;Nicholas J. Higham,69
+Nicholas J. Higham,74
+Nicholas J. Higham,12
+Michael N. Vrahatis,63
+Nicholas J. Higham,183
+Michael N. Vrahatis,84
+Sankar K. Pal,10
+Thomas Ertl,1
+Heikki Mannila;Dimitrios Gunopulos,1
+Soumen Chakrabarti,4
+Lance Fortnow,2
+Jun Wang,35
+Hanan Samet,1
+S. Muthukrishnan,0
+Richard Taylor,1
+Eric Horvitz,4
+Craig Boutilier,12
+Eric Horvitz,8
+Judea Pearl,29
+Richard E. Ladner,3
+Herbert A. Simon,15
+Yorick Wilks,11
+Olvi L. Mangasarian,18
+Witold Pedrycz,2
+Paul Dourish,33
+Dale Miller,0
+Gerhard Weikum,0
+Krithi Ramamritham,2
+Manfred K. Warmuth,1
+David Eppstein;Michael T. Goodrich;Roberto Tamassia,3
+Sebastian Thrun,1
+Matthias Felleisen,2
+Zbigniew Michalewicz,0
+Hsinchun Chen,4
+Joseph Y. Halpern,0
+Josep Domingo-Ferrer,5
+Didier Dubois,0
+Mubarak Shah,1
+Vladimir Vapnik,3
+Amos Fiat;Christos H. Papadimitriou,3
+Demetri Terzopoulos,1
+Hojjat Adeli,1
+Bernard Chazelle,7
+Michael Stonebraker,7
+Moshe Y. Vardi,4
+Jon Crowcroft,1
+Toby Walsh,2
+David Eppstein;Michael T. Goodrich;Roberto Tamassia,3
+Michael T. Goodrich,2
+Matthew Hennessy,5
+Andrew B. Kahng,0
+Robert K. Brayton;Jason Cong,1
+Andrew B. Kahng,7
+Oded Goldreich,4
+Oded Goldreich,15
+Oded Goldreich,18
+Oded Goldreich,8
+Madhu Sudan,17
+Witold Pedrycz,13
+John R. Smith,1
+John R. Smith,2
+John R. Smith,1
+Jonathan Grudin,6
+Tobias Nipkow,23
+Oded Goldreich,9
+Oscar Nierstrasz,4
+Zhi-Hua Zhou;Ming Li,72
+Shun-ichi Amari,3
+Jeff Offutt,0
+Jeff Offutt,0
+Riccardo Poli,26
+Charles E. Leiserson,99
+Niraj K. Jha,0
+Keith Edwards,1
+Erol Gelenbe,33
+Ming C. Lin;Dinesh Manocha,1
+Dipankar Dasgupta;Zbigniew Michalewicz,320
+David Harel,8
+Hector Garcia-Molina;Jeffrey D. Ullman;Jennifer Widom,865
+Daphne Koller;Nir Friedman,883
+Robin Milner,114
+Adnan Darwiche,184
+Oded Goldreich,183
+Nicholas J. Higham,346
+Philipp Koehn,26
+John Riedl,0
+Robert E. Schapire,6
+Moshe Y. Vardi,0
+Noga Alon,15
+David Harel,0
+Ke Wang,0
+Rajkumar Buyya,4
+Stefano Soatto,18
+Christos Faloutsos,0
+Dan Suciu,0
+Diego Calvanese;Giuseppe De Giacomo;Maurizio Lenzerini;Moshe Y. Vardi,5
+Bart Preneel,0
+Mukesh Singhal,0
+David Eppstein,4
+Toby Walsh,2
+Philipp Koehn,9
+Gian Pietro Picco,11
+Mary Shaw,1
+David Garlan,7
+Luca Cardelli,1
+Shun-ichi Amari,0
+Christos Faloutsos,0
+Dennis Gannon,2
+Ari Juels,0
+Oded Goldreich,3
+Oded Goldreich,7
+Oded Goldreich,0
+Oded Goldreich,0
+Noga Alon,5
+Madhu Sudan,17
+Oded Goldreich,18
+Sebastian Thrun,2
+Toby Walsh,12
+Eric Horvitz,18
+Tuomas Sandholm,68
+Milind Tambe,17
+Michael Wooldridge,0
+Jonathan Grudin,5
+Randy H. Katz,1
+Adnan Darwiche,19
+Moshe Y. Vardi,3
+Matt Welsh,11
+Gio Wiederhold,0
+Cynthia Dwork,98
+Uzi Vishkin,19
+Jonathan Grudin,5
+Kevin Skadron,0
+Marc Levoy,9
+Jon Crowcroft,2
+Michael T. Goodrich;Michael Mitzenmacher,9
+Micha Sharir,2
+Michael Mitzenmacher,0
+Madhu Sudan,1
+Hsinchun Chen,5
+Ronald L. Rivest,4
+Ben Shneiderman,59
+Ben Shneiderman,11
+Yiyu Yao,31
+Victor Vianu,0
+Uriel Feige,6
+Joseph M. Hellerstein,36
+Jeff Offutt,0
+Shun-ichi Amari,26
+Beng Chin Ooi,0
+Ming C. Lin,0
+Thomas Ertl,0
+Niraj K. Jha,0
+Jun Wang,7
+David Notkin,0
+Luc Moreau,48
+Witold Pedrycz,1
+Wei Wang,1
+Fionn Murtagh,12
+Steve Benford,3
+Witold Pedrycz,0
+Ben Shneiderman,1
+Ben Shneiderman,0
+Haixun Wang;Philip S. Yu;Jiawei Han,2
+Yiyu Yao,11
+Zbigniew Michalewicz,65
+Didier Dubois;Henri Prade,41
+Matthew Hennessy,91
+Christos H. Papadimitriou,6143
+Ulrike Sattler,55
+Jan Mendling,91
+Dieter Fox,214
+Dennis Shasha,0
+Kishor S. Trivedi,2699
+Victor Shoup,336
+Andrew S. Tanenbaum,1228
+Christos H. Papadimitriou,8
+Rina Dechter,1386
+Witold Pedrycz,268
+Joseph Y. Halpern,651
+Ron Kimmel,123
+Won Kim,695
+Nicholas Ayache,478
+Judea Pearl,2910
+John A. Stankovic,10
+Nicholas J. Higham,2603
+Benjamin Kuipers,902
+Niklaus Wirth,37
+Christos H. Papadimitriou,6143
+Jeffrey D. Ullman,280
+Alfred V. Aho;Jeffrey D. Ullman,27
+Andrew S. Tanenbaum,1288
+Donald E. Knuth,7
+Nicholas J. Higham,2603
+David Harel,418
+Judea Pearl,17815
+Pascal Van Hentenryck,1632
+Leslie Lamport,78
+Niklaus Wirth,59
+Michael T. Goodrich;Roberto Tamassia,383
+Soumen Chakrabarti,998
+David Harel,53
+James F. Allen,2646
+David Harel,437
+Dieter Fensel,1727
+Jeffrey D. Ullman;Jennifer Widom,2
+Luca Benini;Giovanni De Micheli,383
+Michael T. Goodrich;Roberto Tamassia,241
+Bernard Chazelle,303
+Pankaj K. Agarwal,54
+Lawrence C. Paulson,1063
+David Heckerman,403
+Raj Jain,152
+Niklaus Wirth,2
+Robin Milner,2846
+Michael T. Goodrich;Roberto Tamassia,383
+Vladimir Vapnik,176
+Zbigniew Michalewicz,7
+Niklaus Wirth,127
+Mary Shaw;David Garlan,4337
+Dexter Kozen,306
+Neil D. Jones,232
+Robin Milner,9027
+Zohar Manna;Amir Pnueli,1195
+Niklaus Wirth,51
+Micha Sharir;Pankaj K. Agarwal,696
+Risto Miikkulainen,330
+Donald Kossmann,5
+Andrew S. Tanenbaum,64
+Witold Pedrycz,290
+Michael Luby,407
+Theodore S. Rappaport,15974
+Donald E. Knuth,526
+Nicholas J. Higham,209
+Noam Nisan,27
+Matthew Hennessy,1134
+Robert E. Schapire,127
+Kathleen McKeown,850
+Zohar Manna;Amir Pnueli,3679
+Matthew Hennessy,234
+Hanan Samet,7
+Daniel S. Weld,48
+Joe Kilian,69
+Michel Raynal,163
+Erol Gelenbe,118
+David Harel,20
+Mary Shaw,1
+Brian Curless,0
+Steven Feiner;Kathleen McKeown,14
+Jonathan Grudin,64
+Terry Winograd,24
+Jonathan Grudin,284
+John M. Carroll,65
+Craig Boutilier,0
+Thorsten Joachims,0
+Gerhard Weikum,0
+Yorick Wilks,1
+David Harel,2
+Joseph Sifakis,9
+Ben Shneiderman,1
+Michael T. Goodrich;Michael Mitzenmacher,22
+David Poole,0
+Dorin Comaniciu,0
+Massoud Pedram,0
+Krishnendu Chakrabarty,2
+David Poole,1
+Franco Zambonelli,11
+Charles Elkan,4
+Patrice Godefroid,5
+S. Muthukrishnan,0
+Huan Liu,3
+Michael T. Goodrich,4
+David Corne,0
+Christos H. Papadimitriou,1
+Kurt Mehlhorn,0
+Rajeev Alur,0
+Sunita Sarawagi,0
+David Notkin,0
+Fabio Casati,2
+Justine Cassell,2
+Fernando C. N. Pereira,11
+Alex Waibel,2
+Michael J. Carey,2
+Hermann Ney,3
+Andreas Stolcke,2246
+Andreas Stolcke,16
+Steffen Staab,1
+Alex Pentland;Trevor Darrell,7
+Hermann Ney,34
+Vipin Kumar,0
+Frank Leymann,14
+Tuomas Sandholm,8
+Amos Fiat,0
+Michael Stonebraker,2
+Moshe Y. Vardi,0
+Marc Snir,3
+Jennifer Rexford,0
+Madhu Sudan,0
+Kevin Skadron,0
+Mario Gerla;Leonard Kleinrock,39
+John Riedl,1
+Georg Gottlob,2
+Michael T. Goodrich,4
+Joseph Y. Halpern,77
+William W. Cohen;Robert E. Schapire;Yoram Singer,619
+Jan Chomicki,1
+Andrew B. Kahng,1
+Andrew B. Kahng,0
+Andrew B. Kahng,0
+Oded Goldreich,2
+John R. Smith,0
+Matthew Hennessy,0
+Jie Wu,2
+Judea Pearl,4
+Pascal Fua,406
+Ramesh Jain;Anil K. Jain,22
+Ramesh Jain,5
+Luca Cardelli,33
+Josef Kittler,216
+Michael Unser,364
+Demetri Terzopoulos,368
+Alex Pentland,843
+John Canny,15229
+Theo Pavlidis,6
+John Canny,302
+Demetri Terzopoulos,805
+Henri Prade,3
+Hanan Samet,28
+Lionel M. Ni;Anil K. Jain,79
+W. Eric L. Grimson,592
+Henri Prade,205
+Alex Pentland,368
+Judea Pearl,29
+Ramesh Jain,93
+Erol Gelenbe,0
+Madhu Sudan,0
+Jeff Offutt,0
+David Eppstein;Michael T. Goodrich,13
+Ramesh Govindan,0
+Ramesh Govindan,0
+Massoud Pedram,0
+Yiyu Yao,21
+Tao Jiang,2
+Wei Wang,0
+John Riedl;Barry Smyth,2
+Ming Li,6
+Tao Li,110
+Xing Xie,0
+Yorick Wilks,21
+Yorick Wilks,35
+Ming Li,15
+Ben Shneiderman,2
+David Maier,1
+Nicholas Ayache,0
+Michael L. Littman,150
+Xin Yao,2
+Hojjat Adeli,0
+Hojjat Adeli,0
+Hojjat Adeli,3
+K. J. Ray Liu,0
+K. J. Ray Liu,0
+James Allan,10
+Francisco Herrera,235
+Nicholas J. Higham,176
+Nicholas J. Higham,176
+Zhengyou Zhang,0
+Raouf Boutaba,0
+Hsinchun Chen,3
+John M. Carroll;Mary Beth Rosson,2
+Mary Beth Rosson;John M. Carroll,12
+David Eppstein,17
+Manish Gupta,1
+Risto Miikkulainen,7
+Geoffrey E. Hinton,0
+Roger Wattenhofer,0
+Joseph Sifakis,9
+Dharma P. Agrawal,5
+Jennifer Rexford,1
+Bernard Chazelle,6
+Witold Pedrycz,26
+Luc Moreau,7
+Johannes Gehrke;Samuel Madden,303
+Wei Wang,2
+David Eppstein;Michael T. Goodrich,5
+Hugo Krawczyk,15
+Rosario Gennaro,21
+Ran Canetti,19
+Mihir Bellare,173
+Oded Goldreich,9
+Mihir Bellare;Amit Sahai,126
+Rosario Gennaro;Silvio Micali,24
+Mihir Bellare;Oded Goldreich,13
+Gene Tsudik,48
+Ran Canetti,32
+Wolfram Burgard;Dieter Fox;Sebastian Thrun,0
+Nadia Magnenat-Thalmann;Daniel Thalmann,0
+Dexter Kozen,2
+Ben Shneiderman,3
+Bing Liu,0
+Mahadev Satyanarayanan,38
+Moshe Y. Vardi,2
+Geoffrey E. Hinton,0
+Michael Stonebraker,4
+Moshe Y. Vardi,1
+Victor Vianu,0
+Victor Vianu,0
+Hisao Ishibuchi,0
+Yiyu Yao,14
+Joseph Y. Halpern,1
+Craig Boutilier,2
+Wolfram Burgard;Dieter Fox;Sebastian Thrun,797
+David Eppstein;Michael T. Goodrich;Pierre Baldi,1
+Manish Gupta;Jiawei Han,5
+Didier Dubois,13
+Toby Walsh,4
+S. Muthukrishnan,0
+Jason Cong,1
+Jeff Offutt,2
+Frank Leymann,26
+Krishnendu Chakrabarty,14
+John R. Smith,2
+John R. Smith,0
+David Eppstein,22
+Judea Pearl,2
+Andrew B. Kahng,0
+Shun-ichi Amari,0
+Judea Pearl,11
+Judea Pearl,4
+Cynthia Dwork,627
+Sabrina De Capitani di Vimercati,0
+Sabrina De Capitani di Vimercati,0
+Sabrina De Capitani di Vimercati,0
+Bart Preneel,2
+Bart Preneel,3
+Sabrina De Capitani di Vimercati,0
+Bart Preneel,2
+Bart Preneel,0
+Bart Preneel,0
+Bart Preneel,1
+Bart Preneel,0
+Bart Preneel,0
+Sabrina De Capitani di Vimercati,0
+Sabrina De Capitani di Vimercati,13
+Pierangela Samarati,1
+Bart Preneel,0
+Dan Boneh,2
+Sabrina De Capitani di Vimercati,0
+Bart Preneel,0
+Pierangela Samarati,0
+Hugo Krawczyk,0
+Geoffrey E. Hinton,22
+Jan Mendling,0
+Oded Goldreich,5
+Oded Goldreich,92
+Oded Goldreich,2
+Oded Goldreich,47
+Oded Goldreich,54
+Oded Goldreich,18
+Oded Goldreich,0
+Oded Goldreich,2
+Mihir Bellare;Oded Goldreich,13
+Oded Goldreich,50
+Oded Goldreich;Noam Nisan;Avi Wigderson,124
+Oded Goldreich,12
+Oded Goldreich,0
+Oded Goldreich,7
+Oded Goldreich,37
+Oded Goldreich,6
+Oded Goldreich,1
+Oded Goldreich,2
+Oded Goldreich,4
+Oded Goldreich,0
+Oded Goldreich,2
+Oded Goldreich,1
+Oded Goldreich;Avi Wigderson,2
+Oded Goldreich,5
+Mihir Bellare;Oded Goldreich,7
+Oded Goldreich,8
+Michael Mitzenmacher,0
+Oded Goldreich,2679
+Oded Goldreich,3
+John K. Tsotsos,21
+Nadia Magnenat-Thalmann,4
+Hsinchun Chen,1
+Zohar Manna,26
+Donald E. Knuth,50
+Karl Aberer,6
+Michael P. Wellman,3
+Josep Domingo-Ferrer,36
+Christos Faloutsos,317
+Heikki Mannila,0
+Hsinchun Chen,1
+Erol Gelenbe,5
+Didier Dubois;Henri Prade,2
+Elisa Bertino,3
+Andreas Stolcke,2
+Risto Miikkulainen,13
+Carlo Ghezzi,1
+Edward A. Lee,0
+Rajeev Alur,14
+Adnan Darwiche,4
+Dale Miller,4
+Satoshi Matsuoka,1
+Joseph Y. Halpern,1
+Didier Dubois;Henri Prade,8
+Karl Aberer,0
+Zhi-Hua Zhou,0
+Jiawei Han,2
+Jan M. Rabaey,1
+Joseph Y. Halpern,19
+Rajeev Alur,0
+Alan Burns,0
+Witold Pedrycz,0
+Anantha Chandrakasan,0
+Jason Cong,0
+Witold Pedrycz,2
+David Peleg,1
+Leslie Lamport,0
+Andrzej Pelc,3
+Leslie Lamport,12
+Tobias Nipkow,1
+Douglas C. Schmidt,19
+Michael Wooldridge,0
+Max J. Egenhofer,1
+Joseph Sifakis,0
+Giovanni De Micheli,0
+Dieter Fensel,1
+Niklaus Wirth,0
+Joseph Sifakis,4
+Xin Yao,2
+Toby Walsh,3
+Ming Li,3
+Hsinchun Chen,2
+Manfred Reichert,6
+Bart Preneel,1
+Alex Pentland,0
+Frank van Harmelen,0
+Gerhard Weikum,0
+Darrell Whitley,0
+Witold Pedrycz,1
+Witold Pedrycz,0
+Ming Li,0
+Feng Zhao,4
+Stefano Paraboschi,0
+Craig Chambers,0
+Kwan-Liu Ma,0
+Russell Impagliazzo,2
+Michael O. Rabin,8
+David Harel,2
+Dinesh Manocha;Ming C. Lin,6
+Kaushik Roy,0
+Jan Camenisch,0
+Ming Li,3
+Maurizio Lenzerini,5
+Justin Zobel,0
+Wei Wang;Zhi-Hua Zhou,8
+Georg Gottlob,2
+Boualem Benatallah,0
+David Eppstein,4
+Beng Chin Ooi,0
+Michele Zorzi,9
+Mary Shaw,7
+Tobias Nipkow,0
+Avrim Blum;Yishay Mansour,58
+Michael Unser,116
+Oded Goldreich,63
+Michael O. Rabin,856
+Victor Shoup,315
+Hugo Krawczyk,316
+Rosario Gennaro;Victor Shoup,40
+Ran Canetti;Hugo Krawczyk,119
+Ran Canetti;Hugo Krawczyk,268
+Ran Canetti,122
+Birgit Pfitzmann;Michael Waidner,299
+Victor Shoup,319
+Victor Shoup,4
+David Wagner,1
+Ari Juels;Madhu Sudan,790
+Oded Goldreich,2
+Markus Jakobsson;Ari Juels;Ronald L. Rivest,295
+Oded Goldreich,52
+Markus Jakobsson,99
+Oded Goldreich,54
+Hugo Krawczyk,258
+Ran Canetti;Hugo Krawczyk,707
+Ran Canetti,1271
+Hugo Krawczyk,171
+Jan Camenisch;Victor Shoup,322
+Oded Goldreich,5
+Robert Morris,11
+David Eppstein,1
+Hojjat Adeli,0
+Limsoon Wong,0
+Ben Shneiderman,3
+Won Kim,7
+Wei Wang,0
+Miodrag Potkonjak,4
+Sushil Jajodia,13
+Victor Vianu,0
+Michael T. Goodrich,26
+Noga Alon,15
+Alex Pentland,6
+Fionn Murtagh,2
+Fionn Murtagh,2
+Jeff Offutt,0
+Max J. Egenhofer,40
+Hsinchun Chen,1
+John R. Smith,0
+Toby Walsh,2
+Kurt Mehlhorn,26
+H. Vincent Poor,37
+George Karypis,10
+Barry Smith,6
+Huan Liu,2
+Barry Smyth,0
+Nick Feamster,1
+Lixia Zhang,1
+Ueli Maurer,7
+James F. Allen,11
+Kenneth Church,20
+Alan Burns,2
+Manish Gupta,2
+David Kotz,13
+Jennifer Rexford,0
+Marco Ajmone Marsan,0
+Josep Domingo-Ferrer,2
+Matthias Felleisen,0
+Richard Szeliski,54
+Roberto Cipolla;Andrew Blake,165
+Alex Pentland,61
+W. Eric L. Grimson,3
+Pietro Perona;Jitendra Malik,211
+Amnon Shashua,79
+Patrick J. Flynn;Anil K. Jain,155
+W. Eric L. Grimson,136
+Katsushi Ikeuchi;Takeo Kanade,28
+Alex Pentland,180
+Rupak Majumdar,0
+Riccardo Poli,20
+Dusit Niyato,2
+Ross Anderson,9
+Vladimir Lifschitz,5
+Michel Raynal,5
+Niraj K. Jha,8
+Michael Waidner;Birgit Pfitzmann,12
+Judea Pearl,34
+Judea Pearl,12
+Peter Stone,0
+Alex Pentland,0
+Cynthia Dwork,3
+Rafail Ostrovsky,4
+Tobias Nipkow,4
+Dipankar Dasgupta,0
+Alex Pentland,2
+Jan Mendling,1
+Marlon Dumas,2
+Won Kim,3
+Richard Taylor,2
+Huan Liu,12
+Ben Shneiderman,1
+Didier Dubois;Henri Prade,1
+Ken Kennedy,20
+Michael Stonebraker,54
+Ben Shneiderman,186
+Ben Shneiderman,15
+Witold Pedrycz,0
+Leonard Kleinrock,12
+Terry Winograd,153
+H. Vincent Poor,2
+Olvi L. Mangasarian,11
+C.-C. Jay Kuo,0
+Hermann Ney,77
+Ken Kennedy,7
+Rajiv Gupta;Mary Lou Soffa,9
+Andrew S. Tanenbaum,16
+Ming Li,4
+Raghu Ramakrishnan,1
+Jeff Offutt,0
+Patrick Thiran,0
+Luc Devroye,1
+Max J. Egenhofer,123
+Thomas W. Reps,309
+Klara Nahrstedt,0
+Michel Raynal,11
+Michel Raynal,24
+John M. Carroll,1
+John M. Carroll,7
+Mary Beth Rosson;John M. Carroll,0
+Mary Beth Rosson;John M. Carroll,12
+Ross Anderson,112
+Didier Dubois;Henri Prade,0
+Srinivas Devadas;Kurt Keutzer,19
+Zhi-Hua Zhou,0
+Patrick Thiran,3
+Toby Walsh,3
+Wei Wang,4
+James Hendler,0
+John McCarthy,0
+Marlon Dumas,4
+Judea Pearl,0
+Bing Liu,0
+Ming Li,8
+Mark Pauly,80
+Michele Zorzi,74
+Michele Zorzi,56
+Chunming Qiao,9
+Luc Moreau,30
+Douglas C. Schmidt,7
+Joseph Y. Halpern,2
+Joseph Y. Halpern,21
+Ming Li,0
+Oded Goldreich,0
+Arvind Krishnamurthy,128
+Joseph Y. Halpern,28
+Benjamin Kuipers,902
+Stefano Soatto,47
+Jon Crowcroft,0
+Andrzej Pelc,5
+Joseph Y. Halpern,89
+Joseph Y. Halpern,46
+Joseph Y. Halpern,53
+Joseph Y. Halpern,47
+Tuomas Sandholm;Subhash Suri,74
+Sam Toueg,15
+Simon S. Lam,1
+Alex Pentland,0
+Joseph Y. Halpern,9
+B. S. Manjunath,7
+W. Bruce Croft,46
+Hsinchun Chen,35
+Michael P. Wellman,137
+Boi Faltings,0
+Erol Gelenbe,0
+Michael Unser,111
+Xing Xie,0
+Kevin Knight,61
+Pierre Baldi,11
+Noga Alon,67
+Noga Alon,13
+Noga Alon,2
+Noga Alon,22
+Noga Alon,11
+Oded Goldreich,0
+Michael L. Littman,1
+Moshe Y. Vardi,1
+Victor Vianu,0
+Victor Vianu,0
+Limsoon Wong,2
+Tobias Nipkow,2
+Tobias Nipkow,4
+Tobias Nipkow,2
+Tobias Nipkow,0
+Tobias Nipkow,0
+Tobias Nipkow,1
+Richard E. Ladner,0
+Judea Pearl,12
+Toby Walsh,1
+Judea Pearl,34
+David Eppstein,0
+Yishay Mansour;S. Muthukrishnan;Noam Nisan,2
+Yoshua Bengio,2
+Bernard Chazelle,3
+Philipp Koehn,7
+Bing Liu,38
+Jeff Offutt,0
+Zhi-Hua Zhou,0
+Didier Dubois;Henri Prade,9
+Didier Dubois;Henri Prade,18
+Luca Cardelli,3
+Dale Miller,6
+Oded Goldreich,0
+Kenneth Church,0
+David Garlan,19
+Michael Wooldridge,1
+Michael Wooldridge,0
+Oscar Nierstrasz,1
+John R. Smith,0
+Zhengyou Zhang,12
+Witold Pedrycz,3
+Krishnendu Chakrabarty,0
+Kalyanmoy Deb,3
+Gustavo Alonso,4
+Bing Liu,23
+Carlo Ghezzi,2
+Kevin Knight,0
+Sitharama S. Iyengar,0
+Alex Pentland,70
+Michael Cohen,1
+Monica S. Lam,0
+Charles Elkan,1
+Shlomo Shamai,0
+Jason Cong,0
+Wei Wang,0
+Gian Pietro Picco,0
+Karl Aberer,0
+Franco Zambonelli,0
+Sajal K. Das,0
+Anoop Gupta,51
+Douglas C. Schmidt,5
+Randy H. Katz,66
+Ronald L. Rivest,88
+Moni Naor,0
+Shun-ichi Amari,0
+Giovanni De Micheli,0
+Sharon Oviatt,1
+Eitan Altman,2
+Pat Hanrahan,2
+Amin Vahdat,0
+Wei Wang,2
+Michael Wooldridge,0
+David Eppstein,0
+Rajesh Gupta,0
+Gonzalo Navarro,5
+David Harel,0
+Dharma P. Agrawal,7
+Dennis Gannon,48
+Dharma P. Agrawal,3
+James Demmel,11
+Kishor S. Trivedi,0
+Tuomas Sandholm;Satinder Singh,1
+Shafi Goldwasser,3
+Kathleen McKeown,2
+Krishnendu Chakrabarty,0
+Chandrajit Bajaj,0
+Ben Shneiderman,0
+Matthias Felleisen,3
+Surajit Chaudhuri,3
+Jon Crowcroft,0
+Shashi Shekhar,1
+Jun Wang,0
+Krishnendu Chakrabarty,0
+Uzi Vishkin,1
+Raj Jain,0
+Matthew Hennessy,1
+Eitan Altman,28
+Eitan Altman,12
+Eitan Altman,16
+Didier Dubois,1
+Olvi L. Mangasarian,2
+Jun Wang,41
+Pierre Baldi,135
+Jun Wang,39
+Massoud Pedram,0
+Adam Wolisz,1
+Michael Kearns,1
+Dan Suciu,0
+Amos Fiat,0
+Moshe Y. Vardi,1
+Moshe Y. Vardi,1
+Victor Vianu,0
+Victor Vianu,0
+Erol Gelenbe,0
+Alfred V. Aho,3
+Lance Fortnow,1
+Takeo Kanade;Martial Hebert,2
+Franco Zambonelli,0
+David Eppstein,2
+David Eppstein,3
+David Eppstein,0
+Michael Mitzenmacher,1
+Yoshua Bengio,8
+Michael Mitzenmacher;George Varghese,2
+Judea Pearl,29
+Jeff Offutt,0
+John A. Stankovic,74
+Tao Jiang,2
+Oded Goldreich,0
+Zhengyou Zhang,0
+Thomas S. Huang,0
+David Notkin,0
+Wolfram Burgard,0
+John R. Smith,0
+Krishnendu Chakrabarty,0
+Krishnendu Chakrabarty,0
+Krishnendu Chakrabarty,0
+Srinivasan Keshav,0
+Elisa Bertino,1
+George Karypis;Vipin Kumar,58
+George Karypis;Vipin Kumar,592
+Yiyu Yao,3
+Michael Wooldridge,0
+Wolfram Burgard,0
+Terry Winograd,517
+Gerhard Weikum,0
+Hsinchun Chen,2
+Kim G. Larsen,0
+Mihalis Yannakakis,0
+Vladimir Lifschitz,0
+Divesh Srivastava,0
+Maurizio Lenzerini,5
+Michael Mitzenmacher;George Varghese,2
+Luca Benini,4
+Shankar Sastry,0
+Tieniu Tan,0
+Thomas A. Henzinger,1
+Chandrajit Bajaj,0
+H. T. Kung,0
+Lawrence C. Paulson,1
+Tobias Nipkow,1
+Philip Wadler,5
+Yann LeCun,2
+Thomas Eiter,0
+Carlo Zaniolo,1
+Soumen Chakrabarti,0
+S. Muthukrishnan,1
+Divyakant Agrawal,0
+Vladimir Lifschitz,2
+Hsinchun Chen,0
+Leslie Lamport,0
+Edmund M. Clarke,3
+Bart Preneel,0
+Kalyanmoy Deb,1
+Jiawei Han,0
+Serge Abiteboul,0
+Zhengyou Zhang,0
+Toby Walsh,1
+Craig Boutilier,2
+Michael Kearns,0
+Ming-Syan Chen,0
+Michael I. Jordan,0
+Wei-Ying Ma,0
+Raj Jain,144
+Luc Devroye,46
+Sankar K. Pal,63
+Hanan Samet,65
+John Heidemann,108
+Vern Paxson,594
+Luc Moreau,1366
+Charles E. Perkins,4
+Charles E. Perkins,4
+Charles E. Perkins,4
+Charles E. Perkins,4
+Charles E. Perkins,4
+Charles E. Perkins,4
+Charles E. Perkins,4
+Randy H. Katz,4
+Charles E. Perkins,4
+Michael Stonebraker,0
+Victor Vianu,0
+Jan Camenisch,1
+Samuel Madden,2
+Pietro Perona,8
+Judea Pearl,0
+Daniel Thalmann;Nadia Magnenat-Thalmann,9
+Witold Pedrycz,7
+Jeff Offutt,0
+Georg Gottlob,2
+Noga Alon,1
+Michael Wooldridge,0
+Pascal Van Hentenryck,2
+Rajeev Alur,0
+Jeff Offutt,0
+Matthias Felleisen,0
+Thomas A. Henzinger,1
+E. Allen Emerson,0
+Edmund M. Clarke,0
+John R. Smith,0
+Michael T. Goodrich,1
+Erol Gelenbe,0
+Sabrina De Capitani di Vimercati;Pierangela Samarati,50
+Markus Jakobsson;Ari Juels,9
+Elisa Bertino;Pierangela Samarati,3
+John R. Smith,0
+Horst Bischof,3
+Shih-Fu Chang,0
+Paul Syverson,0
+Paul Syverson,0
+Judea Pearl,0
+Moshe Y. Vardi,0
+Mario Gerla,0
+Raj Jain,41
+Imrich Chlamtac,202
+Shlomo Shamai,6
+Enrico Motta,0
+Andrzej Pelc,21
+Vineet Bafna,0
+Michael L. Littman,0
+Yoshua Bengio,9
+Pierre Baldi,3
+Bernard Chazelle,3
+Georg Gottlob,0
+Andrew McCallum,370
+Didier Dubois,0
+Ahmed Helmy,11
+Bernard Chazelle,3
+Jeff Offutt,0
+Steve Whittaker,0
+Amos Fiat;Adi Shamir,0
+Michael P. Wellman,0
+Christos H. Papadimitriou,0
+Oscar Nierstrasz,0
+Frank van Harmelen,0
+Frank van Harmelen,0
+Leslie Lamport,0
+Moshe Y. Vardi,0
+Judea Pearl,276
+Yoram Singer,0
+Joseph Y. Halpern;Judea Pearl,0
+Thomas Hofmann,0
+Satoshi Matsuoka,0
+Adnan Darwiche,202
+Michael Kearns;Yishay Mansour,0
+Sebastian Thrun,0
+Michael Kearns;Yishay Mansour,0
+Nir Friedman,0
+Nir Friedman;Daphne Koller,0
+Craig Boutilier,0
+Andrew Y. Ng;Michael I. Jordan,302
+Joseph Sifakis,0
+Edward A. Lee,0
+Shun-ichi Amari,0
+Takeo Kanade,0
+Manfred Reichert,0
+Sunghyun Choi,0
+Huan Liu,0
+Subhash Suri,0
+Paul Syverson,0
+Paul Syverson,0
+Shankar Sastry,0
+Amit Sahai,0
+John M. Carroll,0
+Ian Munro,0
+Jeffrey D. Ullman,0
+Zohar Manna,0
+Thomas A. Henzinger,0
+Gonzalo Navarro,0
+H. T. Kung,0
+Lance Fortnow,0
+Manfred Reichert,0
+Wei Wang,0
+Donald E. Knuth,0
+Donald E. Knuth,0
+Donald E. Knuth,0
+Donald E. Knuth,0
+Donald E. Knuth,0
+Donald E. Knuth,0
+Donald E. Knuth,0
+Donald E. Knuth,0
+Donald E. Knuth,0
+Donald E. Knuth,0
+Donald E. Knuth,0
+Frank van Harmelen,0
+K. J. Ray Liu,0
+Won Kim,0
+Moshe Y. Vardi,0
+Mikkel Thorup,0
+Victor Vianu,0
+Mikkel Thorup,0
+Judea Pearl,0
+Rina Dechter,0
+Judea Pearl;Rina Dechter,0
+Michael Kearns;Yishay Mansour;Andrew Y. Ng,129
+Nir Friedman;Joseph Y. Halpern,0
+Judea Pearl,0
+Craig Boutilier,0
+Didier Dubois;Henri Prade,0
+Nir Friedman;Joseph Y. Halpern,0
+Didier Dubois;Henri Prade,0
+Craig Boutilier,0
+Rina Dechter,0
+John R. Smith,0
+Donald E. Knuth,0
+Donald E. Knuth,0
+Michel Raynal,0
+Donald E. Knuth,0
+Fionn Murtagh,0
+Mark D. Hill,0
+Hari Balakrishnan,0
+Kurt Mehlhorn,0
+Jean Ponce,0
+Mark Crovella,0
+Yorick Wilks,0
+Gerard Salton,0
+Michael Unser,0
+John R. Smith;Shih-Fu Chang,0
+John R. Smith;Shih-Fu Chang,0
+Stefano Soatto;Pietro Perona,8
+Eero P. Simoncelli,0
+Ahmed Helmy,0
+Huan Liu,0
+Ahmed Helmy,0
+Jun Wang;Klara Nahrstedt,0
+Richard Taylor,0
+Vijaykrishnan Narayanan,0
+Richard E. Ladner,0
+David Eppstein,0
+Frank Pfenning,0
